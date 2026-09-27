@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Media Player's Local Media Session player and the Notification access grant it needs in Spanish, German and French. The German and French messages are maintainer additions.
+
 - Add wake word diagnostics, its activations and near misses lists and the tester's Play last 10 seconds button in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Weather Mood Show titles setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
