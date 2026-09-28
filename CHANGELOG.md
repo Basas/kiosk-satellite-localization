@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add native Voice Satellite in Spanish, German, French and Ukrainian: its settings and their Assistant, Conversation and Timers pages, the status and Home Assistant rows, custom wake word models, the migration wizard, the notices on the kiosk screen, why a custom model file is refused, the stock result panel, the overlay preview's sample answer and the Voice Satellite onboarding step. Add the Local Media Session player and Notification access grant in Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the Media Player's Local Media Session player and the Notification access grant it needs in Spanish, German and French. The German and French messages are maintainer additions.
 
 - Add wake word diagnostics, its activations and near misses lists and the tester's Play last 10 seconds button in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
