@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Voice Satellite migration check's note for a token it could not check in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Add native Voice Satellite's Reload needed status and its hint for reloading the kiosk's ESPHome entry in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Camera settings' Person Sensor page and its Enable person sensor setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
