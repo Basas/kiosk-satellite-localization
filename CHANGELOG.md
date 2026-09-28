@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Media Player's Expose ESPHome entities setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Remove the Voice Satellite skin thumbnail's sample answer, which the skin picker's screenshots replaced.
 
 - Add the Voice Satellite migration check's note for a token it could not check in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
