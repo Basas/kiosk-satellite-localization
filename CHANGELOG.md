@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Alarms page's Voice Alarms group in Spanish, German, French and Ukrainian: its heading and the row that opens the guide to setting alarms by voice. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the alarms' ease in and spoken phrase in Spanish, German, French and Ukrainian: the Ease in the volume and Speak when it rings switches, the Phrase row and its hint, and the Alarms page's Ease in over and Text to speech engine settings. The German, French and Ukrainian messages are maintainer additions.
 
 - Add Fleet Management's note for the Alarms category in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
