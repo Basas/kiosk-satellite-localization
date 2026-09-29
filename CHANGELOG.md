@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Fleet Management's note for the Alarms category in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the alarm list's message for an alarm that already exists in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Alarms page's Show in the kiosk menu setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
