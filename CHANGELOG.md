@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the adaptive brightness curve editor in Spanish, German, French and Ukrainian: its Brightness curve heading, the hint under the chart, the point dialog's title and fields, and its two range errors. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the Media Player's Expose ESPHome entities setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
 
 - Remove the Voice Satellite skin thumbnail's sample answer, which the skin picker's screenshots replaced.
