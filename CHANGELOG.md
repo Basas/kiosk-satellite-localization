@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Rename the Home Assistant Setup settings entry to Home Assistant in English, Spanish, German and French. The German and French changes are maintainer corrections that keep the contributors' original evidence and credit.
+
 - Add the adaptive brightness curve editor in Spanish, German, French and Ukrainian: its Brightness curve heading, the hint under the chart, the point dialog's title and fields, and its two range errors. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Media Player's Expose ESPHome entities setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
