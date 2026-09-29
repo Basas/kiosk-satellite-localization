@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the alarm list's message for an alarm that already exists in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the Alarms page's Show in the kiosk menu setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the kiosk's alarms in Spanish, German, French and Ukrainian: the alarm list, the time wheel and details page, the tone picker, the ringing and sunrise screens, the Next alarm screensaver widget, the Alarms settings page and its defaults, the Let alarms take over switches, the Alarms allowed action and the remote admin's Alarms page. The German, French and Ukrainian messages are maintainer additions.
