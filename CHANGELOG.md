@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add realtime conversations and the docked overlay in Spanish, German, French and Ukrainian: the Realtime page's provider settings, conversation and tools rows, its connection messages, the assistant option for each provider, and the Overlay mode setting with its Full screen and Docked choices and the Listening line. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the text to speech Language and Voice settings for announcements and alarms in Spanish, German, French and Ukrainian: their titles and hints, the Text to Speech heading over them, the Default choice and the message for an engine with no voices. The German, French and Ukrainian messages are maintainer additions. Update the announcement Chime sound hint, which now says the chime plays as loud as the announcement, in Spanish, German, French and Ukrainian. The German, French and Ukrainian changes are maintainer corrections that keep the contributors' original evidence and credit.
 
 - Add the Alarms page's Voice Alarms group in Spanish, German, French and Ukrainian: its heading and the row that opens the guide to setting alarms by voice. The German, French and Ukrainian messages are maintainer additions.
