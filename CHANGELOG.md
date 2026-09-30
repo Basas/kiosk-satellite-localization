@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Realtime page's echo cancellation warning in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the Realtime page's Providers group in Spanish, German, French and Ukrainian: its heading, the Configure and Save & Validate buttons and the Not configured, Not validated and Connection validated statuses. Remove the unused tool count message. The German, French and Ukrainian messages are maintainer additions.
 
 - Add realtime conversations and the docked overlay in Spanish, German, French and Ukrainian: the Realtime page's provider settings, conversation and tools rows, its connection messages, the assistant option for each provider, and the Overlay mode setting with its Full screen and Docked choices and the Listening line. The German, French and Ukrainian messages are maintainer additions.
