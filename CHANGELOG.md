@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the text to speech Language and Voice settings for announcements and alarms in Spanish, German, French and Ukrainian: their titles and hints, the Text to Speech heading over them, the Default choice and the message for an engine with no voices. The German, French and Ukrainian messages are maintainer additions. Update the announcement Chime sound hint, which now says the chime plays as loud as the announcement, in Spanish, German, French and Ukrainian. The German, French and Ukrainian changes are maintainer corrections that keep the contributors' original evidence and credit.
+
 - Add the Alarms page's Voice Alarms group in Spanish, German, French and Ukrainian: its heading and the row that opens the guide to setting alarms by voice. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the alarms' ease in and spoken phrase in Spanish, German, French and Ukrainian: the Ease in the volume and Speak when it rings switches, the Phrase row and its hint, and the Alarms page's Ease in over and Text to speech engine settings. The German, French and Ukrainian messages are maintainer additions.
