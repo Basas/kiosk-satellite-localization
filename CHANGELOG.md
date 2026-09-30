@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Software echo cancellation setting in Spanish, German, French and Ukrainian: its title and hint in Microphone settings. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the Realtime page's echo cancellation warning in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Realtime page's Providers group in Spanish, German, French and Ukrainian: its heading, the Configure and Save & Validate buttons and the Not configured, Not validated and Connection validated statuses. Remove the unused tool count message. The German, French and Ukrainian messages are maintainer additions.
