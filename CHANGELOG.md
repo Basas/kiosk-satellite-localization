@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword the Echo cancellation hint, drop the Speaker hint's sentence about the platform echo canceller and retire the Realtime page's echo cancellation warning, in Spanish, German, French and Ukrainian. The German, French and Ukrainian Echo cancellation hints are maintainer additions, and the Speaker hint changes there are maintainer corrections that keep the contributors' original evidence and credit.
+
 - Add the dashboard notice for MediaTek DuraSpeed blocking the WebView renderer, its title and help, in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
 
 - Retire the Microphone settings' Capture mode with its three modes, the platform Echo cancellation, Automatic gain control and Noise suppression switches, and the Audio Volume page's Full assistant volume range, which the app no longer has. Rename Software echo cancellation to Echo cancellation and reword its hint, and reword the Microphone settings entry hint, in Spanish, German, French and Ukrainian. The German, French and Ukrainian echo cancellation messages are maintainer additions, and the entry hint changes there are maintainer corrections that keep the contributors' original evidence and credit.
