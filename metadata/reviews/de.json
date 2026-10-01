@@ -14016,14 +14016,14 @@
     "provenance": "e69b7988f2fca16116639e0fd6a63d4430c75f4c4c7ad86d875642d5cdf89b58"
   },
   "screenAudioMicrophoneHint": {
-    "source": "596dd2116c278e8b510575a7a85659079d0e57b70bd9122972fd67d72618405a",
-    "translation": "b236cfa0d1ccfa34ba0d7c525f09d2d20dffe04cddce436b91bd6d97a828322a",
+    "source": "624599a4bc1508100c2f5866a72415acc1ffd6cc9622e2c2a31c8bd41f694e2d",
+    "translation": "1ca1b98cff07f63b0b15ebd2a0b81253d9fbbcfd381659a617cd9b28a66d5cc7",
     "author": "Dee-san",
     "provenance": "e69b7988f2fca16116639e0fd6a63d4430c75f4c4c7ad86d875642d5cdf89b58",
     "maintainerCorrection": {
       "reviewer": "Xavier Larrea",
       "originalTranslation": "79066759f82f60857504311dd8383814aeae78582af5d46cc7b2fde5d95cd201",
-      "reason": "The page lost its capture mode and gained the echo cancellation switch; the hint names what is there now."
+      "reason": "The page has a noise suppression switch again; the hint names it."
     }
   },
   "screenAudioMicrophoneNote": {

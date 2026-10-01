@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Noise suppression setting back, now WebRTC's suppressor, with its title and hint, and name it in the Microphone settings entry hint, in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions, and the entry hint changes there are maintainer corrections that keep the contributors' original evidence and credit.
+
 - Reword the Echo cancellation hint, drop the Speaker hint's sentence about the platform echo canceller and retire the Realtime page's echo cancellation warning, in Spanish, German, French and Ukrainian. The German, French and Ukrainian Echo cancellation hints are maintainer additions, and the Speaker hint changes there are maintainer corrections that keep the contributors' original evidence and credit.
 
 - Add the dashboard notice for MediaTek DuraSpeed blocking the WebView renderer, its title and help, in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
