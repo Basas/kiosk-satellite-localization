@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Retire the Microphone settings' Capture mode with its three modes, the platform Echo cancellation, Automatic gain control and Noise suppression switches, and the Audio Volume page's Full assistant volume range, which the app no longer has. Rename Software echo cancellation to Echo cancellation and reword its hint, and reword the Microphone settings entry hint, in Spanish, German, French and Ukrainian. The German, French and Ukrainian echo cancellation messages are maintainer additions, and the entry hint changes there are maintainer corrections that keep the contributors' original evidence and credit.
+
 - Add the Software echo cancellation setting in Spanish, German, French and Ukrainian: its title and hint in Microphone settings. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Realtime page's echo cancellation warning in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
