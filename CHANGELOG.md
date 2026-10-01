@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Clock screensaver's Night mode switch that hides the widgets and the At a Glance row, in Spanish, German, French and Ukrainian: its title and hint. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the Vertical mode setting for the Clock screensaver and the Weather Mood clock in Spanish, German, French and Ukrainian: its title and hint. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Noise suppression setting back, now WebRTC's suppressor, with its title and hint, and name it in the Microphone settings entry hint, in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions, and the entry hint changes there are maintainer corrections that keep the contributors' original evidence and credit.
