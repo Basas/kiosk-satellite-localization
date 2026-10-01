@@ -13980,10 +13980,15 @@
     "provenance": "e69b7988f2fca16116639e0fd6a63d4430c75f4c4c7ad86d875642d5cdf89b58"
   },
   "settingMicNoiseSuppressionDescription": {
-    "source": "0c21fbf558570e48baf728ce8d9e816795641a008458172af7387e347821ec5d",
-    "translation": "db23c08eb15155da1ba7d59b04c81482afce49774c6f9540dff49c5aee4e9d6d",
+    "source": "d47f99407d0dd6ab0412d0df160a435d782fe9f27df08adefb78e949fa7abdc1",
+    "translation": "e412fde8a689f1a0232146b7d1ac8a9798692a9fd784f27930a883439b12e9c1",
     "author": "Dee-san",
-    "provenance": "e69b7988f2fca16116639e0fd6a63d4430c75f4c4c7ad86d875642d5cdf89b58"
+    "provenance": "e69b7988f2fca16116639e0fd6a63d4430c75f4c4c7ad86d875642d5cdf89b58",
+    "maintainerCorrection": {
+      "reviewer": "Xavier Larrea",
+      "originalTranslation": "db23c08eb15155da1ba7d59b04c81482afce49774c6f9540dff49c5aee4e9d6d",
+      "reason": "Noise suppression is WebRTC's now and works on the raw microphone; the hint says what it is for."
+    }
   },
   "settingMicGainDbTitle": {
     "source": "a85416202af42424cb92da079c1802b11b755ad9c97a080fb9833f835bf5be3b",
