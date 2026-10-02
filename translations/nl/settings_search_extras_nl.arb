@@ -1,0 +1,20 @@
+{
+  "@@locale": "nl",
+  "searchInstallApk": "Upload een Kiosk Satellite APK via de beheer op afstand en installeer het.",
+  "searchPermissionsHelp": "Elke Android gunt de app kan gebruiken, met zijn status: microfoon, camera, meldingen, onbeperkte batterij, display over andere apps, wijzigen systeeminstellingen, systeem UI bewaker, apparaatbeheerder, alle bestanden toegang, gebruik toegang en locatie.",
+  "searchServiceStatus": "Servicestatus",
+  "searchServiceHelp": "Of de Kiosk Satellite Service draait en wat het in leven houdt.",
+  "searchServicePermissions": "Het verleent de Kiosk Satellite Service behoeften.",
+  "searchIntercomKiosks": "Bekende kiosks en of ze allemaal kunnen bellen.",
+  "searchHaValidate": "Controleer de URL en token op uw Home Assistant.",
+  "searchHaProxy": "Serveer een gewone-http Home Assistant via een beveiligde proxy in de app.",
+  "searchHaDashboard": "Kies het dashboard en bekijk de kiosk shows.",
+  "searchKioskPermissions": "Het verleent de kiosk en lockdown beveiligingen leun op.",
+  "searchHomeStatus": "Startschermstatus",
+  "searchHomeHelp": "Of Kiosk Satellite het startscherm van het apparaat is en waar het standaard ingesteld moet worden.",
+  "searchMasterVolume": "Het apparaat volume de media en assistent faders schaal onder.",
+  "searchSmallClock": "Een klok widget in een hoek van de schermbeveiliging.",
+  "searchBattery": "Een batterij widget in een hoek van de schermbeveiliging: de eigen lading van dit apparaat.",
+  "searchPersonPermission": "De Log access geeft de persoonssensor behoeften van het apparaat.",
+  "searchSonosSpeakers": "De Sonos luidsprekers die dit apparaat kent, een zoektocht naar het netwerk en een adresveld."
+}
