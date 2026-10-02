@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Microphone settings' Capture mode back with two modes, Raw microphone as the default and Voice communication, in Spanish, German, French, Ukrainian and Dutch: its title, its hint and both mode names. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Record the complete Dutch translation by rononline from PR #8, with 3,725 reviewed messages. Apply 26 maintainer wording corrections while preserving contributor evidence and credit.
 
 - Add the Voice Satellite Wake Word page's Wake Word Arbitration group in Spanish, German, French and Ukrainian: its heading and the titles and hints of its switch and its window slider. The German, French and Ukrainian messages are maintainer additions.
