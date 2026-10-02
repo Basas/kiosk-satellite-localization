@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Voice Satellite Realtime page's Session history row in Spanish, German, French, Ukrainian and Dutch: its title, its hint, its Show button and the empty dialog's text. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Add the Voice Satellite Realtime page's Session duration slider in Spanish, German, French, Ukrainian and Dutch: its title and its hint. The German, French, Ukrainian and Dutch messages are maintainer additions.
 
 - Add the Voice Satellite Timers page's Show finished timer pills switch in Spanish, German, French, Ukrainian and Dutch: its title and its hint. The German, French, Ukrainian and Dutch messages are maintainer additions.
