@@ -20,7 +20,7 @@
   "settingScreensaverNotificationBrightnessDescription": "Verhoog de helderheid van de schermbeveiliging zolang er een melding op het scherm staat.",
   "settingScreensaverScreenOffMinutesTitle": "Scherm uitschakelen na",
   "settingScreensaverScreenOffMinutesDescription": "Schakelt het scherm uit zodra de schermbeveiliging gedurende de ingestelde tijd actief is geweest. Stel 0 in om het scherm onbeperkt aan te laten. Hiervoor is toestemming voor apparaatbeheer vereist.",
-  "settingScreensaverScreenOffWakeToScreensaverTitle": "Wekken naar schermbeveiliging",
+  "settingScreensaverScreenOffWakeToScreensaverTitle": "Schermbeveiliging tonen bij wekken",
   "settingScreensaverScreenOffWakeToScreensaverDescription": "Als na het uitschakelen van het scherm beweging, een gezicht of een persoon wordt gedetecteerd, of de nabijheidssensor wordt geactiveerd, verschijnt de schermbeveiliging opnieuw in plaats van het dashboard. De afteltijd voor 'Scherm uitschakelen na' begint opnieuw. Aanraken opent nog steeds het dashboard.",
   "screensaverModeDim": "Dimmen",
   "screensaverModeBlack": "Zwart",

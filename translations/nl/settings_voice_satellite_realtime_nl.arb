@@ -8,7 +8,7 @@
   "settingVoiceRealtimeEndpointTitle": "Eindpunt",
   "settingVoiceRealtimeEndpointDescription": "Laat leeg om de provider te gebruiken. Gebruik een relay op je netwerk om deze kiosk offline te houden.",
   "settingVoiceRealtimeApiKeyTitle": "API-sleutel",
-  "settingVoiceRealtimeApiKeyDescription": "Laat leeg wanneer een relais het toevoegt.",
+  "settingVoiceRealtimeApiKeyDescription": "Laat leeg wanneer een relay de sleutel toevoegt.",
   "settingVoiceRealtimeModelTitle": "Model",
   "settingVoiceRealtimeVoiceTitle": "Stem",
   "settingVoiceRealtimeInstructionsTitle": "Instructies",

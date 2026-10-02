@@ -18,7 +18,7 @@
   "haUnreachable": "Kon Home Assistant niet bereiken: {error}",
   "haProxy": "Beveiligde contextproxy",
   "haProxyHelp": "Leidt een Home Assistant-verbinding via http door een proxy in de app, zodat de browser de microfoon en andere functies die https vereisen beschikbaar maakt. Alleen voor http-URL's.",
-  "haProxyRemoteHelp": "Routeert een gewone http Home Assistant via een proxy in de app zodat de browser de microfoon en andere https-alleen functies ontgrendelt. Alleen beschikbaar voor http-URL's.",
+  "haProxyRemoteHelp": "Leidt een Home Assistant op gewone http via een proxy in de app, zodat de browser de microfoon en andere functies die https vereisen vrijgeeft. Alleen beschikbaar voor http-URL's.",
   "haProxyNotice": "Deze Home Assistant-URL gebruikt gewone http, en browsers blokkeren de microfoon en andere functies op http-pagina's. Kiosk Satellite leidt het dashboard via een beveiligde proxy in de app zodat alles werkt. Mogelijk moet je je opnieuw aanmelden bij Home Assistant.",
   "haProxyRemoteNotice": "Deze Home Assistant-URL gebruikt gewone http, en browsers blokkeren de microfoon en andere functies op http-pagina's. Kiosk Satellite leidt het dashboard via een beveiligde proxy in de app zodat alles werkt. Mogelijk moet je je op de tablet opnieuw aanmelden bij Home Assistant.",
   "haDashboard": "Dashboard",

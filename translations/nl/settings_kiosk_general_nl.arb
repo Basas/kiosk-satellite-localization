@@ -21,7 +21,7 @@
   "settingKioskDisablePullRefreshTitle": "Trekken om te vernieuwen uitschakelen",
   "settingKioskDisablePullRefreshDescription": "Negeer het gebaar om te vernieuwen zolang de kioskmodus actief is.",
   "settingKioskDisableGesturesTitle": "Gebaren uitschakelen",
-  "settingKioskDisableGesturesDescription": "Negeer de gebaren van de Gestures-pagina terwijl de kioskmodus aanstaat.",
+  "settingKioskDisableGesturesDescription": "Negeer de gebaren van de pagina Gebaren zolang de kioskmodus aanstaat.",
   "kioskGestureTaps5": "5 snelle tikken",
   "kioskGestureTaps7": "7 snelle tikken",
   "kioskGestureTaps5Hold": "5 snelle tikken, laatste vasthouden",

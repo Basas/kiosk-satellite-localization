@@ -49,7 +49,7 @@
   "intercomDashboardMic": "Het dashboard gebruikt de microfoon. Je kunt alleen luisteren.",
   "intercomMicDenied": "Geen microfoontoestemming. Je kunt alleen luisteren.",
   "intercomHoldTalk": "Ingedrukt houden om te praten",
-  "intercomPlaying": "Afspelen",
+  "intercomPlaying": "Wordt afgespeeld",
   "intercomAKiosk": "een kiosk",
   "intercomCallingName": "{name} bellen",
   "intercomNameCalling": "{name} belt",

@@ -31,7 +31,7 @@
   "overviewWakeWaiting": "Wachten op Voice Satellite. De engine en wekwoorden worden geconfigureerd door de integratie zodra dit apparaat zijn dashboard opent.",
   "overviewWakeDisabled": "Wekwoorddetectie staat uit. Schakel deze in om de modellen van Voice Satellite te gebruiken.",
   "overviewMicBlocked": "Microfoon geblokkeerd. Android zal er niet opnieuw om vragen. Sta de toestemming toe via de appinstellingen en probeer het opnieuw.",
-  "overviewMicDeclined": "Microfoontoegang geweigerd. Wekwoorddetectie heeft deze nodig. Probeer het opnieuw om opnieuw om toestemming te worden gevraagd.",
+  "overviewMicDeclined": "Microfoontoegang geweigerd. Wekwoorddetectie heeft deze nodig. Probeer het opnieuw om de toestemming nogmaals te laten vragen.",
   "overviewMicLost": "De microfoon werkt niet meer. Probeer het opnieuw of laad de pagina opnieuw.",
   "overviewModelsUnavailable": "Kon de modellen niet downloaden van Home Assistant. Probeer het opnieuw zodra het bereikbaar is.",
   "overviewCrashed": "De detector crashte herhaaldelijk op dit apparaat en is daarom gestopt. Voice Satellite luistert nu via de browser. Probeer het opnieuw of start de app opnieuw.",

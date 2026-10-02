@@ -12,7 +12,7 @@
   "settingSendspinFullscreenDoubleTapDescription": "Dubbeltik op een willekeurige plek in Speelt nu om de weergave te sluiten. De sluitknop wordt dan niet getoond. Wordt genegeerd als Speelt nu naast een schermbeveiliging staat.",
   "settingSendspinFullscreenOnPlayTitle": "Speelt nu openen wanneer muziek begint",
   "settingSendspinFullscreenOnPlayDescription": "Open Speelt nu zodra het afspelen begint, zonder op de time-out van de schermbeveiliging te wachten.",
-  "settingSendspinFullscreenMotionTitle": "\"Speelt nu\" sluiten bij beweging",
+  "settingSendspinFullscreenMotionTitle": "Speelt nu sluiten bij beweging",
   "settingSendspinFullscreenMotionDescription": "Laat beweging Speelt nu sluiten zoals bij een gewone schermbeveiliging. Als dit uitstaat, sluit alleen een aanraking de weergave en onderbreekt voorbijlopen de muziekweergave niet. Wordt genegeerd als Speelt nu naast een schermbeveiliging staat.",
   "settingSendspinFullscreenShortcutTitle": "Toon in het kioskmenu",
   "settingSendspinFullscreenShortcutDescription": "Voeg een menuoptie toe waarmee Speelt nu wordt geopend. WAARSCHUWING: als er niets wordt afgespeeld en de wachtrij leeg is, verschijnt de weergave niet.",

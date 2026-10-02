@@ -5,7 +5,7 @@
   "settingVoiceShowAnswerTitle": "Antwoord tonen",
   "settingVoiceShowAnswerDescription": "Toon het antwoord terwijl het wordt uitgesproken.",
   "settingVoiceShowToolsTitle": "Toolgebruik tonen",
-  "settingVoiceShowToolsDescription": "Een regel voor elke actie die de assistent neemt.",
+  "settingVoiceShowToolsDescription": "Een regel voor elke actie die de assistent uitvoert.",
   "settingVoiceHideSentimentTagsTitle": "Sentimenttags verbergen",
   "settingVoiceHideSentimentTagsDescription": "Verberg labels zoals [happy] die sommige assistenten toevoegen.",
   "settingVoiceAnswerLingerTitle": "Het antwoord op het scherm houden",

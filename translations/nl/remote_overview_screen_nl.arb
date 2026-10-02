@@ -5,7 +5,7 @@
   "overviewLive": "Live",
   "overviewFullSize": "Volledige grootte",
   "overviewLiveInterval": "Live, elke 5 seconden",
-  "overviewTaken": "{age} geleden vastgelegd",
+  "overviewTaken": "Vastgelegd: {age}",
   "overviewCameraViewNamed": "Cameraweergave: {name}",
   "overviewCameraView": "Cameraweergave",
   "overviewScreenOffState": "Scherm is uit"

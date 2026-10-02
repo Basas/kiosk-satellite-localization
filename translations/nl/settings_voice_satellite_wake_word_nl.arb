@@ -88,6 +88,6 @@
   "voiceModelNotTflite": "Geen TFLite model.",
   "voiceModelNotOnnx": "Geen ONNX model.",
   "voiceModelNotOww": "Geen openWakeWord-model.",
-  "voiceModelOwwWindow": "Geen openWakeWord model: het neemt niet het 16 x 96 inbedvenster.",
+  "voiceModelOwwWindow": "Geen openWakeWord-model: het gebruikt geen embeddingvenster van 16 x 96.",
   "voiceModelNoLoad": "Het model laadt niet: {error}"
 }

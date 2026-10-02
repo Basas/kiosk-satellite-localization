@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Record the complete Dutch translation by rononline from PR #8, with 3,725 reviewed messages. Apply 26 maintainer wording corrections while preserving contributor evidence and credit.
+
 - Add the Voice Satellite Wake Word page's Wake Word Arbitration group in Spanish, German, French and Ukrainian: its heading and the titles and hints of its switch and its window slider. The German, French and Ukrainian messages are maintainer additions.
 
 - Record the Ukrainian Home Assistant settings entry against its renamed English source. The Ukrainian contribution already read Home Assistant without Setup, so the wording and the contributor's credit are unchanged.
