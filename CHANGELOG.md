@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Camera settings' External label for a USB or monitor webcam that is the device's only camera, in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the Clock screensaver's Night mode switch that hides the widgets and the At a Glance row, in Spanish, German, French and Ukrainian: its title and hint. The German, French and Ukrainian messages are maintainer additions.
 
 - Add the Vertical mode setting for the Clock screensaver and the Weather Mood clock in Spanish, German, French and Ukrainian: its title and hint. The German, French and Ukrainian messages are maintainer additions.
