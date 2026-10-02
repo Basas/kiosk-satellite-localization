@@ -85,26 +85,6 @@
     "context": "Settings > Voice Satellite > Realtime",
     "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
   },
-  "voiceRealtimeHistory": "Session history",
-  "@voiceRealtimeHistory": {
-    "context": "Settings > Voice Satellite > Realtime",
-    "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
-  },
-  "voiceRealtimeHistoryHelp": "What the next conversation gets, exactly as it goes to the provider.",
-  "@voiceRealtimeHistoryHelp": {
-    "context": "Settings > Voice Satellite > Realtime",
-    "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
-  },
-  "voiceRealtimeHistoryShow": "Show",
-  "@voiceRealtimeHistoryShow": {
-    "context": "Settings > Voice Satellite > Realtime",
-    "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
-  },
-  "voiceRealtimeHistoryEmpty": "Nothing yet. The next conversation starts fresh.",
-  "@voiceRealtimeHistoryEmpty": {
-    "context": "Settings > Voice Satellite > Realtime",
-    "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
-  },
   "settingVoiceRealtimeTalkOverTitle": "Talk over answers",
   "@settingVoiceRealtimeTalkOverTitle": {
     "context": "Settings > Voice Satellite > Realtime",
