@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Voice Satellite Wake Word page's Wake Word Arbitration group in Spanish, German, French and Ukrainian: its heading and the titles and hints of its switch and its window slider. The German, French and Ukrainian messages are maintainer additions.
+
 - Record the Ukrainian Home Assistant settings entry against its renamed English source. The Ukrainian contribution already read Home Assistant without Setup, so the wording and the contributor's credit are unchanged.
 
 - Add the Camera settings' External label for a USB or monitor webcam that is the device's only camera, in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
