@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword Fleet Management's Add a kiosk hint, which now says the follower accepts the invitation on its screen or in its remote admin, in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions. Remove the remote admin's Confirm on the kiosk hints from the Fleet Management page and the Overview, and the Overview's Open button, from every language. The app no longer shows them.
+
 - Add the Bluetooth Proxy page's Keep scanning with the screen off switch in Spanish, German, French, Ukrainian and Dutch: its title and its hint. The German, French, Ukrainian and Dutch messages are maintainer additions.
 
 - Remove the Voice Satellite Realtime page's Session history row from every language. The app no longer shows it.
