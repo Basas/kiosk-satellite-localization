@@ -22553,5 +22553,17 @@
     "translation": "c247cf8c33cb5838da89f25e196b0bc4336985689403328b4f2aca54de86e215",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "settingVoiceRealtimeHistoryHoursDescription": {
+    "source": "f7ca7293a55f6cfe3f9e0d30a71daeeb7775a8c5810144b3f7a965be823c9f76",
+    "translation": "10f921f74eedca1b0c2276a442c3eaf99eaec174b4c762a0ec7909a1da1b7d02",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingVoiceRealtimeHistoryHoursTitle": {
+    "source": "d27a39b8d25b6c8bbe051d58f9077c9fb34c76e355f0785dc9d758687cdaaba7",
+    "translation": "71d6520f74d8505066cce665f158900636bd243df9a8cf6b95f9fefb9cbf905e",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }
