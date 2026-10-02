@@ -15,7 +15,7 @@
   "settingVoiceFollowupDelayDescription": "De pauze voordat er naar je antwoord op een vervolgvraag wordt geluisterd.",
   "settingVoiceFollowupChimeTitle": "Wekgeluid voor een vervolgvraag",
   "settingVoiceFollowupChimeDescription": "Speel het wekgeluid af wanneer er opnieuw wordt geluisterd.",
-  "settingVoiceTtsOutputTitle": "Geluiden afspelen",
+  "settingVoiceTtsOutputTitle": "Geluiden afspelen op",
   "settingVoiceTtsOutputDescription": "Wekgeluiden, antwoorden, aankondigingen en timerwaarschuwingen worden via deze luidspreker afgespeeld.",
   "settingVoiceTtsOutputModeTitle": "Spelen als",
   "settingVoiceTtsOutputModeDescription": "Bij een aankondiging kan de luidspreker de muziek pauzeren en daarna hervatten. Bij normaal afspelen start de muziek achteraf opnieuw. Gebruik dit voor luidsprekers die aankondigingen niet ondersteunen.",

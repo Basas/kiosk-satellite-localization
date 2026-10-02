@@ -41,7 +41,7 @@
   "screensaverUnavailablePlugin": "Schermbeveiliging van plug-in niet beschikbaar",
   "screensaverScreenOffWarning": "Zodra het scherm echt wordt uitgeschakeld, neemt het energiebeheer van de tablet het over. Veel Android-modellen gedragen zich dan onvoorspelbaar: wifi kan in de slaapstand gaan of wegvallen, Home Assistant-entiteiten kunnen onbeschikbaar worden, de cameratoegang kan worden ingetrokken en sommige modellen sluiten achtergrondapps helemaal af. Dit verschilt per fabrikant.\n\nEen betrouwbare optie is de zwarte schermbeveiliging met deze instelling op 0. Het scherm ziet er dan net zo donker uit, terwijl de app de volledige controle behoudt.",
   "settingScreensaverScreenOffBlackTitle": "Een zwart scherm gebruiken",
-  "settingScreensaverScreenOffBlackDescription": "Toon een zwart scherm met nul helderheid in plaats van het scherm uit te schakelen. Widgets en Nu afspelen worden verborgen. Hiervoor is geen toestemming voor apparaatbeheer nodig.",
+  "settingScreensaverScreenOffBlackDescription": "Toon een zwart scherm met nul helderheid in plaats van het scherm uit te schakelen. Widgets en Speelt nu worden verborgen. Hiervoor is geen toestemming voor apparaatbeheer nodig.",
   "screensaverModeDashboard": "Home Assistant-dashboard",
   "settingScreensaverDashboardViewTitle": "Dashboardweergave",
   "settingScreensaverDashboardViewDescription": "De Home Assistant-dashboardweergave die de schermbeveiliging toont.",

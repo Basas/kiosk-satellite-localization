@@ -1,6 +1,6 @@
 {
   "@@locale": "nl",
-  "deviceRequiredPermissions": "Vereiste systeemrechten",
+  "deviceRequiredPermissions": "Vereiste systeemtoestemmingen",
   "devicePermissionIntro": "Toestemmingen worden op dit apparaat verleend. Elke knop opent daarom hier een Android-dialoogvenster of instellingenscherm. Sommige merken voegen een eigen beheerfunctie voor batterijgebruik of automatisch opstarten toe. Android kan de status daarvan niet melden.",
   "devicePermissionIntroRemote": "Toestemmingen worden op het apparaat verleend. Elke knop opent daarom daar een Android-dialoogvenster of instellingenscherm. Sommige merken voegen een eigen beheerfunctie voor batterijgebruik of automatisch opstarten toe. Android kan de status daarvan niet melden.",
   "deviceMicrophone": "Microfoon",
@@ -57,7 +57,7 @@
   "deviceBatteryAdb": "Dit apparaat heeft hiervoor geen instellingenscherm. Verleen de toestemming via adb: adb shell dumpsys deviceidle whitelist +me.jxl.kiosk_satellite",
   "deviceOverlayAdb": "Dit apparaat heeft hiervoor geen instellingenscherm. Verleen de toestemming via adb: adb shell appops set me.jxl.kiosk_satellite SYSTEM_ALERT_WINDOW allow",
   "deviceNotificationAccess": "Meldingentoegang",
-  "deviceNotificationAccessHeld": "Nu afspelen kan de apps volgen die media afspelen op dit apparaat.",
-  "deviceNotificationAccessMissing": "Zonder deze toestemming toont Android geen mediasessies. Nu afspelen kan de apps die media afspelen op dit apparaat dan niet volgen.",
-  "deviceNotificationAccessIdle": "Hiermee kan Nu afspelen de apps volgen die media afspelen op dit apparaat."
+  "deviceNotificationAccessHeld": "Speelt nu kan de apps volgen die media afspelen op dit apparaat.",
+  "deviceNotificationAccessMissing": "Zonder deze toestemming toont Android geen mediasessies. Speelt nu kan de apps die media afspelen op dit apparaat dan niet volgen.",
+  "deviceNotificationAccessIdle": "Hiermee kan Speelt nu de apps volgen die media afspelen op dit apparaat."
 }

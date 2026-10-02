@@ -1,6 +1,6 @@
 {
   "@@locale": "nl",
-  "gestureHaServiceKind": "Home Assistant-dienst",
+  "gestureHaServiceKind": "Home Assistant-service",
   "gestureHaScriptKind": "Home Assistant-script",
   "gestureHaAutomationKind": "Home Assistant-automatisering",
   "gestureHaEventKind": "Home Assistant-gebeurtenis",

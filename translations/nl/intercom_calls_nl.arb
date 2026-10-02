@@ -26,7 +26,7 @@
   "intercomAnnouncingOne": "Omroepen naar 1 kiosk",
   "intercomAnnouncingMany": "Omroepen naar {count} kiosken",
   "intercomIsCalling": "belt",
-  "intercomIsAnnouncing": "roept om",
+  "intercomIsAnnouncing": "doet een aankondiging",
   "intercomCalling": "Bellen…",
   "intercomAnswersIn": "Neemt op over {seconds} s",
   "intercomRinging": "Gaat over",

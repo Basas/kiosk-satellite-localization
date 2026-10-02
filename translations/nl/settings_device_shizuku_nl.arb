@@ -11,7 +11,7 @@
   "deviceShizukuDenied": "Kiosk Satellite toestaan in de Shizuku-app.",
   "deviceShizukuUnsupported": "Shizuku 13 of hoger is vereist.",
   "deviceShizukuStart": "Start Shizuku op dit apparaat.",
-  "deviceShizukuTest": "Testverbinding",
+  "deviceShizukuTest": "Verbinding testen",
   "deviceShizukuTestHelp": "Lees de procesidentiteit zonder het apparaat te veranderen.",
   "deviceShizukuTestTitle": "Verbindingstest",
   "deviceShizukuTestFailed": "Shizuku kon de verbindingstest niet voltooien.",

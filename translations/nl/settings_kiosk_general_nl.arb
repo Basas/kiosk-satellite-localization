@@ -13,7 +13,7 @@
   "settingKioskDisableVolumeTitle": "Volumeknoppen uitschakelen",
   "settingKioskDisableVolumeDescription": "Negeer de fysieke volumeknoppen.",
   "settingKioskDisablePowerTitle": "Aan-uitknop uitschakelen",
-  "settingKioskDisablePowerDescription": "Android kan de voedingsknop niet blokkeren, dus het scherm wordt weer ingeschakeld als het ingedrukt wordt. Het scherm op afstand uitschakelen werkt nog steeds.",
+  "settingKioskDisablePowerDescription": "Android kan de aan-uitknop niet blokkeren, dus het scherm wordt direct weer ingeschakeld wanneer je die indrukt. Het scherm op afstand uitschakelen werkt nog wel.",
   "settingKioskDisableHomeTitle": "Thuisknop uitschakelen",
   "settingKioskDisableHomeDescription": "Zet de app vast met Android-schermvastzetting, waardoor de startknop en recente apps worden geblokkeerd. Android vraagt de eerste keer om bevestiging.",
   "settingKioskDisableContextMenusTitle": "Contextmenu's uitschakelen",

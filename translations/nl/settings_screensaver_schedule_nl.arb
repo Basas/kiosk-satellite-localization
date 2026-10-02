@@ -27,8 +27,8 @@
   "screensaverPerson": "Sluiten bij persoonsdetectie",
   "screensaverWidgets": "Widgets",
   "screensaverGlance": "In één oogopslag",
-  "screensaverNowPlaying": "Nu afspelen naast de schermbeveiliging tonen",
-  "screensaverNowPlayingHelp": "Standaard wordt de algemene indeling gevolgd. Aan gebruikt een gedeelde indeling wanneer Nu afspelen is ingeschakeld. Uit verbergt Nu afspelen tijdens deze uren.",
+  "screensaverNowPlaying": "Speelt nu naast de schermbeveiliging tonen",
+  "screensaverNowPlayingHelp": "Standaard volgt de algemene indeling. Aan gebruikt een gedeelde indeling wanneer Speelt nu is ingeschakeld. Uit verbergt Speelt nu tijdens deze uren.",
   "screensaverCameraRequired": "Hiervoor is de camera nodig. Schakel deze eerst in bij Camera-instellingen.",
   "screensaverNotAvailable": "Niet beschikbaar op dit apparaat.",
   "screensaverSummaryMotionOn": "Beweging aan",
@@ -43,8 +43,8 @@
   "screensaverSummaryWidgetsOff": "Widgets uitgeschakeld",
   "screensaverSummaryGlanceOn": "In één oogopslag aan",
   "screensaverSummaryGlanceOff": "In één oogopslag uit",
-  "screensaverSummaryNowPlayingOn": "Nu afspelen aan",
-  "screensaverSummaryNowPlayingOff": "Nu afspelen uit",
+  "screensaverSummaryNowPlayingOn": "Speelt nu aan",
+  "screensaverSummaryNowPlayingOff": "Speelt nu uit",
   "screensaverBrightnessPercent": "{percent}% helderheid",
   "screensaverScreenOffAfter": "Scherm uitschakelen na {minutes} min"
 }

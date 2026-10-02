@@ -1,7 +1,7 @@
 {
   "@@locale": "nl",
   "settingScreensaverMediaIdTitle": "Mediabron",
-  "settingScreensaverMediaIdDescription": "Een Home Assistant media-item, map of camera. Gebruik Bladeren om er een te kiezen.",
+  "settingScreensaverMediaIdDescription": "Een media-item, map of camera uit Home Assistant. Gebruik Bladeren om er een te kiezen.",
   "settingScreensaverMediaIntervalTitle": "Seconden per afbeelding",
   "settingScreensaverMediaIntervalDescription": "Hoelang elke afbeelding wordt getoond voordat de volgende verschijnt. Video's worden volledig afgespeeld.",
   "settingScreensaverMediaShuffleTitle": "Willekeurige volgorde",

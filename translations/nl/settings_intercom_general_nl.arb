@@ -3,7 +3,7 @@
   "settingIntercomEnabledTitle": "Intercom inschakelen",
   "settingIntercomEnabledDescription": "Bel andere kiosken op dit netwerk en neem hun oproepen aan.",
   "settingIntercomKeyTitle": "Intercomsleutel",
-  "settingIntercomKeyDescription": "Kiosken met dezelfde sleutel kunnen elkaar bellen. Fleet Management kan het synchroniseren.",
+  "settingIntercomKeyDescription": "Kiosken met dezelfde sleutel kunnen elkaar bellen. Vlootbeheer kan de sleutel synchroniseren.",
   "settingIntercomKeyPlaceholder": "Gemaakt wanneer de intercom is ingeschakeld",
   "settingIntercomMenuTitle": "Toon in het kioskmenu",
   "settingIntercomMenuDescription": "Voeg een intercomoptie toe aan het kioskmenu.",

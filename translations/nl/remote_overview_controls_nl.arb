@@ -27,6 +27,6 @@
   "overviewLatest": "Je gebruikt de nieuwste versie.",
   "overviewVersionAvailable": "Versie {version} is beschikbaar",
   "overviewInstallAttention": "Installeer deze via 'Aandacht vereist'.",
-  "overviewNoViewsWithCameras": "Er zijn nog geen camerabeelden. Voeg eerst camera's toe aan een weergave bij Camera's.",
+  "overviewNoViewsWithCameras": "Nog geen enkele cameraweergave bevat camera's. Voeg eerst camera's toe aan een weergave bij Camera's.",
   "overviewShowViewFailed": "De weergave kon niet worden getoond"
 }

@@ -12,7 +12,7 @@
   "deviceRunningBackground": "Actief zonder vrijstelling voor een voorgrondservice.",
   "deviceServiceTypes": "Typen voorgrondservice",
   "deviceServiceTypesHelp": "De servicetypen die bij Android zijn aangegeven voor de functies die actief worden gehouden.",
-  "deviceNoneDeclared": "Geen aangegeven.",
+  "deviceNoneDeclared": "Niets opgegeven.",
   "deviceNone": "geen",
   "deviceCpuLock": "CPU wake lock",
   "deviceCpuOff": "Uit: de instelling hieronder is uitgeschakeld.",
@@ -26,7 +26,7 @@
   "deviceWifiHelp": "Voorkomt dat wifi naar de energiebesparingsstand gaat wanneer het scherm uit staat.",
   "deviceNotification": "Melding",
   "deviceNotificationHidden": "Verborgen: meldingen voor de app zijn uitgeschakeld. De service blijft gewoon actief.",
-  "deviceNotificationShown": "Getoond in de notificatieschaduw terwijl de dienst draait.",
+  "deviceNotificationShown": "Getoond in het meldingenpaneel terwijl de service actief is.",
   "deviceHidden": "Verborgen",
   "deviceShown": "Getoond",
   "deviceReasonHa": "Home Assistant-verbinding",
@@ -49,5 +49,5 @@
   "deviceReasonPersonHelp": "Blijft de persoonssensor van het apparaat lezen terwijl een andere app vooraan staat.",
   "deviceReasonCameraHelp": "Houdt de camera bruikbaar nadat het paneel is uitgeschakeld, voor beweging en gezichtsdetectie.",
   "deviceServiceStopped": "Gestopt: {error}",
-  "deviceServiceRunning": "Actief sinds {uptime}."
+  "deviceServiceRunning": "Al {uptime} actief."
 }

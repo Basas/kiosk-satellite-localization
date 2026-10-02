@@ -7,7 +7,7 @@
   "esphomeAdvanced": "Geavanceerde instellingen",
   "esphomeAdvancedHelp": "Werkelijk of nagebootst wifi-MAC-adres",
   "esphomeMacInvalid": "Vul een geldig MAC-adres in.",
-  "esphomeMacHardware": "{mac} rapporteren.",
+  "esphomeMacHardware": "Rapporteert {mac}.",
   "esphomeMacManual": "Rapporteert het hieronder ingevoerde adres {mac}.",
   "esphomeMacUnavailable": "Android geeft het hardwareadres van dit apparaat niet vrij."
 }

@@ -6,6 +6,6 @@
   "remoteReloadPage": "Pagina herladen",
   "remoteUpdated": "Kiosk Satellite is bijgewerkt",
   "remoteUpdatedHelp": "Op het apparaat draait nu versie {version}{build}. Deze pagina hoort bij de vorige versie en wordt over {seconds} s opnieuw geladen.",
-  "remoteBuild": "(build {build})",
+  "remoteBuild": " (build {build})",
   "remoteReloadNow": "Nu herladen"
 }

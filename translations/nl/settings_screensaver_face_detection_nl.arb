@@ -11,7 +11,7 @@
   "screensaverDetectionFacePage": "Gezichtsdetectie",
   "screensaverDetectionFaceHint": "Sluit de schermbeveiliging wanneer iemand naar het scherm kijkt",
   "screensaverDetectionMotionPrecedence": "Sluiten bij beweging staat aan en heeft voorrang. Gezichtsdetectie blijft daarom inactief totdat bewegingsdetectie wordt uitgeschakeld.",
-  "screensaverDetectionFaceTuning": "Framesnelheid, camerapick en opstartvertraging worden ingesteld in de Camera-instellingen.",
+  "screensaverDetectionFaceTuning": "Framesnelheid, camerakeuze en opstartvertraging worden ingesteld bij de camera-instellingen.",
   "screensaverDetectionAndroidUnsupported": "Niet beschikbaar op deze Android-versie.",
   "screensaverDetectionX86Unsupported": "Niet beschikbaar op x86-apparaten."
 }

@@ -2,7 +2,7 @@
   "@@locale": "nl",
   "settingMotionSensorTitle": "Bewegingssensor",
   "settingMotionSensorDescription": "Stel beweging beschikbaar als sensor in Home Assistant. WAARSCHUWING: hierdoor blijft de camera voortdurend actief, ook wanneer het scherm uitstaat.",
-  "settingMotionSensorOffDelayTitle": "Wissen na",
+  "settingMotionSensorOffDelayTitle": "Weer vrij na",
   "settingMotionSensorOffDelayDescription": "Aantal seconden zonder beweging voordat de sensor weer vrij aangeeft.",
   "settingMotionFpsTitle": "Bewegingsframesnelheid",
   "settingMotionFpsDescription": "Aantal beelden per seconde dat de camera op beweging controleert. Een lagere waarde belast de CPU minder; 2 is voldoende om iemand te zien naderen.",

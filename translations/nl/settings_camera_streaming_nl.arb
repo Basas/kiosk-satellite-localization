@@ -31,7 +31,7 @@
   "cameraNoSizes": "Geen ondersteunde resoluties beschikbaar",
   "cameraNoSizesHelp": "Geen ondersteunde resoluties beschikbaar. Controleer de cameraverbinding.",
   "cameraResolutionSupport": "Resolutieondersteuning",
-  "cameraCheckingSizes": "Ondersteuning van camera en H.264-encoder controleren…",
+  "cameraCheckingSizes": "Ondersteuning van camera en H.264-encoder controleren...",
   "cameraSupportedSizes": "Alleen resoluties die de camera en H.264-encoder met de huidige streaminginstellingen ondersteunen, worden getoond.",
   "cameraExtraSizes": "Zet bewegingsanalyse uit tijdens het streamen om ook {sizes} te gebruiken.",
   "cameraAnalysisOff": "Bewegingsdetectie, gezichtsdetectie en handgebaren worden gepauzeerd terwijl er kijkers zijn verbonden. Momentopnamen gebruiken videoframes met de streamresolutie.",

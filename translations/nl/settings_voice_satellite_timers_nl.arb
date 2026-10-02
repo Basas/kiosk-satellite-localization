@@ -8,7 +8,7 @@
   "settingVoiceTimerPillScaleDescription": "De grootte van de timerlabels.",
   "settingVoiceMuteTimersTitle": "Timerwaarschuwingen dempen",
   "settingVoiceMuteTimersDescription": "Toon de waarschuwing zonder geluid.",
-  "settingVoiceTimerNameOnAlertTitle": "De naam van het alarm tonen",
+  "settingVoiceTimerNameOnAlertTitle": "De naam op de waarschuwing tonen",
   "settingVoiceTimerNameOnAlertDescription": "Toon de timernaam onder de waarschuwing.",
   "settingVoiceTimerSpeakTitle": "Spreek wanneer een timer eindigt",
   "settingVoiceTimerSpeakDescription": "Spreek een zin uit tussen de waarschuwingsgeluiden.",

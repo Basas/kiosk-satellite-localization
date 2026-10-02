@@ -1,7 +1,7 @@
 {
   "@@locale": "nl",
   "settingSendspinLyricsEnabledTitle": "Songteksten inschakelen",
-  "settingSendspinLyricsEnabledDescription": "Gesynchroniseerde songteksten in de weergave Nu afspelen, voor iedere spelerbron.",
+  "settingSendspinLyricsEnabledDescription": "Gesynchroniseerde songteksten in de weergave Speelt nu, voor iedere spelerbron.",
   "settingSendspinLyricsSourceTitle": "Bron van songteksten",
   "settingSendspinLyricsSourceDescription": "De bron waaruit songteksten worden opgehaald. Voor Music Assistant zijn het serveradres en token op de bijbehorende pagina vereist.",
   "settingSendspinLyricsFallbackTitle": "Music Assistant als terugvaloptie",

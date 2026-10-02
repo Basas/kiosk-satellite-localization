@@ -2,7 +2,7 @@
   "@@locale": "nl",
   "mediaNothingQueued": "Niets in de wachtrij",
   "mediaChapters": "Hoofdstukken",
-  "mediaNowPlaying": "Nu afspelen",
+  "mediaNowPlaying": "Speelt nu",
   "mediaUpNext": "Hierna",
   "mediaUnnamedChapter": "Hoofdstuk {number}"
 }

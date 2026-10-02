@@ -2,7 +2,7 @@
   "@@locale": "nl",
   "fleetSyncNow": "Nu synchroniseren",
   "fleetChangedHereWaitingForTheLeader": "Hier gewijzigd, wacht op de leider",
-  "fleetSyncedTime": "Gesynchroniseerd om {time}",
+  "fleetSyncedTime": "Gesynchroniseerd {time}",
   "fleetWaitingForTheFirstSync": "Wachten op de eerste synchronisatie",
   "fleetNothingYet": "Nog niets",
   "fleetNoCredentials": "Geen toegangsgegevens",

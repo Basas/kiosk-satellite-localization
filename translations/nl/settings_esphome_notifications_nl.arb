@@ -14,6 +14,6 @@
   "esphomeSound": "Geluid",
   "esphomeNotificationTest": "Testmelding",
   "esphomeNotificationHelp": "Meldingen worden vanuit Home Assistant verzonden met de actie {action}. Met de testknop toon je een melding over het dashboard.",
-  "esphomeNotificationBody": "Dit is hoe een melding van Home Assistant eruit ziet en klinkt.",
+  "esphomeNotificationBody": "Dit is hoe een melding van Home Assistant eruitziet en klinkt.",
   "esphomeNotificationSearch": "De Home Assistant-actie waarmee je meldingen verstuurt en een knop om een testmelding te tonen."
 }

@@ -11,7 +11,7 @@
   "screensaverOverlaySearchHintRemote": "Zoeken op naam of entiteit-id",
   "screensaverOverlaySearchEmpty": "Typ om entiteiten te zoeken.",
   "screensaverOverlayNoMatches": "Niets kwam overeen.",
-  "screensaverOverlaySearching": "Zoeken...",
+  "screensaverOverlaySearching": "Zoeken…",
   "screensaverOverlayUnreachable": "Kon Home Assistant niet bereiken",
   "screensaverOverlayNoAnswer": "Het apparaat reageerde niet.",
   "screensaverOverlaySearchError": "Er kon niet naar entiteiten worden gezocht: {error}"

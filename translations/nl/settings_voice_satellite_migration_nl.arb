@@ -30,7 +30,7 @@
   "voiceMigrationReady2": "Het dashboard voert Voice Satellite niet langer uit op deze kiosk.",
   "voiceMigrationReady3": "De oude satelliet blijft ongebruikt in Home Assistant staan.",
   "voiceMigrationSwitch": "Nu wisselen",
-  "voiceMigrationSwitching": "Schakelen...",
+  "voiceMigrationSwitching": "Schakelen…",
   "voiceMigrationDone": "Voice Satellite draait hier nu",
   "voiceCouldNotSwitch": "Kon niet wisselen",
   "voiceMigrationDoneOnboarding": "Voltooi de installatie en voeg deze kiosk toe in Home Assistant. Verwijder de Voice Satellite-integratie via HACS zodra geen ander apparaat deze meer gebruikt.",

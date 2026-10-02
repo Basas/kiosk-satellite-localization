@@ -1,7 +1,7 @@
 {
   "@@locale": "nl",
   "kioskHomeScreen": "Startscherm",
-  "kioskCheckingDevice": "Apparaat controleren…",
+  "kioskCheckingDevice": "Apparaat controleren...",
   "kioskFireOs": "Fire OS staat niet toe dat het startscherm wordt vervangen.",
   "kioskUnsupported": "Dit apparaat staat het wijzigen van het startscherm niet toe.",
   "kioskRecovered": "Automatisch uitgeschakeld na meerdere mislukte starts. Het vorige startscherm is hersteld. Schakel de optie opnieuw in om het nogmaals te proberen.",

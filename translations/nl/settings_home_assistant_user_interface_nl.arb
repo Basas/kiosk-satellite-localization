@@ -9,7 +9,7 @@
   "settingHaKioskMenuTitle": "Toon in het kioskmenu",
   "settingHaKioskMenuDescription": "Voeg een menuoptie toe waarmee je de HA-kioskmodus in- en uitschakelt.",
   "settingHaDashboardCarouselTitle": "Dashboardcarrousel inschakelen",
-  "settingHaDashboardCarouselDescription": "Veeg op het dashboard naar links of rechts om tussen weergaven te wisselen. Veegbewegingen op schuifregelaars, kaarten en kaarten met inhoud die je kunt scrollen blijven werken zoals gebruikelijk.",
+  "settingHaDashboardCarouselDescription": "Veeg op het dashboard naar links of rechts om tussen de weergaven te wisselen. Veegbewegingen op schuifregelaars, plattegronden en kaarten waarin je kunt scrollen blijven ongemoeid.",
   "settingHaCarouselOverCardsTitle": "Veegbewegingen boven kaarten opvangen",
   "settingHaCarouselOverCardsDescription": "Wissel ook van weergave als je begint te vegen op een kaart die zelf op veegbewegingen reageert. Schuifregelaars blijven normaal werken.",
   "settingHaHapticsTitle": "Haptische feedback inschakelen",
