@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Bluetooth Proxy page's Keep scanning with the screen off switch in Spanish, German, French, Ukrainian and Dutch: its title and its hint. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Remove the Voice Satellite Realtime page's Session history row from every language. The app no longer shows it.
 
 - Add the Voice Satellite Realtime page's Session history row in Spanish, German, French, Ukrainian and Dutch: its title, its hint, its Show button and the empty dialog's text. The German, French, Ukrainian and Dutch messages are maintainer additions.
