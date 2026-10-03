@@ -1,7 +1,7 @@
 {
   "@@locale": "nl",
   "voiceRealtime": "Realtime",
-  "voiceRealtimeHint": "OpenAI, xAI Grok, tools en antwoorden onderbreken",
+  "voiceRealtimeProvidersHint": "OpenAI, xAI Grok, Gemini, tools en antwoorden onderbreken",
   "voiceRealtimeToolsSection": "Home Assistant-tools",
   "voiceRealtimeProviderDefault": "Standaardprovider",
   "voiceRealtimeToolsCustom": "Eigen MCP-server",

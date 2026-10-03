@@ -18938,5 +18938,15 @@
     "source": "e1fc6326d174f29289ec77fe2f967d8bb2ad58e326f64126ad523185581870a1",
     "translation": "5cdd70fc48e8331bdab5aa3ae542795d5a238890cdc41a976e20eca7ae7f1bee",
     "author": "Xavier Larrea"
+  },
+  "voiceRealtimeProvidersHint": {
+    "source": "8334804f29fed5651758ce92db43bd840103bac4c2dac2136a4476c030a950d8",
+    "translation": "e14fd2c54475ca301969ac47134e2bd149e8e74a6cb20e79ee4e396692d35887",
+    "author": "Xavier Larrea"
+  },
+  "fleetGeminiApiKey": {
+    "source": "12ceab2bd0a896fbcaffb7db2a4a778de6509d37a6cf7d466508b2d8ddb94dab",
+    "translation": "4778b9591d3ae10ff94329254a561ab03f6dcaf5090e6bc7886c2bfcca837d6f",
+    "author": "Xavier Larrea"
   }
 }

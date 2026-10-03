@@ -34,7 +34,7 @@
   "settingVoiceRealtimeVoiceDescription": "Cómo suena el asistente.",
   "voiceRealtime": "Tiempo real",
   "voiceRealtimeConnectFailed": "No se pudo conectar: {error}",
-  "voiceRealtimeHint": "OpenAI, xAI Grok, herramientas, hablar sobre las respuestas",
+  "voiceRealtimeProvidersHint": "OpenAI, xAI Grok, Gemini, herramientas, hablar sobre las respuestas",
   "voiceRealtimeMcpMissing": "Añade la integración MCP Server en Home Assistant para controlar tu casa.",
   "voiceRealtimeNotValidated": "Sin validar",
   "voiceRealtimeOption": "{provider} en tiempo real",

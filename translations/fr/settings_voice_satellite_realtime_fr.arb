@@ -34,7 +34,7 @@
   "settingVoiceRealtimeVoiceDescription": "La voix de l'assistant.",
   "voiceRealtime": "Temps réel",
   "voiceRealtimeConnectFailed": "Connexion impossible : {error}",
-  "voiceRealtimeHint": "OpenAI, xAI Grok, outils, parler pendant les réponses",
+  "voiceRealtimeProvidersHint": "OpenAI, xAI Grok, Gemini, outils, parler pendant les réponses",
   "voiceRealtimeMcpMissing": "Ajoutez l'intégration MCP Server dans Home Assistant pour contrôler votre maison.",
   "voiceRealtimeNotValidated": "Non validé",
   "voiceRealtimeOption": "{provider} temps réel",

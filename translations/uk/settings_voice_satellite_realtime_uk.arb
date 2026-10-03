@@ -34,7 +34,7 @@
   "settingVoiceRealtimeVoiceDescription": "Як звучить асистент.",
   "voiceRealtime": "Реальний час",
   "voiceRealtimeConnectFailed": "Не вдалося підключитися: {error}",
-  "voiceRealtimeHint": "OpenAI, xAI Grok, інструменти, перебивання відповідей",
+  "voiceRealtimeProvidersHint": "OpenAI, xAI Grok, Gemini, інструменти, перебивання відповідей",
   "voiceRealtimeMcpMissing": "Додайте інтеграцію MCP Server у Home Assistant, щоб керувати домом.",
   "voiceRealtimeNotValidated": "Не перевірено",
   "voiceRealtimeOption": "{provider} у реальному часі",
