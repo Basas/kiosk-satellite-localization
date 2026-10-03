@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Remote Administration page's By name hint for a kiosk with an imported certificate in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Add Fleet Management's OpenAI API key, xAI API key and MCP server token credentials in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions.
 
 - Add the Voice Satellite Realtime page's OpenAI Reasoning effort setting in Spanish, German, French, Ukrainian and Dutch: its title, its hint and its six levels. The German, French, Ukrainian and Dutch messages are maintainer additions.
