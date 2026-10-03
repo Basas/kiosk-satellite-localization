@@ -6,6 +6,8 @@
   "settingVoiceRealtimeEndpointDescription": "Залиште порожнім, щоб використовувати постачальника. Використайте ретранслятор у своїй мережі, щоб цей кіоск лишався без інтернету.",
   "settingVoiceRealtimeIdleSecondsTitle": "Завершувати після тиші",
   "settingVoiceRealtimeIdleSecondsDescription": "Розмова завершується, якщо стільки часу ніхто не говорить.",
+  "settingVoiceRealtimeSpeedTitle": "Швидкість мовлення",
+  "settingVoiceRealtimeSpeedDescription": "Як швидко говорить асистент.",
   "settingVoiceRealtimeHistoryHoursTitle": "Тривалість сеансу",
   "settingVoiceRealtimeHistoryHoursDescription": "Сказане протягом цього часу переноситься в наступну розмову.",
   "settingVoiceRealtimeInstructionsTitle": "Інструкції",

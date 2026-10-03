@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Voice Satellite Realtime page's Speech speed slider in Spanish, German, French, Ukrainian and Dutch: its title and its hint. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Add the Intercom page's Maximum call duration and Hang up call when pressing this button settings in Spanish, German, French, Ukrainian and Dutch: their titles, their hints, every duration and button name, and the call screen's Maximum call duration reached. The German, French, Ukrainian and Dutch messages are maintainer additions.
 
 - Reword Fleet Management's Add a kiosk hint, which now says the follower accepts the invitation on its screen or in its remote admin, in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions. Remove the remote admin's Confirm on the kiosk hints from the Fleet Management page and the Overview, and the Overview's Open button, from every language. The app no longer shows them.
