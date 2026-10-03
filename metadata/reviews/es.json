@@ -18918,5 +18918,20 @@
     "source": "c1b1a1828ea799d6b96547af7b7e1180c51d7acae29b4ee1a753b55f6c6cfd75",
     "translation": "2d24ed4768df5c894bc98984b1040626b6ce01e8bf032a23bf5d1d72bec300f7",
     "author": "Xavier Larrea"
+  },
+  "fleetOpenAiApiKey": {
+    "source": "9c81ac9ab31ba6c8c10642e427256596016cb39fe4ce04a24ad989cc643d1ae1",
+    "translation": "83d4bcd87fba32c796cd0265b471d2c78a97e501811b931728f138d6b042a2c4",
+    "author": "Xavier Larrea"
+  },
+  "fleetMcpServerToken": {
+    "source": "5d7bd734b39b0bcda62cbf56c71c8f6d4d31176fa9cd9baabb5891cdbec42a9b",
+    "translation": "996283cf591ebd34a9ffc478da946cab53cbce2a3cd02b1589eb5c8cf07b1b5b",
+    "author": "Xavier Larrea"
+  },
+  "fleetXaiApiKey": {
+    "source": "b6fa8a69870b5533b454797fbf0b752a012b01ec4d13087b4a9372943283a013",
+    "translation": "353ef506736a37e904c3aeed86096475c2b88e28ffad4923e08c99f210821666",
+    "author": "Xavier Larrea"
   }
 }

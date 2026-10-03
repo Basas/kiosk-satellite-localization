@@ -22748,5 +22748,23 @@
     "translation": "58872d7364340483c1979ab3c4e9928e24342b60f0258a7ee7188199d2f19d54",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "fleetMcpServerToken": {
+    "source": "5d7bd734b39b0bcda62cbf56c71c8f6d4d31176fa9cd9baabb5891cdbec42a9b",
+    "translation": "5b995268633a665b12e96d934b0cbda3ac73ed7d92a44fb44e6c0ead18df140d",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "fleetXaiApiKey": {
+    "source": "b6fa8a69870b5533b454797fbf0b752a012b01ec4d13087b4a9372943283a013",
+    "translation": "271a8435ebcda8451ebc3a870a32ffb32c8acf825082163c5d74fef583028002",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "fleetOpenAiApiKey": {
+    "source": "9c81ac9ab31ba6c8c10642e427256596016cb39fe4ce04a24ad989cc643d1ae1",
+    "translation": "2696e2a211f66b9d1032966ac98110e6796e415ab871642350ba07ff4e2fe7e3",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }
