@@ -7,7 +7,7 @@
   "fleetUpdatesOnly": "仅更新",
   "fleetNothingSyncsOnlyUpdatesArePushed": "不进行设置同步，仅推送更新。",
   "fleetCategoriesSelectedOfTotalCredentialsCredentialsOfCredentialtotalExcluded": "类别：{selected}/{total}。凭据：{credentials}/{credentialTotal}。排除项：{excluded}。",
-  "fleetThisProfileIsGone": "此配置方案已不存在",
+  "fleetThisProfileIsGone": "配置方案不存在",
   "fleetItWasDeletedFromAnotherPage": "它已在其他页面中被删除。",
   "fleetName": "名称",
   "fleetRename": "重命名",
@@ -38,5 +38,5 @@
   "fleetSyncToName": "同步到 {name}",
   "fleetDefault": "默认",
   "fleetNone": "无",
-  "fleetSearchProfiles": "可分配给跟随设备的命名列表，包含类别、凭据、仪表盘和排除的设置。"
+  "fleetSearchProfiles": "可分配给从设备的配置方案，包含同步类别、凭据、仪表盘和排除项。"
 }

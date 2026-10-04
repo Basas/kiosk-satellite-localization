@@ -32,7 +32,7 @@
   "gestureClaps2": "拍手 2 次",
   "gestureClaps3": "拍手 3 次",
   "gestureClaps4": "拍手 4 次",
-  "gestureClapHelp": "通过麦克风识别拍手声，无论是否启用唤醒词检测。",
+  "gestureClapHelp": "通过麦克风识别拍手声，无论是否已启用唤醒词检测。",
   "gestureSequenceHelp": "依次点击角落（2 至 8 步）。",
   "gestureRemoveStep": "移除最后一步",
   "gestureUndo": "撤销",

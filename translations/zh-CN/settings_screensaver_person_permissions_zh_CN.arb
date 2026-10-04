@@ -5,7 +5,7 @@
   "screensaverDetectionChecking": "正在检查…",
   "screensaverDetectionReadable": "可以读取设备人体传感器。",
   "screensaverDetectionRestartRequired": "已授权。请重启 Kiosk Satellite 使其生效。",
-  "screensaverDetectionGrantHelp": "此权限只能通过 ADB 授予。Meta Portal 文档中提供完整命令。之后请重启 Kiosk Satellite。",
+  "screensaverDetectionGrantHelp": "此权限只能通过 ADB 授予，请使用 Meta Portal 文档中的完整命令。授权后重启 Kiosk Satellite。",
   "screensaverDetectionGrantRemoteHelp": "此权限只能通过 ADB 授予。下方提供可复制的完整命令。之后请重启 Kiosk Satellite。",
   "screensaverDetectionGranted": "已授权",
   "screensaverDetectionMissing": "缺失",

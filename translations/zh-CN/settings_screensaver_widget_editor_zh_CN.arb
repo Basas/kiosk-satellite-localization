@@ -11,7 +11,7 @@
   "screensaverOverlayCorner": "角落",
   "screensaverOverlayWidget": "小组件",
   "screensaverOverlayClock24": "24 小时制",
-  "screensaverOverlayClock24Help": "使用 24 小时制，而非上午/下午。",
+  "screensaverOverlayClock24Help": "使用 24 小时制",
   "screensaverOverlayShowDate": "显示日期",
   "screensaverOverlayShowDateHelp": "在时钟下方添加简短日期。",
   "screensaverOverlayPercentage": "显示百分比",

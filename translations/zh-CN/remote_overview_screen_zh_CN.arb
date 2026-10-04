@@ -5,8 +5,8 @@
   "overviewLive": "实时",
   "overviewFullSize": "原始尺寸",
   "overviewLiveInterval": "实时，每 5 秒更新",
-  "overviewTaken": "拍摄于 {age}",
-  "overviewCameraViewNamed": "摄像头视图：{name}",
-  "overviewCameraView": "摄像头视图",
+  "overviewTaken": "截取于 {age}",
+  "overviewCameraViewNamed": "摄像头画面：{name}",
+  "overviewCameraView": "摄像头画面",
   "overviewScreenOffState": "屏幕已关闭"
 }

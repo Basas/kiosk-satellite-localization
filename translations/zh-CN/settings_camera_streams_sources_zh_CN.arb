@@ -5,7 +5,7 @@
   "cameraStreamsNoCamerasHelp": "从 Home Assistant 或 Go2RTC 导入摄像头，或手动添加。",
   "cameraStreamsDeleteCamera": "删除摄像头",
   "cameraStreamsAddManually": "手动添加摄像头",
-  "cameraStreamsAddManuallyHelp": "使用 Go2RTC 视频流名称、WHEP URL 或 Home Assistant 摄像头实体。",
+  "cameraStreamsAddManuallyHelp": "使用 Go2RTC 视频流名称、WHEP 地址或 Home Assistant 摄像头实体。",
   "cameraStreamsUnknownCamera": "未知摄像头",
   "cameraStreamsUnknownServer": "未知服务器",
   "cameraStreamsMissing": " （缺失）",
@@ -13,7 +13,7 @@
   "cameraStreamsEditCamera": "编辑摄像头",
   "cameraStreamsType": "类型",
   "cameraStreamsGo2RtcStream": "Go2RTC 视频流",
-  "cameraStreamsDirectWhep": "直接 WHEP URL",
+  "cameraStreamsDirectWhep": "直接 WHEP 地址",
   "cameraStreamsHaCamera": "Home Assistant 摄像头",
   "cameraStreamsEntity": "摄像头实体",
   "cameraStreamsProtocol": "首选协议",
@@ -22,8 +22,8 @@
   "cameraStreamsStreamName": "视频流名称",
   "cameraStreamsGo2RtcStreamName": "Go2RTC 视频流名称",
   "cameraStreamsFullscreen": "全屏视频流（可选）",
-  "cameraStreamsWhep": "WHEP URL",
+  "cameraStreamsWhep": "WHEP 地址",
   "cameraStreamsSaveCameraFailed": "无法保存摄像头",
-  "cameraStreamsDeleteCameraHelp": "它会从所有视图中移除。",
+  "cameraStreamsDeleteCameraHelp": "它会从所有画面中移除。",
   "cameraStreamsLoadFailed": "无法加载摄像头。"
 }

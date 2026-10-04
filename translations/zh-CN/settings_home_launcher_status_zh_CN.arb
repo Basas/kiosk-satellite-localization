@@ -12,6 +12,6 @@
   "kioskSetDefault": "设为默认",
   "kioskActive": "已生效",
   "kioskNotHome": "未设为主屏幕。",
-  "kioskWaitingRemote": "等待设备上的确认，系统对话框或主屏幕设置会在那里打开。",
+  "kioskWaitingRemote": "等待设备确认。系统确认框或默认主屏幕设置会在设备上打开。",
   "kioskSetDevice": "在设备上设置"
 }

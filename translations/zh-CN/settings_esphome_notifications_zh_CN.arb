@@ -1,9 +1,9 @@
 {
   "@@locale": "zh_CN",
   "settingNotificationsTransparencyTitle": "透明度",
-  "settingNotificationsTransparencyDescription": "允许透过通知卡片看到后方屏幕内容。文字和图标保持不透明。",
+  "settingNotificationsTransparencyDescription": "调整通知卡片的透明度，显示下方画面。文字和图标仍保持不透明。",
   "settingNotificationsBlurTitle": "背景模糊",
-  "settingNotificationsBlurDescription": "模糊透过透明通知卡片看到的内容。注意：无法模糊 Home Assistant 仪表盘表面。",
+  "settingNotificationsBlurDescription": "模糊透明通知卡片下方的画面。注意：Home Assistant 仪表盘不支持此模糊效果。",
   "settingNotificationsChimeFileTitle": "通知声音",
   "settingNotificationsChimeFileDescription": "从设备上的 Android/data/me.jxl.kiosk_satellite/files/sounds 读取声音文件，也可通过文件管理器访问。",
   "settingNotificationsVolumeTitle": "通知音量",

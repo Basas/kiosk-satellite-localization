@@ -27,7 +27,7 @@
   "voicePreviewCommand": "天气怎么样？",
   "voicePreviewAnswer": "目前晴天，72°，有微风。",
   "settingVoiceOverlayModeTitle": "浮层模式",
-  "settingVoiceOverlayModeDescription": "“停靠”在仪表盘上显示小气泡，不显示图片、天气或视频等丰富结果。",
+  "settingVoiceOverlayModeDescription": "选择“停靠”时，在仪表盘上以小气泡显示，不显示图片、天气或视频等结果。",
   "voiceOverlayFullScreen": "全屏",
   "voiceOverlayDocked": "停靠",
   "voiceListeningEllipsis": "正在聆听…"

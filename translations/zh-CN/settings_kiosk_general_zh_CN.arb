@@ -24,7 +24,7 @@
   "settingKioskDisableGesturesDescription": "Kiosk 模式开启时忽略“手势”页面配置的手势。",
   "kioskGestureTaps5": "快速点击 5 次",
   "kioskGestureTaps7": "快速点击 7 次",
-  "kioskGestureTaps5Hold": "快速点击 5 次，按住最后一次",
-  "kioskGestureTaps7Hold": "快速点击 7 次，按住最后一次",
+  "kioskGestureTaps5Hold": "快速点击 5 次，最后一次保持按住",
+  "kioskGestureTaps7Hold": "快速点击 7 次，最后一次保持按住",
   "kioskGestureNone": "禁用（仅远程管理）"
 }

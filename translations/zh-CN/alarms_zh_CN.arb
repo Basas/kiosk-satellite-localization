@@ -8,7 +8,7 @@
   "alarmsLabel": "标签",
   "alarmsAddLabel": "添加标签",
   "alarmsTone": "闹钟铃声",
-  "alarmsSunrise": "日出模拟",
+  "alarmsSunrise": "模拟日出",
   "alarmsDefaultTone": "默认",
   "alarmsBuiltInTone": "内置闹钟铃声",
   "alarmsSoundsFolder": "声音文件夹",
@@ -18,7 +18,7 @@
   "alarmsEveryDay": "每天",
   "alarmsWeekdays": "工作日",
   "alarmsWeekends": "周末",
-  "alarmsSnoozedUntil": "稍后提醒，至 {time}",
+  "alarmsSnoozedUntil": "将在 {time} 再次响铃",
   "alarmsSnooze": "稍后提醒",
   "alarmsStop": "停止",
   "alarmsDefaultLabel": "闹钟",
@@ -38,8 +38,8 @@
   "alarmsTime": "时间",
   "alarmsRinging": "闹钟正在响铃",
   "alarmsSnoozed": "闹钟已延后提醒",
-  "alarmsSunriseRunning": "闹钟前的日出模拟",
-  "alarmsSunriseHint": "屏幕会在响铃前的 {minutes} 分钟内逐渐变亮。",
+  "alarmsSunriseRunning": "闹钟响铃前的模拟日出",
+  "alarmsSunriseHint": "屏幕会在闹钟响铃前的 {minutes} 分钟内逐渐变亮。",
   "alarmsDeleteFailed": "无法删除闹钟。",
   "alarmsDuplicate": "你已设置 {time} 的闹钟",
   "alarmsEaseIn": "音量渐强",
@@ -49,5 +49,5 @@
   "alarmsPhraseHint": "{label}、{time} 和 {day} 会替换为闹钟的标签、时间和日期。",
   "alarmsVoiceSection": "语音闹钟",
   "alarmsVoiceManage": "通过 Voice Satellite 管理闹钟",
-  "alarmsVoiceHint": "需要 Kiosk Satellite 闹钟蓝图及 Home Assistant 中的 LLM 对话代理。"
+  "alarmsVoiceHint": "需要在 Home Assistant 中配置 Kiosk Satellite 闹钟蓝图（脚本模板）和大语言模型（LLM）对话代理。"
 }

@@ -5,7 +5,7 @@
   "intercomOptionTalkPtt": "按住讲话",
   "intercomOptionTalkHandsfree": "免提",
   "settingIntercomMaxCallMinutesTitle": "最长通话时长",
-  "settingIntercomMaxCallMinutesDescription": "通话达到此时长后自动结束。",
+  "settingIntercomMaxCallMinutesDescription": "通话达到设定时长后会自动结束。",
   "intercomOptionCallUnlimited": "无限制",
   "intercomOptionCall1": "1 分钟",
   "intercomOptionCall2": "2 分钟",

@@ -1,6 +1,6 @@
 {
   "@@locale": "zh_CN",
-  "esphomeAllExposed": "已公开所有可用实体",
+  "esphomeAllExposed": "已提供所有可用实体",
   "esphomeExcludedCount": "已排除 {count} 个",
   "esphomeEntitySearch": "搜索实体",
   "esphomeEntityLoading": "正在加载实体…",

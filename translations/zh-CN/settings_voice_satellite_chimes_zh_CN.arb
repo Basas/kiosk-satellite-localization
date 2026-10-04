@@ -14,7 +14,7 @@
   "voiceChimeTimerTitle": "计时器提示音",
   "voiceChimeTimerDescription": "计时器结束后循环播放，直到你关闭提醒。",
   "voiceChimeAnnounceTitle": "播报提示音",
-  "voiceChimeAnnounceDescription": "Voice Satellite 播报前播放，除非播报提供自己的声音。",
+  "voiceChimeAnnounceDescription": "在 Voice Satellite 播报前播放提示音。播报自带提示音时，不再播放此提示音。",
   "settingVoiceWakeSoundTitle": "播放提示音",
   "settingVoiceWakeSoundDescription": "唤醒、完成和错误提示音。"
 }

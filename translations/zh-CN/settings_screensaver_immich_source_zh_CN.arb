@@ -11,9 +11,9 @@
   "screensaverMediaAll": "所有媒体",
   "screensaverMediaAllDevice": "所有媒体。",
   "screensaverMediaNoAlbums": "暂无相册。请先在 Immich 中创建。",
-  "screensaverMediaAlbumsFailed": "无法列出相册",
-  "screensaverMediaListError": "无法列出：{error}",
-  "screensaverMediaListingFailed": "列出失败",
+  "screensaverMediaAlbumsFailed": "无法获取相册列表",
+  "screensaverMediaListError": "无法获取列表：{error}",
+  "screensaverMediaListingFailed": "获取列表失败",
   "screensaverMediaItems": "{count} 项",
   "screensaverMediaCached": "已缓存 {count} 项，{size}"
 }

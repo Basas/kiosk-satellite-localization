@@ -11,7 +11,7 @@
   "settingVoiceAnswerLingerTitle": "回复保留时长",
   "settingVoiceAnswerLingerDescription": "回复播报完成后在屏幕上保留的时长。",
   "settingVoiceResultsLingerTitle": "结果保留时长",
-  "settingVoiceResultsLingerDescription": "图片、天气及其他结果。0 表示保留至手动关闭。",
+  "settingVoiceResultsLingerDescription": "图片、天气及其他结果在屏幕上保留的时间。设为 0 时，一直显示到手动关闭。",
   "settingVoiceAnnouncementLingerTitle": "播报保留时长",
   "settingVoiceAnnouncementLingerDescription": "播报完成后在屏幕上保留的时长。"
 }

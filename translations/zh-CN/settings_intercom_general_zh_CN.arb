@@ -12,7 +12,7 @@
   "intercomChangeKey": "更改密钥",
   "intercomChangeKeyHelp": "粘贴其他 Kiosk 设备的密钥，或生成新密钥。",
   "intercomChange": "更改",
-  "intercomKeyWarning": "使用此密钥的 Kiosk 设备可互相呼叫。更换密钥会使此设备与其他设备断开，直到它们也使用新密钥。",
+  "intercomKeyWarning": "使用相同密钥的 Kiosk 设备可互相呼叫。更换密钥后，需给其他设备设置相同密钥，才能继续互相呼叫。",
   "intercomRegenerate": "重新生成",
   "intercomKeyChanged": "密钥已更改",
   "intercomNotSet": "未设置",

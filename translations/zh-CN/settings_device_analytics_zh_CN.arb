@@ -7,7 +7,7 @@
   "settingAnalyticsDiagnosticsTitle": "诊断",
   "settingAnalyticsDiagnosticsDescription": "发生意外错误时分享崩溃报告。",
   "deviceAnalyticsPage": "Kiosk Satellite 使用分析",
-  "deviceAnalyticsIntro": "分享此安装的匿名化信息，帮助改进 Kiosk Satellite，并决定优先关注哪些设备和功能。",
+  "deviceAnalyticsIntro": "分享本次安装的匿名化使用信息，帮助改进 Kiosk Satellite，并确定需要优先改进的设备和功能。",
   "deviceAnalyticsLearn": "了解我们如何处理你的数据",
-  "deviceAnalyticsLearnHelp": "Kiosk Satellite 使用分析会发送哪些内容，以及绝不会发送哪些内容。"
+  "deviceAnalyticsLearnHelp": "了解 Kiosk Satellite 使用分析会发送哪些信息，以及哪些信息绝不会发送。"
 }

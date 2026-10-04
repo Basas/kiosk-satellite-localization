@@ -1,7 +1,7 @@
 {
   "@@locale": "zh_CN",
   "settingSendspinSonosGroupVolumeTitle": "调整播放组音量",
-  "settingSendspinSonosGroupVolumeDescription": "所跟随房间在播放组中播放时，音量滑块调整整个组的音量。关闭后仅调整该房间。",
+  "settingSendspinSonosGroupVolumeDescription": "所选 Sonos 房间加入播放组时，音量控制会调整整个组的音量。关闭此项后，只调整该房间的音量。",
   "settingSendspinSonosInputsTitle": "显示电视和线路输入",
   "settingSendspinSonosInputsDescription": "eARC 或线路输入启用时，在媒体播放器中显示其活动。",
   "mediaSonosHint": "网络中的扬声器，或按地址添加",
@@ -21,7 +21,7 @@
   "mediaSonosAddressHelp": "扬声器在网络中的地址。会据此添加整个 Sonos 家庭系统。",
   "mediaSonosPickRoom": "请在“播放器来源 > Sonos”中选择房间。",
   "mediaSonosAdded": "Sonos 已添加",
-  "mediaSonosNoRooms": "扬声器未列出任何房间。",
+  "mediaSonosNoRooms": "未获取到 Sonos 房间列表。",
   "mediaSonosNoAddress": "没有地址",
   "mediaSonosUnreachable": "{host} 上没有 Sonos 响应。"
 }

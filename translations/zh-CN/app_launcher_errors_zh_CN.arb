@@ -1,5 +1,5 @@
 {
   "@@locale": "zh_CN",
-  "launcherErrorAndroidOnly": "仅 Android 支持列出应用",
-  "launcherErrorListDetail": "无法列出应用：{error}"
+  "launcherErrorAndroidOnly": "仅 Android 设备支持获取应用列表",
+  "launcherErrorListDetail": "无法获取应用列表：{error}"
 }

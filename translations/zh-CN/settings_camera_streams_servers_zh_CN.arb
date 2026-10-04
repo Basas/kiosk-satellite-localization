@@ -7,11 +7,11 @@
   "cameraStreamsAddServerHelp": "连接服务器并导入其视频流。",
   "cameraStreamsEditServer": "编辑服务器",
   "cameraStreamsName": "名称",
-  "cameraStreamsBaseUrl": "基础 URL",
+  "cameraStreamsBaseUrl": "基础地址",
   "cameraStreamsUsername": "用户名（可选）",
   "cameraStreamsNewPassword": "新密码（留空以保留）",
   "cameraStreamsPassword": "密码（可选）",
   "cameraStreamsInvalidCertificate": "允许无效的 TLS 证书",
   "cameraStreamsSaveServerFailed": "无法保存服务器",
-  "cameraStreamsDeleteServerHelp": "其摄像头会从所有视图中移除。"
+  "cameraStreamsDeleteServerHelp": "其摄像头会从所有画面中移除。"
 }

@@ -8,7 +8,7 @@
   "intercomNothingRinging": "没有正在响铃的呼叫",
   "intercomNoCall": "没有通话",
   "intercomDisabled": "对讲已关闭",
-  "intercomNeedsRemote": "需要远程管理",
+  "intercomNeedsRemote": "需要开启远程管理",
   "intercomNeedsDiscovery": "对讲需要开启远程管理和“查找其他 Kiosk 设备”",
   "intercomAlreadyCalling": "已在通话中",
   "intercomNoReadyError": "没有就绪的 Kiosk 设备",

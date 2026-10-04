@@ -7,7 +7,7 @@
   "esphomeIdentityEddystone": "Eddystone 信标",
   "esphomeIdentityGoogleFastPair": "Google Fast Pair 设备",
   "esphomeIdentityAppleFindMy": "Apple Find My 设备",
-  "esphomeIdentityExposure": "接触通知（手机）",
+  "esphomeIdentityExposure": "接触通知服务（手机）",
   "esphomeIdentityAugustYale": "August/Yale 门锁",
   "esphomeIdentityAmazon": "Amazon 设备",
   "esphomeIdentityTile": "Tile 追踪器",

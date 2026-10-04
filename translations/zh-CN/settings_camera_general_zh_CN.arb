@@ -7,7 +7,7 @@
   "settingCameraSnapshotResolutionTitle": "快照分辨率",
   "settingCameraSnapshotResolutionDescription": "更高的分辨率更清晰，但会增加 CPU 和带宽消耗。",
   "settingCameraDisableDetectionSnapshotsTitle": "禁用检测触发的快照",
-  "settingCameraDisableDetectionSnapshotsDescription": "阻止检测结果自动触发快照。移动、人脸、存在和手势检测仍会正常工作。手动请求和连续快照仍可拍摄图片。",
+  "settingCameraDisableDetectionSnapshotsDescription": "禁止检测结果自动触发快照。运动、人脸、存在和手势检测仍会正常工作。手动请求和连续快照仍可拍摄图片。",
   "settingCameraSnapshotsTitle": "连续快照",
   "settingCameraSnapshotsDescription": "按固定间隔向 Home Assistant 发布新的摄像头快照。",
   "settingCameraSnapshotIntervalTitle": "快照间隔",

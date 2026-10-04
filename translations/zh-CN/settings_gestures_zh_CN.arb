@@ -13,12 +13,12 @@
   "gestureDeleteMessage": "要移除此手势吗？触发条件：{trigger}。操作：{action}。",
   "gestureAdd": "添加手势",
   "gestureAddHelp": "选择手势及其触发的操作。",
-  "gestureTouchHelp": "手势只被检测，不会拦截触摸；点击也会传递给仪表盘，因此使用角落和多指手势可避免触发仪表盘控件。",
+  "gestureTouchHelp": "手势检测不会拦截触屏操作，点击仍会传给仪表盘。角落和多指手势可减少误触仪表盘控件。",
   "gestureClapper": "拍手控制",
   "gestureReadFailed": "无法读取设置。",
   "gestureHandGestures": "手势",
   "settingHandGestureHoldSecondsTitle": "保持时长",
-  "settingHandGestureHoldSecondsDescription": "保持相同的手指手势达到此时长后才执行操作。增加时长可减少误触发。",
+  "settingHandGestureHoldSecondsDescription": "保持同一手指手势达到设定时长后，才会执行操作。延长时间可减少误触发。",
   "gestureHoldInstant": "立即",
   "gestureHoldSeconds": "{seconds} 秒"
 }

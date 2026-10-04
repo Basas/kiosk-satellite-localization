@@ -1,6 +1,6 @@
 {
   "@@locale": "zh_CN",
-  "cameraViewerTitle": "摄像头视图",
+  "cameraViewerTitle": "摄像头画面",
   "cameraViewerConnecting": "正在连接…",
   "cameraViewerReconnecting": "正在重新连接…",
   "cameraViewerTrying": "正在尝试 {transport}…",

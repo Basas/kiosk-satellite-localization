@@ -10,7 +10,7 @@
   "pluginLearnHowToCreatePluginsWithTheHelloWorld": "通过 Hello World 模板和文档了解如何创建插件。",
   "pluginThisPluginIsNoLongerInstalled": "此插件已被卸载。",
   "pluginEnablePluginsToRunThisPlugin": "请启用插件功能以运行此插件。",
-  "pluginEnableThisPluginFromItsEntryRowToRun": "请在此插件所在行启用它以运行。",
+  "pluginEnableThisPluginFromItsEntryRowToRun": "请在插件列表中开启此插件，开启后即可运行。",
   "pluginUninstallName": "要卸载 {name} 吗？",
   "pluginUninstallNameDetail": "卸载 {name}",
   "pluginCheckForUpdatesForName": "检查 {name} 的更新",

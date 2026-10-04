@@ -7,6 +7,6 @@
   "settingFacePreviewScaleTitle": "预览缩放",
   "settingFacePreviewScaleDescription": "调整预览大小以适应屏幕尺寸。",
   "settingFacePreviewPositionTitle": "预览位置",
-  "settingFacePreviewPositionDescription": "预览所在的屏幕角落。",
+  "settingFacePreviewPositionDescription": "预览显示的屏幕角落。",
   "screensaverDetectionPreviewSection": "摄像头预览"
 }

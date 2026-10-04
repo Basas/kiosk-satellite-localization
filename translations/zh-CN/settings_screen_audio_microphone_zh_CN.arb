@@ -1,11 +1,11 @@
 {
   "@@locale": "zh_CN",
   "settingMicCaptureModeTitle": "采集模式",
-  "settingMicCaptureModeDescription": "若麦克风在此处无声，或 Kiosk 播放声音后停止工作，请选择“语音通信”。部分设备只能在通话音频通路上正常录音。",
+  "settingMicCaptureModeDescription": "如果麦克风在这里没有声音，或播放声音后就停止录音，请选择“语音通信”。部分设备只能使用通话录音方式正常录音。",
   "settingMicSoftwareEchoCancellationTitle": "回声消除",
   "settingMicSoftwareEchoCancellationDescription": "从麦克风中消除 Kiosk 自身的声音，避免唤醒词引擎和助手听到这些声音。除非麦克风自带回声消除且开启此项后效果变差，否则请保持开启。",
   "settingMicNoiseSuppressionTitle": "降噪",
-  "settingMicNoiseSuppressionDescription": "消除麦克风嘶声。会改变唤醒词引擎听到的音频，请在麦克风存在嘶声时开启。",
+  "settingMicNoiseSuppressionDescription": "减少麦克风的底噪。此设置会改变唤醒词识别收到的音频；麦克风有明显底噪时再开启。",
   "settingMicChannelTitle": "麦克风声道",
   "settingMicChannelDescription": "多声道麦克风通常有专供语音识别的声道，选择该声道可能改善检测。",
   "settingMicGainDbTitle": "麦克风增益",

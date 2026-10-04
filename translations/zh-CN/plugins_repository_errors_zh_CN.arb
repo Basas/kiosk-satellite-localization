@@ -1,8 +1,8 @@
 {
   "@@locale": "zh_CN",
-  "pluginErrorRepositoryMismatch": "仓库发布版本属于其他插件。",
-  "pluginErrorRepositoryUrl": "请输入公开的 https://github.com/owner/repository URL",
-  "pluginErrorRepositoryPath": "请使用不含文件或分支路径的仓库 URL",
+  "pluginErrorRepositoryMismatch": "此仓库发布的安装包与要安装的插件不一致。",
+  "pluginErrorRepositoryUrl": "请输入公开 GitHub 仓库的地址，格式为 https://github.com/owner/repository",
+  "pluginErrorRepositoryPath": "请使用不含文件或分支路径的仓库地址",
   "pluginErrorDownloadOutsideGithub": "插件下载重定向到了 GitHub 之外",
   "pluginErrorInvalidRedirect": "GitHub 重定向无效",
   "pluginErrorRepositoryNotFound": "未找到公开仓库、稳定发布版本、kiosk-satellite-plugin.json、README.md 或发布附件。",
@@ -26,5 +26,5 @@
   "pluginErrorReleaseAsset": "发布版本必须恰好包含一个已上传的 {name} 附件",
   "pluginErrorAssetPublisher": "发布附件 {name} 必须由 GitHub Actions 发布，不支持手动上传的文件。",
   "pluginErrorAssetSize": "发布附件 {name} 超过大小限制或为空",
-  "pluginErrorAssetUrl": "{name} 的发布 URL 无效"
+  "pluginErrorAssetUrl": "{name} 的发布地址无效"
 }

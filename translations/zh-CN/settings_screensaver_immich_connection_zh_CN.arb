@@ -12,7 +12,7 @@
   "screensaverMediaNoAnswer": "设备未响应。",
   "screensaverMediaAddressFirst": "请先输入服务器地址。",
   "screensaverMediaKeyFirst": "请先输入 API 密钥。",
-  "screensaverMediaBadAddress": "服务器地址不是有效的 URL。",
+  "screensaverMediaBadAddress": "服务器地址无效。",
   "screensaverMediaKeyRejected": "API 密钥被拒绝。",
   "screensaverMediaScopeMissing": "API 密钥缺少 {scope} 权限。",
   "screensaverMediaPermissionMissing": "API 密钥缺少权限：{error}",
