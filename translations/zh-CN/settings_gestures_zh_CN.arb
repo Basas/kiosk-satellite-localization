@@ -16,7 +16,7 @@
   "gestureTouchHelp": "手势检测不会拦截触屏操作，点击仍会传给仪表盘。角落和多指手势可减少误触仪表盘控件。",
   "gestureClapper": "拍手控制",
   "gestureReadFailed": "无法读取设置。",
-  "gestureHandGestures": "手势",
+  "gestureHandGestures": "隔空手势",
   "settingHandGestureHoldSecondsTitle": "保持时长",
   "settingHandGestureHoldSecondsDescription": "保持同一手指手势达到设定时长后，才会执行操作。延长时间可减少误触发。",
   "gestureHoldInstant": "立即",

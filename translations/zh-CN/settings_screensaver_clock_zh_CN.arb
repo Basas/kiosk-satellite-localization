@@ -15,7 +15,7 @@
   "settingScreensaverClockDateTitle": "显示日期",
   "settingScreensaverClockDateDescription": "在时钟下方显示星期和日期。",
   "settingScreensaverClockScaleTitle": "时钟大小",
-  "settingScreensaverClockScaleDescription": "将时钟缩放为此屏幕的 50% 至 300%。",
+  "settingScreensaverClockScaleDescription": "在此屏幕上将时钟缩放至 50% 至 300%。",
   "settingScreensaverClockColorTitle": "时钟颜色",
   "settingScreensaverClockColorDescription": "时钟文字的颜色。",
   "settingScreensaverClockBgColorTitle": "背景颜色",

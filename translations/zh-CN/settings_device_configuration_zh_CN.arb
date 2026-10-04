@@ -18,7 +18,7 @@
   "deviceReplaceIdentity": "保留备份中的名称和 ESPHome 身份。注意：原设备必须一直保持离线。",
   "deviceNewIdentity": "分配独立的名称和 ESPHome 身份，使两台设备各自唯一。",
   "deviceRestoreStorage": "恢复 WebView 的本地存储",
-  "deviceRestoreStorageHelp": "包含 Home Assistant 登录会话和 Voice Satellite 的 assist_satellite 选择。两台设备不得共用一个语音卫星。",
+  "deviceRestoreStorageHelp": "包含 Home Assistant 登录会话和 Voice Satellite 的 assist_satellite 选择。两台设备不得共用同一个 assist_satellite 实体。",
   "deviceDownload": "下载",
   "deviceChooseFile": "选择文件…",
   "deviceImportFailedSentence": "导入失败。",

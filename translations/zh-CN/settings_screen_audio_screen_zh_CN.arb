@@ -1,6 +1,6 @@
 {
   "@@locale": "zh_CN",
-  "settingBrowserCutoutModeTitle": "屏幕刘海或摄像头挖孔区域",
+  "settingBrowserCutoutModeTitle": "刘海和挖孔区域",
   "settingBrowserCutoutModeDescription": "若刘海或挖孔遮挡仪表盘顶部按钮，请选择“避开刘海和挖孔”。",
   "settingScreenOrientationTitle": "屏幕方向",
   "settingScreenOrientationDescription": "强制屏幕使用指定方向。适用于没有旋转传感器，或安装方向导致传感器判断错误的设备。",

@@ -33,7 +33,7 @@
   "settingsMenuDevice": "设备",
   "settingsMenuDeviceSummary": "名称、应用主题和远程访问",
   "settingsMenuFleet": "设备群管理",
-  "settingsMenuFleetSummary": "作为主设备管理其他设备，或作为从设备同步设置",
+  "settingsMenuFleetSummary": "管理或跟随其他 Kiosk 设备",
   "settingsMenuPlugins": "插件管理",
   "settingsMenuPluginsSummary": "安装和管理插件",
   "settingsMenuLogs": "日志",

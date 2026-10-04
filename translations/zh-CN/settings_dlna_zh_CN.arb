@@ -6,5 +6,5 @@
   "settingDlnaAudioBackgroundDescription": "播放推送的音频时不接管屏幕。",
   "settingDlnaPortTitle": "服务器端口",
   "settingDlnaPortDescription": "DLNA 服务使用的端口，启动时自动填入。修改此值可更换端口；留空后将重新自动选择。",
-  "settingDlnaPortPlaceholder": "渲染器启动时设置"
+  "settingDlnaPortPlaceholder": "渲染器启动时自动设置"
 }

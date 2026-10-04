@@ -42,7 +42,7 @@
   "overviewCpu": "CPU",
   "overviewMemory": "内存",
   "overviewTemperature": "温度",
-  "overviewMemoryFree": "可用空间 {amount} GB",
+  "overviewMemoryFree": "可用 {amount} GB",
   "overviewMetricPercent": "{value}%",
   "overviewMetricDegrees": "{value}°C"
 }

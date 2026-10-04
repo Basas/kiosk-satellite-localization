@@ -26,7 +26,7 @@
   "voiceWakeWordPreferFp32Title": "优先使用 fp32 vsWakeWord 模型",
   "voiceWakeWordPreferFp32Description": "使用 fp32 模型，而非较小的 int8 版本。监听期间增加 10-30% 的 CPU 使用率，以避免约 2% 的置信度偏差。",
   "voiceWakeWordResumeTimeoutSecondsTitle": "恢复超时（秒）",
-  "voiceWakeWordResumeTimeoutSecondsDescription": "将语音交给网页处理后，如果网页未调用 setWakeWordActive(true)，将在超时后自动恢复监听。语音回复仍在播放时会继续等待，避免截断较长的回复。",
+  "voiceWakeWordResumeTimeoutSecondsDescription": "将语音交给网页处理后，如果网页未调用 setWakeWordActive(true)，将在超时后自动恢复监听。语音交互仍在传输音频时会继续等待，避免打断较长的语音交互。",
   "voiceSlightlySensitive": "低灵敏度",
   "voiceModeratelySensitive": "中等灵敏度",
   "voiceOnDevice": "设备端",

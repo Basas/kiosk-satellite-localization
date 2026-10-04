@@ -13,7 +13,7 @@
   "screensaverDetectionOff": "已关闭。",
   "screensaverDetectionStarting": "正在启动…",
   "screensaverDetectionWaiting": "等待传感器首次报告。有人在检测范围内时，传感器每 30 秒报告一次。",
-  "screensaverDetectionLastHeartbeat": "最后心跳：{ago}。",
+  "screensaverDetectionLastHeartbeat": "最近一次报告：{ago}。",
   "screensaverDetectionSecondsAgo": "{count} 秒前",
   "screensaverDetectionMinutesAgo": "{count} 分钟前",
   "screensaverDetectionHoursAgo": "{count} 小时前",
