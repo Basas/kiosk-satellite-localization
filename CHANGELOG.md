@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the xAI provider's Web Search and X Search switches in Spanish, German, French, Ukrainian and Dutch: their titles and hints. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Add the Voice Satellite Appearance page's Voice Only skin name in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions.
 
 - Add the Gestures action chooser's Play or pause media action in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions.
