@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword the Gemini provider's Google Search hint in Spanish, German, French, Ukrainian and Dutch: it now says the switch needs billing turned on for the API key. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Add the Gemini provider's Reasoning effort hint, Google Search switch and Ignore talk not meant for it switch in Spanish, German, French, Ukrainian and Dutch: their titles and hints. The German, French, Ukrainian and Dutch messages are maintainer additions.
 
 - Add Fleet Management's Gemini API key credential and the Voice Satellite Realtime page's hint that names Gemini in Spanish, German, French, Ukrainian and Dutch. The hint replaces the one that named only OpenAI and xAI Grok. The German, French, Ukrainian and Dutch messages are maintainer additions.

@@ -18973,5 +18973,10 @@
     "source": "f10d2129b786c6095dc385bb02a036e72af251a8ba725419b6389e315c9d7775",
     "translation": "7ca81ee3600e704c46534f318db15a76369ec0f9e7edf653b7690c7c1c21dbed",
     "author": "Xavier Larrea"
+  },
+  "settingVoiceRealtimeGeminiSearchBillingDescription": {
+    "source": "28b32baf518f97b71e86655b98ec4ac23d12a7cc4b68f1f8acbeb25e36a2b006",
+    "translation": "4f65f01e9544a9325515588a378b852ddfbbb971deda2903ce06e4f085bb4446",
+    "author": "Xavier Larrea"
   }
 }

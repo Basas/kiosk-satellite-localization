@@ -22814,5 +22814,11 @@
     "translation": "ae68714c6cb10d01de00381af04522053447dde4223e7aee4d99ccd2d1d7ddcb",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "settingVoiceRealtimeGeminiSearchBillingDescription": {
+    "source": "28b32baf518f97b71e86655b98ec4ac23d12a7cc4b68f1f8acbeb25e36a2b006",
+    "translation": "d615b0f795d8b8eff2fb5d4cd4b54c60b5ee340462f9e9922a7b77a39fb7862e",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

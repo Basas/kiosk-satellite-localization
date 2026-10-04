@@ -10,7 +10,7 @@
   "settingVoiceRealtimeReasoningDescription": "Більше зусиль дає кращі відповіді на складні запитання. Потрібна модель gpt-realtime-2.",
   "settingVoiceRealtimeGeminiReasoningDescription": "Більше зусиль дає кращі відповіді на складні запитання. Потрібна модель, що міркує, наприклад gemini-3.8-live-extended-thinking.",
   "settingVoiceRealtimeGeminiSearchTitle": "Пошук Google",
-  "settingVoiceRealtimeGeminiSearchDescription": "Дозволяє моделі шукати інформацію в інтернеті. Може знадобитися ввімкнути оплату для ключа API.",
+  "settingVoiceRealtimeGeminiSearchBillingDescription": "Дозволяє моделі шукати інформацію в інтернеті. Потрібно ввімкнути оплату для ключа API.",
   "settingVoiceRealtimeGeminiProactiveTitle": "Ігнорувати мовлення, звернене не до нього",
   "settingVoiceRealtimeGeminiProactiveDescription": "Модель мовчить, коли те, що вона чує, звернено не до неї. Експериментальна функція Google.",
   "voiceRealtimeReasoningDefault": "Типово для моделі",
