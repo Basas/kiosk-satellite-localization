@@ -51,5 +51,9 @@
   "voiceRealtimeConfigure": "配置",
   "voiceRealtimeSaveValidate": "保存并验证",
   "voiceRealtimeNotConfigured": "未配置",
-  "voiceRealtimeValidated": "连接已验证"
+  "voiceRealtimeValidated": "连接已验证",
+  "settingVoiceRealtimeXaiWebSearchTitle": "网页搜索",
+  "settingVoiceRealtimeXaiWebSearchDescription": "允许模型在网上查询信息。",
+  "settingVoiceRealtimeXaiXSearchTitle": "X 搜索",
+  "settingVoiceRealtimeXaiXSearchDescription": "允许模型搜索 X 上的帖子。"
 }

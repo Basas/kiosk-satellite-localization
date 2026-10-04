@@ -30,5 +30,6 @@
   "settingVoiceOverlayModeDescription": "选择“停靠”时，在仪表盘上以小气泡显示，不显示图片、天气或视频等结果。",
   "voiceOverlayFullScreen": "全屏",
   "voiceOverlayDocked": "停靠",
-  "voiceListeningEllipsis": "正在聆听…"
+  "voiceListeningEllipsis": "正在聆听…",
+  "voiceSkinVoiceOnly": "仅语音"
 }
