@@ -6,7 +6,7 @@
   "settingScreensaverWidgetScaleDescription": "统一调整所有小组件的大小，以适应屏幕。各小组件之间原有的大小比例不变。",
   "settingScreensaverWidgetFontTitle": "全局字体",
   "settingScreensaverWidgetFontDescription": "小组件使用的字体。各小组件可单独选择。",
-  "settingScreensaverWidgetFontWeightTitle": "全局字重",
+  "settingScreensaverWidgetFontWeightTitle": "全局字体粗细",
   "settingScreensaverWidgetFontWeightDescription": "小组件文字的粗细。“默认”沿用各行原有粗细，各小组件可单独设置。",
   "settingScreensaverWidgetTextShadowTitle": "文字投影",
   "settingScreensaverWidgetTextShadowDescription": "为小组件文字添加阴影，使其在照片上更清晰。",

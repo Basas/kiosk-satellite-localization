@@ -8,7 +8,7 @@
   "settingDisableImpellerDescription": "使用旧版 Skia 渲染器，适用于启动时崩溃的旧 GPU。发生两次此类崩溃后自动启用，下次启动应用时生效。",
   "settingLegacyWebViewTitle": "旧版 WebView 渲染器",
   "settingLegacyWebViewDescription": "将仪表盘绘制为纹理，适用于仪表盘出现时崩溃的旧 GPU。设备需要时自动启用，下次启动应用时生效。",
-  "deviceHostnamePlaceholder": "自动根据设备名称生成",
+  "deviceHostnamePlaceholder": "根据设备名称自动生成",
   "deviceConfiguration": "配置",
   "devicePermissionsManager": "权限管理器",
   "deviceOptions": "选项",
