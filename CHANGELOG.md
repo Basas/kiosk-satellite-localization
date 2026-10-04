@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Voice Satellite Appearance page's Voice Only skin name in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions.
+
 - Add the Gestures action chooser's Play or pause media action in Spanish, German, French, Ukrainian and Dutch. The German, French, Ukrainian and Dutch messages are maintainer additions.
 
 - Reword the Gemini provider's Google Search hint in Spanish, German, French, Ukrainian and Dutch: it now says the switch needs billing turned on for the API key. The German, French, Ukrainian and Dutch messages are maintainer additions.
