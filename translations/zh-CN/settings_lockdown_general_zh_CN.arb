@@ -1,0 +1,16 @@
+{
+  "@@locale": "zh_CN",
+  "settingLockdownEnabledTitle": "启用锁定模式",
+  "settingLockdownEnabledDescription": "禁用屏幕交互，直到通过 Home Assistant 或退出手势关闭。",
+  "settingLockdownMenuTitle": "在 Kiosk 菜单中显示",
+  "settingLockdownMenuDescription": "在 Kiosk 菜单中添加锁定屏幕的“锁定模式”入口。使用退出手势、远程管理或 Home Assistant 解锁。",
+  "settingLockdownBlackoutTitle": "黑屏",
+  "settingLockdownBlackoutDescription": "锁定时将屏幕变为黑色。",
+  "settingLockdownAllowScreensaverTitle": "允许屏保",
+  "settingLockdownAllowScreensaverDescription": "锁定时允许运行屏保。移动唤醒会保持停用，直到解除锁定。",
+  "settingLockdownExitGestureTitle": "锁定模式退出手势",
+  "settingLockdownExitGestureDescription": "在任意位置快速点击以关闭锁定模式；若设置了 Kiosk PIN 码，需先输入。长按变体需要按住最后一次点击。禁用后只能通过远程管理或 Home Assistant 关闭。",
+  "lockdownGestureNone": "禁用（仅远程）",
+  "lockdownExplanation": "锁定模式会禁止仪表盘交互，启用所有 Kiosk 模式保护措施而不更改 Kiosk 模式设置，并暂停唤醒词检测。启用上方“系统界面保护”后，通知栏和最近任务界面也会被阻止。Home Assistant 会通过 ESPHome 获得锁定模式开关。",
+  "lockdownSearch": "仅可远程配置的触摸保护层。请从远程管理界面设置，所需权限位于“所需系统权限”中。"
+}

@@ -1,0 +1,17 @@
+{
+  "@@locale": "zh_CN",
+  "settingScreensaverDismissOnFaceTitle": "检测到人脸时关闭屏保",
+  "settingScreensaverDismissOnFaceDescription": "有人看向 Kiosk 时唤醒屏幕，而非仅根据移动。摄像头仅在屏保期间运行。警告：人脸需要有光照；黑暗时请通过计划改用移动检测。",
+  "settingScreensaverDismissOnFaceScreenOffOnlyTitle": "仅屏幕关闭时",
+  "settingScreensaverDismissOnFaceScreenOffOnlyDescription": "屏幕开启时，检测到人脸仍保持屏保显示。屏幕关闭后，检测会唤醒仪表盘。触摸仍可关闭屏保。",
+  "settingScreensaverPostponeOnFaceTitle": "检测到人脸时推迟屏保",
+  "settingScreensaverPostponeOnFaceDescription": "有人看向 Kiosk 时延迟启动屏保。警告：摄像头会持续运行，并额外承担人脸检测的 CPU 开销。",
+  "settingFaceSensitivityTitle": "人脸灵敏度",
+  "settingFaceSensitivityDescription": "值越高，越容易被较小、较远的人脸唤醒。1 需要人脸靠近屏幕；100 会响应摄像头能辨认的任何人脸。",
+  "screensaverDetectionFacePage": "人脸检测",
+  "screensaverDetectionFaceHint": "有人看向设备时关闭屏保",
+  "screensaverDetectionMotionPrecedence": "“检测到移动时关闭屏保”已开启且优先级更高，人脸检测会保持空闲，直到关闭该选项。",
+  "screensaverDetectionFaceTuning": "帧率、摄像头选择和启动延迟可在摄像头设置中调整。",
+  "screensaverDetectionAndroidUnsupported": "此 Android 版本不支持。",
+  "screensaverDetectionX86Unsupported": "x86 设备不支持。"
+}

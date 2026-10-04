@@ -1,0 +1,6 @@
+{
+  "@@locale": "zh_CN",
+  "setupServiceHelp": "屏幕关闭或其他应用位于前台时保持应用运行，使 Home Assistant 连接及移动检测、蓝牙代理等功能继续运行。下方权限为可选但建议授予，各项都可帮助应用在屏幕关闭时保持运行。",
+  "setupBatteryMissing": "屏幕关闭时 Android 可能暂停应用，同时断开 Home Assistant 连接。",
+  "setupOverlayMissing": "没有此权限，服务无法在崩溃后重新启动 Kiosk。"
+}

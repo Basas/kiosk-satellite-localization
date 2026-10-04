@@ -1,0 +1,4 @@
+{
+  "@@locale": "zh_CN",
+  "androidAccessibilityHelp": "当 Kiosk 模式或锁定模式保护屏幕时，通知栏和最近任务界面一旦打开便会被关闭。Kiosk Satellite 不会读取任何屏幕内容。"
+}

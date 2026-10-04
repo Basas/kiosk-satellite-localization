@@ -1,0 +1,12 @@
+{
+  "@@locale": "zh_CN",
+  "settingMediaVolumeTitle": "媒体音量",
+  "settingMediaVolumeDescription": "音乐和视频按主音量的此比例播放。Music Assistant 中的 Sendspin 播放器音量会调整此滑块。",
+  "settingAssistantVolumeTitle": "助手音量",
+  "settingAssistantVolumeDescription": "语音回复和提示音按主音量的此比例播放，独立于媒体音量。",
+  "settingIntercomVolumeTitle": "对讲音量",
+  "settingIntercomVolumeDescription": "其他 Kiosk 设备的语音和广播按主音量的此比例播放。",
+  "screenAudioVolume": "音频音量",
+  "screenAudioMasterVolume": "主音量",
+  "screenAudioMasterHelp": "设备音量。媒体、对讲和助手音量按此音量比例调整。"
+}

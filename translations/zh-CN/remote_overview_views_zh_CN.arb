@@ -1,0 +1,9 @@
+{
+  "@@locale": "zh_CN",
+  "overviewGoView": "前往视图",
+  "overviewLoadingViews": "正在加载视图…",
+  "overviewPickView": "选择仪表盘视图…",
+  "overviewDefaultView": "默认视图",
+  "overviewNoDashboards": "未找到仪表盘",
+  "overviewViewsUnavailable": "视图不可用"
+}

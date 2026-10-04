@@ -1,0 +1,18 @@
+{
+  "@@locale": "zh_CN",
+  "settingAutoReloadOnErrorTitle": "出错时自动重新加载",
+  "settingAutoReloadOnErrorDescription": "从页面故障和应用崩溃中自动恢复。",
+  "settingPullToRefreshTitle": "启用下拉刷新",
+  "settingPullToRefreshDescription": "从页面顶部向下拖动以重新加载。默认关闭，避免在可滚动仪表盘中意外触发。",
+  "settingPullToRefreshClearCacheTitle": "下拉刷新时清除缓存",
+  "settingPullToRefreshClearCacheDescription": "下拉时还会在重新加载前清除网页缓存和唤醒词模型，使内容重新获取。登录状态和已保存的页面数据会保留。",
+  "settingBrowserZoomTitle": "缩放级别",
+  "settingBrowserZoomDescription": "缩放整个页面。远距离查看的壁挂平板可使用大于 1x 的值，小屏幕可使用小于 1x 的值显示更多仪表盘内容。",
+  "settingPinchToZoomTitle": "启用双指缩放",
+  "settingPinchToZoomDescription": "用双指捏合缩放页面。默认关闭，避免误触导致 Kiosk 仪表盘缩放。",
+  "settingDisableScrollingTitle": "禁用滚动",
+  "settingDisableScrollingDescription": "固定页面，使其无法向任何方向滚动。点击和按钮仍然有效。",
+  "browserCrashPermissionHelp": "没有此权限，Kiosk 无法在崩溃后重新打开。",
+  "browserCrashPermissionMissing": "缺少“显示在其他应用上层”权限",
+  "browserCrashPermissionRemoteHelp": "没有此权限，Kiosk 无法在崩溃后自行重新打开。授权页面会显示在平板上。"
+}

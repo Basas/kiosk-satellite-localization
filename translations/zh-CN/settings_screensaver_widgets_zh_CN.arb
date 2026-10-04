@@ -1,0 +1,20 @@
+{
+  "@@locale": "zh_CN",
+  "settingScreensaverWidgetsTitle": "小组件",
+  "settingScreensaverWidgetsDescription": "屏保角落中的小型叠加内容。",
+  "settingScreensaverWidgetScaleTitle": "全局小组件缩放",
+  "settingScreensaverWidgetScaleDescription": "一起缩放所有小组件以适应屏幕尺寸。各小组件保留相对缩放比例。",
+  "settingScreensaverWidgetFontTitle": "全局字体",
+  "settingScreensaverWidgetFontDescription": "所有小组件使用的字体。各小组件可单独选择。",
+  "settingScreensaverWidgetFontWeightTitle": "全局字重",
+  "settingScreensaverWidgetFontWeightDescription": "所有小组件文字的粗细。“默认”使用各行自身的字重，各小组件可单独选择。",
+  "settingScreensaverWidgetTextShadowTitle": "文字投影",
+  "settingScreensaverWidgetTextShadowDescription": "为小组件文字添加投影，提高在照片上的可读性。",
+  "settingScreensaverVignetteStrengthTitle": "暗角强度",
+  "settingScreensaverVignetteStrengthDescription": "小组件后方阴影的深度，提高在明亮照片上的可读性。0 表示关闭。",
+  "screensaverOverlayWidgetsEmpty": "暂无小组件",
+  "screensaverOverlayRemove": "移除小组件",
+  "screensaverOverlayAdd": "添加小组件",
+  "screensaverOverlayAddHelp": "在角落显示小时钟、天气、电池或实体。",
+  "screensaverOverlayWidgetsHint": "角落叠加内容及其缩放"
+}

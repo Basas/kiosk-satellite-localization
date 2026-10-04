@@ -1,0 +1,17 @@
+{
+  "@@locale": "zh_CN",
+  "settingSendspinShowPlayerTitle": "显示悬浮播放器",
+  "settingSendspinShowPlayerDescription": "音乐播放时，在仪表盘上显示包含封面、曲目信息和进度的小窗口。可拖动至任意位置，并记住位置。",
+  "settingSendspinPlayerSizeTitle": "播放器大小",
+  "settingSendspinPlayerSizeDescription": "“紧凑”使用不显眼的小窗口。“大型”增加适合触摸的上一曲、播放/暂停和下一曲按钮，控制整个播放组。",
+  "settingSendspinPausedHideMinutesTitle": "暂停后隐藏播放器的时间",
+  "settingSendspinPausedHideMinutesDescription": "暂停的播放器在屏幕上保留的时长，同时适用于悬浮播放器和“正在播放”视图。",
+  "settingSendspinDismissKeepsPlayingTitle": "关闭后继续播放",
+  "settingSendspinDismissKeepsPlayingDescription": "甩开悬浮播放器仅将其隐藏，不会停止音乐。",
+  "settingSendspinPlayerShortcutTitle": "在 Kiosk 菜单中显示",
+  "settingSendspinPlayerShortcutDescription": "在 Kiosk 菜单中添加显示或隐藏悬浮播放器的入口。警告：此播放器没有正在播放的内容或播放队列时，不会显示。",
+  "mediaFloatingPage": "悬浮播放器",
+  "mediaFloatingHint": "显示在仪表盘上的小卡片",
+  "mediaCompact": "紧凑",
+  "mediaLargeControls": "大型，带控制按钮"
+}

@@ -1,0 +1,15 @@
+{
+  "@@locale": "zh_CN",
+  "settingMotionSensorTitle": "移动传感器",
+  "settingMotionSensorDescription": "将移动检测公开为 Home Assistant 传感器。警告：摄像头会持续运行，即使屏幕已关闭。",
+  "settingMotionSensorOffDelayTitle": "清除延迟",
+  "settingMotionSensorOffDelayDescription": "无移动持续多少秒后，传感器显示无移动。",
+  "settingMotionFpsTitle": "移动检测帧率",
+  "settingMotionFpsDescription": "摄像头每秒用于检测移动的帧数。较低值可减轻 CPU 负载；每秒 2 帧已足以检测有人靠近。",
+  "settingMotionStartDelayTitle": "启动延迟",
+  "settingMotionStartDelayDescription": "摄像头启动后的这段时间内忽略移动，适用于开启时摄像头会发生物理移动的设备。",
+  "settingMotionSensitivityTitle": "移动灵敏度",
+  "settingMotionSensitivityDescription": "值越高，越容易检测到细微移动。1 需要画面大范围变化；100 会响应极细微的移动。",
+  "cameraMotionPage": "移动传感器",
+  "cameraMotionHint": "Home Assistant 移动传感器及共用检测设置"
+}

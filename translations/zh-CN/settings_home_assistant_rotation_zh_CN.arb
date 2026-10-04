@@ -1,0 +1,19 @@
+{
+  "@@locale": "zh_CN",
+  "settingHaRotationEnabledTitle": "启用仪表盘视图轮播",
+  "settingHaRotationEnabledDescription": "循环切换所选仪表盘视图，每个视图显示指定秒数。",
+  "settingHaRotationSecondsTitle": "每个视图的显示秒数",
+  "settingHaRotationSecondsDescription": "每个视图在屏幕上停留的时长。",
+  "settingHaRotationPauseSecondsTitle": "交互时暂停轮播（秒）",
+  "settingHaRotationPauseSecondsDescription": "触摸屏幕后暂停轮播此时长，每次触摸会重新计时。语音交互期间暂停，直到交互结束。0 表示触摸时继续轮播。",
+  "settingHaRotationCrossfadeTitle": "视图切换时淡入淡出",
+  "settingHaRotationCrossfadeDescription": "先淡出至背景，再淡入下一视图，而非立即切换。切换到其他仪表盘或外部页面时仍会立即切换。",
+  "settingHaRotationFadeSecondsTitle": "淡入淡出时长（秒）",
+  "settingHaRotationFadeSecondsDescription": "淡出与淡入的总时长。加载下一视图可能额外耗时，尤其首次访问时。",
+  "haRotation": "仪表盘视图轮播",
+  "haRotationHint": "视图轮播、停留时长和淡入淡出",
+  "haDefaultView": "默认视图",
+  "haExternalPages": "外部页面",
+  "haFadeError": "请选择 0.2 至 5 秒之间的淡入淡出时长。",
+  "haPauseRemoteHelp": "触摸后暂停轮播此时长，每次触摸重新计时。语音交互始终暂停至结束。0 表示持续轮播。"
+}
