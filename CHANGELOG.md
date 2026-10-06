@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Sendspin Player page's Adjust the group volume hint in Spanish, German, French, Ukrainian, Dutch and Simplified Chinese. The switch reuses the Sonos page's title. The German, French, Ukrainian, Dutch and Simplified Chinese messages are maintainer additions.
+
 - Add the Gestures action chooser's Stop the alarm and Snooze the alarm actions in Spanish, German, French, Ukrainian, Dutch and Simplified Chinese. The German, French, Ukrainian, Dutch and Simplified Chinese messages are maintainer additions.
 
 - Add the Screensaver page's Follow Android animation settings switch in Spanish, German, French, Ukrainian, Dutch and Simplified Chinese: its title and hint. The German, French, Ukrainian, Dutch and Simplified Chinese messages are maintainer additions.
