@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Screensaver page's Follow Android animation settings switch in Spanish, German, French, Ukrainian, Dutch and Simplified Chinese: its title and hint. The German, French, Ukrainian, Dutch and Simplified Chinese messages are maintainer additions.
+
 - Add the Gestures action chooser's End the intercom call action in Spanish, German, French, Ukrainian, Dutch and Simplified Chinese. The German, French, Ukrainian, Dutch and Simplified Chinese messages are maintainer additions. Sync the catalog tool's base language fallback for regional catalogs.
 
 - Record the complete Simplified Chinese translation by panda-star357 from PR #10, with 3,778 reviewed messages. Apply 25 maintainer wording corrections while preserving contributor evidence and credit.
