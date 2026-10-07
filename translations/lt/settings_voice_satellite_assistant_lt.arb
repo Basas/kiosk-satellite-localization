@@ -4,7 +4,7 @@
   "voiceAssistant1Help": "Atsakymai pažadinimo žodis 1.",
   "voiceAssistant2": "2 padėjėjas",
   "voiceAssistant2Help": "Atsakymai pažadinti žodį 2.",
-  "voicePipelines": "Vamzdynai",
+  "voicePipelines": "Assist grandinės",
   "voicePreferred": "Pageidautina",
   "voiceNone": "Nėra",
   "voiceThisKiosk": "Šis kioskas",
@@ -19,6 +19,6 @@
   "settingVoiceTtsOutputDescription": "Šiame garsiakalbyje skamba varpeliai, atsakymai, pranešimai ir laikmačio įspėjimai.",
   "settingVoiceTtsOutputModeTitle": "Žaisti kaip",
   "settingVoiceTtsOutputModeDescription": "Pranešimas leidžia garsiakalbiui pristabdyti muziką ir ją tęsti. Įprastas atkūrimas vėliau vėl paleidžia muziką garsiakalbiams, kurie ignoruoja pranešimus.",
-  "voiceOptionAnnouncement": "Skelbimas",
+  "voiceOptionAnnouncement": "Balso pranešimas",
   "voiceOptionNormalPlayback": "Normalus atkūrimas"
 }

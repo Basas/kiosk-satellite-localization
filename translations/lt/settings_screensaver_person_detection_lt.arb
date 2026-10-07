@@ -18,5 +18,5 @@
   "screensaverDetectionMinutesAgo": "{count} prieš min",
   "screensaverDetectionHoursAgo": "{count} prieš val",
   "screensaverDetectionDetected": "Aptikta",
-  "screensaverDetectionClear": "Aišku"
+  "screensaverDetectionClear": "Žmogus neaptiktas"
 }

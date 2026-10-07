@@ -42,7 +42,7 @@
   "voiceStepStop": "Išjunkite prietaisų skydelio variklį",
   "voiceStepStart": "Pradėkite klausytis čia",
   "voiceStepTurnOn": "Šiame kioske įjunkite Voice Satellite",
-  "voiceStepEntities": "Nustatykite kiosko objektus Home Assistant",
+  "voiceStepEntities": "Nustatykite kiosko esybes Home Assistant",
   "voiceStepCheck": "Patikrinkite palydovą Home Assistant",
   "voiceMigrationStep": "{n} veiksmas {total}",
   "voiceMigrationStillPoint": "Jie vis dar rodo {satellite}. Redaguokite juos Home Assistant, kad galėtumėte naudoti šio kiosko palydovą. Vedlys jų nekeičia.",

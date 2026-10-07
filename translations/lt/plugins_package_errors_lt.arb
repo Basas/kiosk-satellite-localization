@@ -6,7 +6,7 @@
   "pluginErrorAssetSymlinks": "Turto katalogai negali būti simbolinės nuorodos",
   "pluginErrorAssetsIntegrity": "Įdiegtų išteklių vientisumo patikrinimas nepavyko",
   "pluginErrorAssetIntegrity": "Nepavyko patikrinti įdiegto ištekliaus vientisumo",
-  "pluginErrorManifestMismatch": "Paketo aprašas neatitinka peržiūrėto leidimo aprašo",
+  "pluginErrorManifestMismatch": "Paketo manifestas nesutampa su peržiūrėtos versijos manifestu.",
   "pluginErrorStagingExists": "Sustojimo katalogas jau yra",
   "pluginErrorCreateDirectory": "Nepavyko sukurti papildinio katalogo",
   "pluginErrorFileCount": "Palaikoma daugiausia 512 paketo failų",

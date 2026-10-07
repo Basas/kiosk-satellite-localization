@@ -10,5 +10,5 @@
   "voiceBatteryHeld": "Android klausytojas bus paleistas.",
   "voiceBatteryMissing": "Be to klausytojas sustabdomas po kelių valandų.",
   "voicePermissionDirections": "Suteikite jas pačiame įrenginyje: braukite nuo kairiojo krašto → Nustatymai → Voice Satellite → Reikalingi sistemos leidimai.",
-  "voicePermissionsSearch": "Mikrofonas ir kita suteikia pažadinimo žodžių aptikimo poreikius."
+  "voicePermissionsSearch": "Mikrofonas ir kiti leidimai, reikalingi pažadinimo žodžiams aptikti."
 }

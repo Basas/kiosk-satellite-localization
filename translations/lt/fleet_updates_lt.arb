@@ -1,11 +1,11 @@
 {
   "@@locale": "lt",
-  "fleetUpdateTheFleet": "Atnaujinkite laivyną",
-  "fleetUpdateTheWholeFleetToTheKioskSatelliteVersion": "Atnaujinkite visą parką į Kiosk Satellite versiją, veikiančią lyderyje.",
-  "fleetKeepFollowersOnThisVersion": "Stebėkite šią versiją",
-  "fleetAutomaticallyUpdateAllFollowersToTheKioskSatelliteVersion": "Automatiškai atnaujinti visus sekėjus į Kiosk Satellite versiją, veikiančią lyderyje.",
+  "fleetUpdateTheFleet": "Atnaujinti kioskų parką",
+  "fleetUpdateTheWholeFleetToTheKioskSatelliteVersion": "Atnaujinti visą kioskų parką iki lyderio naudojamos Kiosk Satellite versijos.",
+  "fleetKeepFollowersOnThisVersion": "Palikti sekėjus prie šios versijos",
+  "fleetAutomaticallyUpdateAllFollowersToTheKioskSatelliteVersion": "Automatiškai atnaujinti visus sekėjus į lyderio naudojamą Kiosk Satellite versiją.",
   "fleetNothingToUpdate": "Nėra ką atnaujinti",
   "fleetUpdating": "Atnaujinama",
   "fleetNamesInstalling": "{names} diegimas.",
-  "fleetSearchUpdates": "Įdiekite kiekvienam stebėtojui siūlomą leidimą, tada čia."
+  "fleetSearchUpdates": "Kiekviename sekėjų kioske įdiekite siūlomą versiją, tada įdiekite ją ir šiame kioske."
 }

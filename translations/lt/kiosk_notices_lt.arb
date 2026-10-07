@@ -15,7 +15,7 @@
   "kioskUnknownLink": "Nežinoma kiosko nuoroda",
   "kioskOpenAppFailed": "Nepavyko atidaryti programos",
   "kioskWebViewMissing": "Android sistema WebView neįdiegta",
-  "kioskWebViewMissingHelp": "Šis įrenginys neturi WebView teikėjo, todėl Home Assistant negalima rodyti. Įdiekite Android sistemą WebView arba „Chrome“, tada iš naujo paleiskite Kiosk Satellite.",
+  "kioskWebViewMissingHelp": "Šiame įrenginyje nėra WebView teikėjo, todėl Home Assistant negali būti rodomas. Įdiekite Android System WebView arba Chrome, tada iš naujo paleiskite Kiosk Satellite.",
   "kioskDuraSpeedBlocking": "„DuraSpeed“ blokuoja prietaisų skydelį",
-  "kioskDuraSpeedBlockingHelp": "Šio planšetinio kompiuterio „DuraSpeed“ neleidžia paleisti prietaisų skydelio atvaizdavimo įrenginio, o kai kuriuose planšetiniuose kompiuteriuose nėra nustatymų puslapio. Išjunkite jį vieną kartą per adb, tada iš naujo paleiskite Kiosk Satellite:"
+  "kioskDuraSpeedBlockingHelp": "Šio planšetinio kompiuterio DuraSpeed neleidžia paleisti prietaisų skydelio atvaizdavimo variklio, o kai kuriuose planšetiniuose kompiuteriuose šiam nustatymui nėra atskiro puslapio. Vieną kartą išjunkite DuraSpeed per ADB, tada iš naujo paleiskite Kiosk Satellite:"
 }

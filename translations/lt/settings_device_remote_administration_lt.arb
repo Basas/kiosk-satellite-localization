@@ -7,7 +7,7 @@
   "settingRemotePasswordTitle": "Administratoriaus slaptažodis",
   "settingRemotePasswordDescription": "Būtina prisijungti prie nuotolinės sąsajos.",
   "settingRemoteFleetDiscoveryTitle": "Raskite kitus kioskus",
-  "settingRemoteFleetDiscoveryDescription": "Paskelbkite apie šį įrenginį tinkle ir nuotolinio administratoriaus sąraše išvardykite kitus kioskus, kad perjungtumėte juos.",
+  "settingRemoteFleetDiscoveryDescription": "Padaryti šį įrenginį aptinkamą tinkle ir nuotolinio administravimo sąsajoje rodyti kitus kioskus, kad būtų galima tarp jų perjungti.",
   "deviceRemotePage": "Nuotolinis administravimas",
   "deviceAdminAddress": "Administratoriaus adresas",
   "deviceAdminAddressHelp": "Atidarykite šį adresą savo kompiuterio naršyklėje.",

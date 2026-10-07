@@ -1,7 +1,7 @@
 {
   "@@locale": "lt",
   "settingHaThemeTitle": "tema",
-  "settingHaThemeDescription": "Šviesus arba tamsus Home Assistant prietaisų skydelyje, taip pat nustatytas iš Home Assistant objekto Temos. Automatinis seka toliau nurodytus nustatymus.",
+  "settingHaThemeDescription": "Šviesus arba tamsus Home Assistant prietaisų skydelyje, taip pat nustatytas iš Home Assistant esybės Temos. Automatinis seka toliau nurodytus nustatymus.",
   "settingThemeMatchAppTitle": "Sinchronizuokite Home Assistant temas su Kiosk Satellite",
   "settingThemeMatchAppDescription": "Automatiškai suderinkite Home Assistant temą su Kiosk Satellite sąsaja.",
   "settingThemeAutoTitle": "Derinkite temą su paros laiku",

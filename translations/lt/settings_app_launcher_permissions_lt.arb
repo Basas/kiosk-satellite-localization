@@ -1,9 +1,9 @@
 {
   "@@locale": "lt",
   "launcherOverlayHeld": "Kiosk Satellite gali sugrįžti į pirmą planą ir pastebėti prisilietimus kitoje programoje.",
-  "launcherOverlayMissing": "Be to kioskas negali grįžti pats, o kitos programos prisilietimai lieka nepastebėti.",
-  "launcherOverlayRemote": "Be to kioskas negali grįžti pats, o kitos programos prisilietimai lieka nepastebėti. Planšetiniame kompiuteryje pasirodo dotacijos ekranas.",
-  "launcherBatteryMissing": "Android gali pristabdyti programą už kitos, o pristabdytas laikrodis niekada nesugrąžins kiosko.",
-  "launcherBatteryRemote": "Android gali pristabdyti programą už kitos, o pristabdytas laikrodis niekada nesugrąžins kiosko. Planšetiniame kompiuteryje pasirodo dotacijos dialogo langas.",
-  "launcherPermissionsSearch": "Dotacijos Return remiasi automatiškai."
+  "launcherOverlayMissing": "Be šio leidimo kioskas negali pats grįžti į pirmą planą, todėl neaptinka prisilietimų kitoje programoje.",
+  "launcherOverlayRemote": "Be šio leidimo kioskas negali pats grįžti į pirmą planą, todėl neaptinka prisilietimų kitoje programoje. Planšetėje pasirodo leidimo suteikimo ekranas.",
+  "launcherBatteryMissing": "Android gali pristabdyti fone veikiančią programą, o pristabdytas laikmatis nebegalės grąžinti kiosko į pirmą planą.",
+  "launcherBatteryRemote": "Android gali pristabdyti fone veikiančią programą, todėl sustabdytas laikmatis nebegalės grąžinti kiosko į pirmą planą. Planšetėje pasirodo leidimo suteikimo dialogo langas.",
+  "launcherPermissionsSearch": "Leidimai, reikalingi automatiniam grįžimui."
 }

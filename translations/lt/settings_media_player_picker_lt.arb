@@ -13,6 +13,6 @@
   "mediaHaFailed": "Home Assistant neatsakė: {error}",
   "mediaSaveFailed": "Nepavyko išsaugoti grotuvo.",
   "mediaSelectFailed": "Nepavyko pasirinkti grotuvo",
-  "mediaNotificationAccessRemote": "Be šio Android nėra medijos seansų sąrašo, todėl funkcija „Dabar leidžia“ negali sekti šiame įrenginyje leidžiamų programų. Planšetiniame kompiuteryje pasirodo dotacijos ekranas.",
+  "mediaNotificationAccessRemote": "Be šio leidimo Android nepateikia medijos seansų sąrašo, todėl „Dabar groja“ negali sekti šiame įrenginyje turinį atkuriančių programų. Planšetėje pasirodo leidimo suteikimo ekranas.",
   "mediaLocalMediaSession": "Vietinės žiniasklaidos sesija"
 }

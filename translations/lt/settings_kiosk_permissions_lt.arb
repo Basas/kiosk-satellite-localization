@@ -1,11 +1,11 @@
 {
   "@@locale": "lt",
-  "kioskForeground": "Kiosk Satellite gali sugrįžti į pirmą planą.",
+  "kioskForeground": "Kiosk Satellite gali pats grįžti į pirmą planą.",
   "kioskOverlayMissing": "Be to kioskas negali atsigauti, o užrakinimo skydas dengia tik programą.",
   "kioskGuardHeld": "Pranešimų skydelis ir naujienos užsidaro savaime, kol ekranas yra apsaugotas.",
   "kioskGuardMissing": "Be to pranešimų skydelis ir naujausi pranešimai bus pasiekiami. Įgalinkite Kiosk Satellite dalyje Prieinamumas.",
-  "kioskOverlayRemote": "Be to kioskas negali atsigauti. Planšetiniame kompiuteryje pasirodo dotacijos ekranas.",
+  "kioskOverlayRemote": "Be šio leidimo kioskas negali pats grįžti į pirmą planą. Planšetėje pasirodo leidimo suteikimo ekranas.",
   "kioskGuardRemote": "Be to pranešimų skydelis ir naujausi pranešimai bus pasiekiami. Planšetinio kompiuterio dalyje Prieinamumas įgalinkite Kiosk Satellite.",
-  "kioskGrantDevice": "Dotacija įrenginyje",
+  "kioskGrantDevice": "Suteikti leidimą įrenginyje",
   "kioskOpenSettingsDevice": "Atidarykite įrenginio nustatymus"
 }

@@ -12,7 +12,7 @@
   "settingPinchToZoomDescription": "Padidinkite puslapio mastelį dviem pirštais suimdami. Pagal numatytuosius nustatymus išjungta, todėl kiosko prietaisų skydelis lieka nepastebėtas.",
   "settingDisableScrollingTitle": "Išjungti slinkimą",
   "settingDisableScrollingDescription": "Užfiksuokite puslapį, kad jo nebūtų galima slinkti jokia kryptimi. Bakstelėjimai ir mygtukai veikia toliau.",
-  "browserCrashPermissionHelp": "Be to kioskas negali grįžti po avarijos.",
+  "browserCrashPermissionHelp": "Be šio leidimo kioskas negali pats vėl atsidaryti po strigties.",
   "browserCrashPermissionMissing": "Trūksta leidimo „Rodyti virš kitų programų“.",
-  "browserCrashPermissionRemoteHelp": "Be jo kioskas negali atsigauti po avarijos. Planšetiniame kompiuteryje pasirodo dotacijos ekranas."
+  "browserCrashPermissionRemoteHelp": "Be šio leidimo kioskas negali pats vėl atsidaryti po strigties. Planšetėje pasirodo leidimo suteikimo ekranas."
 }

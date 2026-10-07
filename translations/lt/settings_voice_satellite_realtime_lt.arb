@@ -39,7 +39,7 @@
   "settingVoiceRealtimeTalkOverTitle": "Aptarkite atsakymus",
   "settingVoiceRealtimeTalkOverDescription": "Pertraukite atsakymą kalbėdami. Išjunkite, jei jis pats pertraukia.",
   "settingVoiceRealtimeToolsTitle": "Įrankiai",
-  "settingVoiceRealtimeToolsDescription": "Ką gali valdyti padėjėjas. Home Assistant naudoja savo MCP serverio integraciją ir objektus, kuriems taikoma Assist.",
+  "settingVoiceRealtimeToolsDescription": "Ką gali valdyti padėjėjas. Home Assistant naudoja savo MCP serverio integraciją ir esybes, kuriems taikoma Assist.",
   "settingVoiceRealtimeMcpUrlTitle": "MCP serverio URL",
   "settingVoiceRealtimeMcpUrlDescription": "Serverio srautinis HTTP adresas.",
   "settingVoiceRealtimeMcpTokenTitle": "MCP prieigos raktas",

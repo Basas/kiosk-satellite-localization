@@ -1,7 +1,7 @@
 {
   "@@locale": "lt",
   "settingSendspinLyricsEnabledTitle": "Įgalinti dainų tekstus",
-  "settingSendspinLyricsEnabledDescription": "Sinchronizuoti dainų tekstai rodinyje „Dabar groja“ kiekvienam grotuvo šaltiniui.",
+  "settingSendspinLyricsEnabledDescription": "Sinchronizuoti dainų žodžiai rodinyje „Dabar grojama“, nepriklausomai nuo grotuvo šaltinio.",
   "settingSendspinLyricsSourceTitle": "Dainos šaltinis",
   "settingSendspinLyricsSourceDescription": "Iš kur atsiranda dainų tekstai. Music Assistant puslapyje reikia serverio adreso ir prieigos rakto.",
   "settingSendspinLyricsFallbackTitle": "Atsarginis Music Assistant",

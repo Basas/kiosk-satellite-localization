@@ -6,13 +6,13 @@
   "screensaverOverlayNameHelp": "Jei norite naudoti Home Assistant pavadinimą, palikite tuščią.",
   "screensaverOverlayValue": "Rodoma vertė",
   "screensaverOverlayState": "valstybė",
-  "screensaverOverlayEntityRequired": "Pasirinkite subjektą.",
-  "screensaverOverlaySearchHint": "Pavadinimas arba subjekto ID",
-  "screensaverOverlaySearchHintRemote": "Ieškokite pagal pavadinimą arba subjekto ID",
-  "screensaverOverlaySearchEmpty": "Įveskite norėdami ieškoti objektų.",
+  "screensaverOverlayEntityRequired": "Pasirinkite esybę.",
+  "screensaverOverlaySearchHint": "Pavadinimas arba esybės ID",
+  "screensaverOverlaySearchHintRemote": "Ieškokite pagal pavadinimą arba esybės ID",
+  "screensaverOverlaySearchEmpty": "Įveskite norėdami ieškoti esybių.",
   "screensaverOverlayNoMatches": "Niekas neatitiko.",
   "screensaverOverlaySearching": "Ieškoma…",
   "screensaverOverlayUnreachable": "Nepavyko pasiekti Home Assistant",
   "screensaverOverlayNoAnswer": "Prietaisas neatsiliepė.",
-  "screensaverOverlaySearchError": "Nepavyko ieškoti objektų: {error}"
+  "screensaverOverlaySearchError": "Nepavyko ieškoti esybių: {error}"
 }

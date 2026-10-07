@@ -13,5 +13,5 @@
   "screensaverDetectionMotionPrecedence": "Atsisakyti judant yra įjungta ir teikiama pirmenybė, todėl veido aptikimo funkcija neveikia, kol išjungiama.",
   "screensaverDetectionFaceTuning": "Kadrų dažnis, fotoaparato pasirinkimas ir paleidimo delsa reguliuojami fotoaparato nustatymuose.",
   "screensaverDetectionAndroidUnsupported": "Nėra šioje Android versijoje.",
-  "screensaverDetectionX86Unsupported": "Negalima naudoti x86 įrenginiuose."
+  "screensaverDetectionX86Unsupported": "Ši funkcija negalima x86 įrenginiuose."
 }

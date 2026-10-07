@@ -1,8 +1,8 @@
 {
   "@@locale": "lt",
   "deviceRequiredPermissions": "Reikalingi sistemos leidimai",
-  "devicePermissionIntro": "Šiam įrenginiui suteikiamos dotacijos, todėl kiekvienas mygtukas čia atidaro Android dialogo langą arba nustatymų ekraną. Kai kurie prekių ženklai viršuje prideda savo akumuliatorių arba automatinio paleidimo tvarkyklę, apie kurią Android negali pranešti.",
-  "devicePermissionIntroRemote": "Dotacijos suteikiamos įrenginyje, todėl kiekvienas mygtukas atidaro Android dialogo langą arba nustatymų ekraną. Kai kurie prekių ženklai viršuje prideda savo akumuliatorių arba automatinio paleidimo tvarkyklę, apie kurią Android negali pranešti.",
+  "devicePermissionIntro": "Leidimai suteikiami šiame įrenginyje, todėl kiekvienas mygtukas atidaro Android dialogo langą arba nustatymų ekraną. Kai kurie gamintojai turi papildomą akumuliatoriaus arba automatinio paleidimo tvarkyklę, apie kurią Android negali pateikti informacijos.",
+  "devicePermissionIntroRemote": "Leidimai suteikiami pačiame įrenginyje, todėl kiekvienas mygtukas atidaro Android dialogo langą arba nustatymų ekraną. Kai kurie gamintojai turi papildomą akumuliatoriaus arba automatinio paleidimo tvarkyklę, apie kurią Android negali pateikti informacijos.",
   "deviceMicrophone": "Mikrofonas",
   "deviceMicrophoneHeld": "Leidžia naudoti mikrofoną pažadinimo žodžiui aptikti, iš kalbos į tekstą ir vidinio ryšio skambučiams.",
   "deviceBattery": "Neribota baterija",
@@ -30,7 +30,7 @@
   "deviceMicBlocked": "Užblokuota. Android daugiau neprašys, todėl leiskite tai programos nustatymuose.",
   "deviceMicMissing": "Įjungtas pažadinimo žodžių aptikimas ir nieko neklauso.",
   "deviceMicIdle": "Reikalingas pažadinimo žodžių aptikimui, domofonui ir puslapiams, kuriuose prašoma mikrofono.",
-  "deviceBatteryMissing": "Android gali pristabdyti programą, kai ekranas išjungtas, nutraukdamas Home Assistant ryšį ir su juo esančius ESPHome objektus.",
+  "deviceBatteryMissing": "Kai ekranas išjungtas, Android gali pristabdyti programą ir kartu nutraukti Home Assistant ryšį bei atjungti ESPHome esybes.",
   "deviceCameraMissing": "Kamera įjungta ir jos atidaryti negalima.",
   "deviceCameraIdle": "Reikalingas judesio aptikimui, fotoaparato momentinėms nuotraukoms ir puslapiams, kuriuose prašoma kameros.",
   "deviceBluetoothMissing": "Bluetooth tarpinis serveris yra įjungtas ir negali nuskaityti.",
@@ -47,10 +47,10 @@
   "deviceAdminIdle": "Išjungia ekraną, o ne tik užtemdo skydelį.",
   "deviceFilesIdle": "Leidžia failų tvarkyklei naršyti bendrinamą saugyklą, o ne tik programų aplanką.",
   "deviceUsageIdle": "Leidžia priekinio plano programos jutikliui pavadinti kitas programas nei Kiosk Satellite.",
-  "deviceLocationMissing": "Android nepateiks Bluetooth nuskaitymo rezultatų be vietos nustatymo, o vietos jutikliai negali nuskaityti GPS imtuvo.",
+  "deviceLocationMissing": "Nesuteikus vietos leidimo, Android nepateiks Bluetooth nuskaitymo rezultatų, o vietos jutikliai negalės nuskaityti GPS imtuvo.",
   "deviceLocationIdle": "Naudojamas puslapiuose, kuriuose prašoma jūsų buvimo vietos, Bluetooth nuskaitymo ir ESPHome vietos jutiklių.",
-  "deviceServiceOverlayMissing": "Be to paslauga negali paleisti kiosko iš naujo po gedimo arba uždarymo iš neseniai.",
-  "deviceServiceOverlayIdle": "Reikėjo vėl paleisti kioską po avarijos.",
+  "deviceServiceOverlayMissing": "Be šio leidimo paslauga negali vėl atidaryti kiosko po strigties arba uždarius jį naujausių programų sąraše.",
+  "deviceServiceOverlayIdle": "Reikalingas, kad kioskas galėtų vėl atsidaryti po strigties.",
   "deviceListeningMissing": "Foninis klausymas įjungtas ir nieko neklauso.",
   "deviceListeningIdle": "Reikalingas klausantis fone.",
   "deviceMotionIdle": "Reikalingas judesio aptikimui.",
@@ -58,6 +58,6 @@
   "deviceOverlayAdb": "Šiame įrenginyje nėra nustatymų ekrano. Suteikite tai per adb: adb apvalkalo programos set me.jxl.kiosk_satellite SYSTEM_ALERT_WINDOW leisti",
   "deviceNotificationAccess": "Prieiga prie pranešimų",
   "deviceNotificationAccessHeld": "„Now Playing“ gali stebėti šiame įrenginyje leidžiamas programas.",
-  "deviceNotificationAccessMissing": "Be šio Android nėra medijos seansų sąrašo, todėl funkcija „Dabar leidžia“ negali sekti šiame įrenginyje leidžiamų programų.",
-  "deviceNotificationAccessIdle": "Leiskite „Now Playing“ stebėti šiame įrenginyje leidžiamas programas."
+  "deviceNotificationAccessMissing": "Be šio leidimo Android nepateikia medijos seansų sąrašo, todėl rodinys „Dabar grojama“ negali sekti šiame įrenginyje turinį atkuriančių programų.",
+  "deviceNotificationAccessIdle": "Leidžia rodiniui „Dabar grojama“ sekti šiame įrenginyje turinį atkuriančias programas."
 }

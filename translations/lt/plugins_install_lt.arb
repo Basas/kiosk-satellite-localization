@@ -8,7 +8,7 @@
   "pluginAuthor": "Autorius",
   "pluginLicense": "Licencija",
   "pluginPluginsRunCodeInsideKioskSatelliteAndCanAccess": "Papildiniai paleidžia kodą viduje Kiosk Satellite ir gali pasiekti programos duomenis bei suteikti Android leidimus. Sugedęs arba kenkėjiškas papildinys gali atskleisti privačią informaciją arba sustabdyti programos veikimą. Įdiekite tik tų autorių, kuriais pasitikite, papildinius.",
-  "pluginNewPluginsStartDisabledUpdatesPreserveTheEnabledState": "Nauji papildiniai paleidžiami išjungti. Atnaujinimai išsaugo įjungtą būseną ir automatiškai paleidžia paleisti papildinius.",
+  "pluginNewPluginsStartDisabledUpdatesPreserveTheEnabledState": "Nauji papildiniai pagal numatytuosius nustatymus būna išjungti. Atnaujinimai išsaugo jų įjungimo būseną ir automatiškai iš naujo paleidžia veikiančius papildinius.",
   "pluginTrustAndUpdate": "Pasitikėk ir atnaujink",
   "pluginTrustAndInstall": "Pasitikėkite ir įdiekite",
   "pluginInstallFromZip": "Įdiegti iš ZIP",

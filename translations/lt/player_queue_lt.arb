@@ -2,7 +2,7 @@
   "@@locale": "lt",
   "mediaNothingQueued": "Nieko nestovėjo eilėje",
   "mediaChapters": "Skyriai",
-  "mediaNowPlaying": "Dabar žaidžia",
+  "mediaNowPlaying": "Dabar grojama",
   "mediaUpNext": "Toliau",
   "mediaUnnamedChapter": "{number} skyrius"
 }

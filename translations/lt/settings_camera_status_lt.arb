@@ -11,7 +11,7 @@
   "cameraCheckingStatus": "Tikrinama srauto būsena...",
   "cameraStatusUnavailable": "Srauto būsena nepasiekiama.",
   "cameraListenerStopped": "Klausytojas sustabdytas.",
-  "cameraViewer": "{count} prijungta peržiūros priemonė. Tikrasis vaizdo įrašas: {resolution}.",
+  "cameraViewer": "Prijungtų žiūrovų: {count}. Faktinė vaizdo raiška: {resolution}.",
   "cameraViewers": "{count} prijungė žiūrinčiuosius. Tikrasis vaizdo įrašas: {resolution}.",
   "cameraReady": "Paruošta. Koduotuvas paleidžiamas, kai žiūrintysis prisijungia.",
   "cameraFallback": "Reikalingas {requested}, fotoaparatas tiekiamas {actual}.",

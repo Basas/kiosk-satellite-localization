@@ -14,7 +14,7 @@
   "settingKioskDisableVolumeDescription": "Nurykite aparatūros garsumo klavišus.",
   "settingKioskDisablePowerTitle": "Išjungti maitinimo mygtuką",
   "settingKioskDisablePowerDescription": "Android negali blokuoti maitinimo mygtuko, todėl paspaudus ekranas vėl įsijungia. Ekrano išjungimas nuotoliniu būdu vis tiek veikia.",
-  "settingKioskDisableHomeTitle": "Išjungti namų mygtuką",
+  "settingKioskDisableHomeTitle": "Išjungti pradžios mygtuką",
   "settingKioskDisableHomeDescription": "Prisekite programą naudodami Android ekrano prisegimą, kuris blokuoja pradžios ir naujausių mygtukus. Android prašo patvirtinti pirmą kartą.",
   "settingKioskDisableContextMenusTitle": "Išjungti kontekstinius meniu",
   "settingKioskDisableContextMenusDescription": "Slopinkite ilgo paspaudimo meniu ir teksto pasirinkimą žiniatinklio rodinyje.",

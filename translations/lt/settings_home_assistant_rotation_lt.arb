@@ -5,7 +5,7 @@
   "settingHaRotationSecondsTitle": "Sekundė per peržiūrą",
   "settingHaRotationSecondsDescription": "Kiek laiko kiekvienas rodinys lieka ekrane.",
   "settingHaRotationPauseSecondsTitle": "Pristabdyti sukimąsi sąveikaujant (sekundėmis)",
-  "settingHaRotationPauseSecondsDescription": "Palietus ekraną, sukimasis pristabdomas tiek laiko, o kiekvienu palietimu atgalinis skaičiavimas pradedamas iš naujo. Balso sąveika pristabdoma, kol baigiasi. 0 nuolat sukasi per prisilietimus.",
+  "settingHaRotationPauseSecondsDescription": "Palietus ekraną, rodinių keitimas pristabdomas nustatytam laikui. Kiekvienas prisilietimas laiką pradeda skaičiuoti iš naujo. Balso sąveikos pristabdo keitimą iki jų pabaigos. Nustačius 0, prisilietimai keitimo nepristabdo.",
   "settingHaRotationCrossfadeTitle": "Išblukti tarp vaizdų",
   "settingHaRotationCrossfadeDescription": "Užuot perjungę akimirksniu, išeikite į foną ir į kitą rodinį. Perėjus į kitą prietaisų skydelį arba išorinį puslapį vis tiek persijungiama akimirksniu.",
   "settingHaRotationFadeSecondsTitle": "Išblukimo trukmė (sekundėmis)",

@@ -5,6 +5,6 @@
   "settingDlnaAudioBackgroundTitle": "Laikykite garsą fone",
   "settingDlnaAudioBackgroundDescription": "Įstumiamas garsas grojamas neperimant ekrano.",
   "settingDlnaPortTitle": "Serverio prievadas",
-  "settingDlnaPortDescription": "Prievadas, į kurį įjungtas atvaizdavimo įrenginys, užpildomas jam paleidus. Pakeiskite jį, kad perkeltumėte atvaizdavimo priemonę, arba išvalykite, kad vėl pasirinktumėte.",
+  "settingDlnaPortDescription": "Prievadas, kuriame veikia DLNA medijos leistuvas; jis parenkamas paleidus. Pakeiskite prievadą, kad leistuvas veiktų kitur, arba išvalykite lauką, kad jis būtų parinktas iš naujo.",
   "settingDlnaPortPlaceholder": "Nustatykite, kada prasidės atvaizdavimo priemonė"
 }

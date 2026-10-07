@@ -5,7 +5,7 @@
   "settingSendspinPlayerSizeTitle": "Žaidėjo dydis",
   "settingSendspinPlayerSizeDescription": "Kompaktiškas yra mažas, nepastebimas dabar grojantis langas. Didelis prideda ankstesnio, paleidimo/pauzės ir kito mygtukus, pritaikytus palietimui, valdydami visą atkūrimo grupę.",
   "settingSendspinPausedHideMinutesTitle": "Paslėpti pristabdytą grotuvą po to",
-  "settingSendspinPausedHideMinutesDescription": "Kiek laiko pristabdytas grotuvas lieka ekrane. Tai taikoma ir slankiajam grotuvui, ir dabar grojančiam rodiniui.",
+  "settingSendspinPausedHideMinutesDescription": "Kiek laiko pristabdytas grotuvas lieka ekrane. Taikoma slankiajam grotuvui ir rodiniui „Dabar grojama“.",
   "settingSendspinDismissKeepsPlayingTitle": "Žaisti toliau, kai atmetamas",
   "settingSendspinDismissKeepsPlayingDescription": "Numetus plaukiojantį grotuvą, jis paslepiamas nestabdant muzikos.",
   "settingSendspinPlayerShortcutTitle": "Rodyti kiosko meniu",

@@ -5,9 +5,9 @@
   "pluginToAssignAGestureOpenGesturesAndChooseRun": "Norėdami priskirti gestą, atidarykite Gestures ir pasirinkite Vykdyti papildinio veiksmą.",
   "pluginShowInKioskDrawer": "Rodyti kiosko stalčiuje",
   "pluginAlsoAvailableWhileLockedIfTheKioskDrawerIs": "Taip pat pasiekiama užrakinus, jei leidžiama naudoti kiosko stalčių.",
-  "pluginExposeToHomeAssistant": "Pateikite Home Assistant",
-  "pluginAddsAButtonToTheKioskEsphomeDeviceRequires": "Prideda mygtuką prie kiosko ESPHome įrenginio. Reikia ESPHome ir vietinių objektų.",
-  "pluginSelectAnEntity": "Pasirinkite objektą",
+  "pluginExposeToHomeAssistant": "Padaryti prieinamą Home Assistant",
+  "pluginAddsAButtonToTheKioskEsphomeDeviceRequires": "Prideda mygtuką prie kiosko ESPHome įrenginio. Reikia ESPHome ir vietinių esybių.",
+  "pluginSelectAnEntity": "Pasirinkite esybę",
   "pluginChooseName": "Pasirinkite {name}",
   "pluginConfigureName": "Konfigūruoti {name}"
 }

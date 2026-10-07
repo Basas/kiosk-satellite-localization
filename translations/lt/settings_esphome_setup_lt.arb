@@ -1,11 +1,11 @@
 {
   "@@locale": "lt",
   "settingEsphomeEnabledTitle": "Įgalinti ESPHome",
-  "settingEsphomeEnabledDescription": "Pateikite šį kioską Home Assistant kaip ESPHome įrenginį: jo jutiklius ir valdiklius kaip vietinius objektus. Atrasta automatiškai.",
-  "settingEsphomeEntitiesTitle": "Atskleiskite kiosko objektus",
-  "settingEsphomeEntitiesDescription": "Pateikite šio įrenginio jutiklius ir valdiklius kaip ESPHome objektus.",
-  "settingEsphomeExcludedEntitiesTitle": "Išskirti subjektai",
-  "settingEsphomeExcludedEntitiesDescription": "Pasirinkite objektus, kuriuos norite išskirti iš Home Assistant. Atskleidžiami visi kiti galimi objektai. Išsaugomas pakartotinis prisijungimas ESPHome.",
+  "settingEsphomeEnabledDescription": "Prijunkite šį kioską prie Home Assistant kaip ESPHome įrenginį, pateikdami jo jutiklius ir valdiklius kaip vietines esybes. Įrenginys aptinkamas automatiškai.",
+  "settingEsphomeEntitiesTitle": "Kiosko esybių pateikimas",
+  "settingEsphomeEntitiesDescription": "Šio įrenginio jutikliai ir valdikliai pateikiami Home Assistant kaip ESPHome esybės.",
+  "settingEsphomeExcludedEntitiesTitle": "Neįtrauktos esybės",
+  "settingEsphomeExcludedEntitiesDescription": "Pasirinkite esybes, kurių nenorite pateikti Home Assistant. Visos kitos pasiekiamos esybės bus pateiktos. Išsaugojus nustatymus, ESPHome prisijungs iš naujo.",
   "settingEsphomeNodeNameTitle": "Mazgo pavadinimas",
   "settingEsphomeNodeNameDescription": "Pavadina šį kioską tinkle, o Home Assistant pagal jį sukuria veiksmų pavadinimus. Pervadinus jį, tie veiksmai pervadinami.",
   "settingEsphomeNodeNamePlaceholder": "Nustatykite pirmą kartą",
@@ -15,5 +15,5 @@
   "settingBtproxyPortTitle": "API prievadas",
   "settingBtproxyPortDescription": "Prievadas Home Assistant jungiasi prie. ESPHome standartui 6053 palikite tuščią.",
   "esphomeStartFailed": "Nepavyko paleisti ESPHome serverio: {error}",
-  "esphomeExcludedInvalid": "Pasirinkite objektų ID sąrašą."
+  "esphomeExcludedInvalid": "Pasirinkite esybių ID sąrašą."
 }

@@ -3,7 +3,7 @@
   "settingIntercomEnabledTitle": "Įjungti domofoną",
   "settingIntercomEnabledDescription": "Skambinkite kitiems šio tinklo kioskams ir priimkite jų skambučius.",
   "settingIntercomKeyTitle": "Domofono raktas",
-  "settingIntercomKeyDescription": "Kioskai su tuo pačiu raktu gali skambinti vienas kitam. Laivyno valdymas gali jį sinchronizuoti.",
+  "settingIntercomKeyDescription": "Kioskai, naudojantys tą patį raktą, gali skambinti vieni kitiems. Kioskų parko valdymas gali šį raktą sinchronizuoti.",
   "settingIntercomKeyPlaceholder": "Sukurta, kai įjungtas domofonas",
   "settingIntercomMenuTitle": "Rodyti kiosko meniu",
   "settingIntercomMenuDescription": "Pridėkite domofono įrašą į kiosko meniu.",

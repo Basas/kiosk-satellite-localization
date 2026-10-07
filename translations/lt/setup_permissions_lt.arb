@@ -6,7 +6,7 @@
   "setupNotificationListening": "Leidžia Kiosk Satellite paslaugos nuolatinį pranešimą, kuriame nurodoma, ką ji palaiko ir kada klausosi kioskas.",
   "setupBatteryService": "Leidžia Kiosk Satellite paslaugai veikti fone be pristabdymo ar užmušimo.",
   "setupOverlayBoot": "Leiskite Kiosk Satellite sugrįžti po gedimo ir paleisti, kai įrenginys paleidžiamas.",
-  "setupOverlayCrash": "Leiskite Kiosk Satellite grįžti į ekraną po avarijos.",
+  "setupOverlayCrash": "Leidžia Kiosk Satellite vėl atsidaryti ekrane po strigties.",
   "setupBrightnessHelp": "Leidžia Kiosk Satellite nustatyti tikrąjį skydelio ryškumą (keisti sistemos nustatymus).",
   "setupScreenControl": "Ekrano valdymas",
   "setupScreenControlHelp": "Leidžia Kiosk Satellite paprašius (įrenginio administratoriui) išjungti ekraną.",

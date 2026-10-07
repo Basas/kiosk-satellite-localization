@@ -1,7 +1,7 @@
 {
   "@@locale": "lt",
-  "settingHomeLauncherEnabledTitle": "Veikti kaip pagrindinis ekranas",
-  "settingHomeLauncherEnabledDescription": "Užregistruokite Kiosk Satellite kaip pagrindinį įrenginio ekraną: kioskas paleidžiamas paleidžiant ir į jį grįžta kiekvienas namų paspaudimas. Išsijungia ir atkuria ankstesnę paleidimo priemonę, jei programai nepavyksta pakartotinai paleisti.",
+  "settingHomeLauncherEnabledTitle": "Naudoti kaip pradžios ekraną",
+  "settingHomeLauncherEnabledDescription": "Užregistruoja Kiosk Satellite kaip įrenginio pradžios ekraną: kioskas paleidžiamas įjungus įrenginį, o paspaudus pradžios mygtuką grįžtama į kioską. Jei programai pakartotinai nepavyksta pasileisti, ši funkcija išsijungia ir atkuriama ankstesnė paleidimo priemonė.",
   "settingHomeKeepPinningTitle": "Prisegti ekraną",
-  "settingHomeKeepPinningDescription": "Prisekite ekraną, net kai Kiosk Satellite yra pagrindinis ekranas. Blokuoja naujausius ir atgalinius, bet grąžina prisegimo patvirtinimo dialogo langą įrenginiuose, kurių nuosavybės teisės nėra."
+  "settingHomeKeepPinningDescription": "Išlaiko ekrano fiksavimą įjungtą, net kai Kiosk Satellite naudojamas kaip pradžios ekranas. Sistemos lygiu užblokuojami mygtukai „Neseniai naudotos programos“ ir „Atgal“, tačiau įrenginiuose, kuriuose programa neturi įrenginio savininko teisių, vėl rodomas ekrano fiksavimo patvirtinimo dialogas."
 }

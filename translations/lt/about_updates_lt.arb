@@ -4,9 +4,9 @@
   "aboutChecking": "Tikrinama…",
   "aboutCheckFailed": "Nepavyko patikrinti atnaujinimo. Ar įrenginys gali pasiekti GitHub?",
   "aboutOverlayMissing": "Trūksta leidimo „Rodyti virš kitų programų“.",
-  "aboutOverlayHelp": "Be jo programa negali atsidaryti po atnaujinimo. Įrenginyje pasirodo dotacijos ekranas.",
+  "aboutOverlayHelp": "Be šio leidimo programa negali pati vėl atsidaryti po atnaujinimo. Planšetėje pasirodo leidimo suteikimo ekranas.",
   "aboutDownloadProgress": "Atsisiunčiama… {percent}%",
   "aboutDownloadFailed": "Nepavyko atnaujinti: {error}",
   "aboutAlreadyCurrent": "Jau atnaujinta",
-  "aboutInstallHelp": "Atsisiuntimas vykdomas planšetiniame kompiuteryje; diegimas turi būti patvirtintas planšetinio kompiuterio ekrane."
+  "aboutInstallHelp": "Atsisiuntimas vykdomas planšetėje; diegimas turi būti patvirtintas planšetės ekrane."
 }

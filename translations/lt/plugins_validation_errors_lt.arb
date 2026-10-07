@@ -17,7 +17,7 @@
   "pluginErrorCommandId": "Neteisingas arba pasikartojantis komandos ID",
   "pluginErrorUnknownSetting": "Nežinomas papildinio nustatymas",
   "pluginErrorTextLength": "Teksto parametrus turi sudaryti daugiausia 512 simbolių",
-  "pluginErrorEntityId": "Tikimasi Home Assistant subjekto ID",
+  "pluginErrorEntityId": "Tikimasi Home Assistant esybės ID",
   "pluginErrorBoolean": "Tikimasi loginio nustatymo",
   "pluginErrorColor": "Tikimasi RGB šešiakampės spalvos",
   "pluginErrorNumber": "Tikimasi skaitinio nustatymo",

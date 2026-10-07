@@ -18,7 +18,7 @@
   "intercomCallerNoAnswer": "skambinantysis neatsiliepė",
   "intercomMissedcall": "Praleistas skambutis",
   "intercomListening": "Klausymas",
-  "intercomAnnouncementsoff": "Skelbimai išjungti",
+  "intercomAnnouncementsoff": "Balso pranešimai išjungti",
   "intercomEncryptionMismatch": "Šifruotės neatitikimas",
   "intercomEncryptionMismatchHelp": "Šifruotės neatitikimas. Įgalinti ryšių šifravimą visuose skambučio kioskuose."
 }

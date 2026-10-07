@@ -31,7 +31,7 @@
   "settingAlarmsEaseInSecondsTitle": "Lengvumas per",
   "settingAlarmsEaseInSecondsDescription": "Per kiek laiko signalas pasiekia visą garsumą.",
   "settingAlarmsTtsEngineTitle": "Teksto į kalbą variklis",
-  "settingAlarmsTtsEngineDescription": "Home Assistant teksto į kalbą subjektas, kuris taria signalus.",
+  "settingAlarmsTtsEngineDescription": "Home Assistant teksto į kalbą esybė, kuri garsiai perskaito signalus.",
   "settingAlarmsTtsLanguageTitle": "Kalba",
   "settingAlarmsTtsLanguageDescription": "Kalbos pavojaus signalai kalbami.",
   "settingAlarmsTtsVoiceTitle": "Balsas",

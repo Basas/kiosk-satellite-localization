@@ -4,7 +4,7 @@
   "cameraNoCameraHelp": "Šis įrenginys nepraneša apie jokią naudotiną kamerą.",
   "cameraCameraPermission": "Trūksta leidimo fotoaparatui",
   "cameraCameraPermissionHelp": "Be jo fotoaparatas negali būti naudojamas. Planšetinio kompiuterio ekrane pasirodo suteikimo dialogo langas.",
-  "cameraGrantOnDevice": "Dotacija įrenginyje",
+  "cameraGrantOnDevice": "Suteikti leidimą įrenginyje",
   "cameraCameraBlocked": "Užblokuota. Android daugiau neprašys, todėl leiskite tai programos nustatymuose.",
   "cameraCameraNeeded": "Be to fotoaparatas negali būti naudojamas.",
   "cameraAppSettings": "Programos nustatymai"

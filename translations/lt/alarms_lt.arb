@@ -37,7 +37,7 @@
   "alarmsEditAlarm": "Redaguoti signalą",
   "alarmsTime": "Laikas",
   "alarmsRinging": "Žadintuvo skambėjimas",
-  "alarmsSnoozed": "Žadintuvas išjungtas",
+  "alarmsSnoozed": "Žadintuvas atidėtas.",
   "alarmsSunriseRunning": "Saulėtekis prieš žadintuvą",
   "alarmsSunriseHint": "Ekranas pašviesėja per {minutes} minutes prieš suskambėdamas.",
   "alarmsDeleteFailed": "Nepavyko ištrinti signalo.",

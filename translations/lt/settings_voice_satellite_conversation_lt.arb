@@ -12,6 +12,6 @@
   "settingVoiceAnswerLingerDescription": "Ištarus atsakymą.",
   "settingVoiceResultsLingerTitle": "Laikykite rezultatus ekrane",
   "settingVoiceResultsLingerDescription": "Vaizdai, orai ir kiti rezultatai. 0 išsaugo juos tol, kol jų atsisakote.",
-  "settingVoiceAnnouncementLingerTitle": "Skelbimo laikas",
+  "settingVoiceAnnouncementLingerTitle": "Balso pranešimo rodymo trukmė",
   "settingVoiceAnnouncementLingerDescription": "Po to, kai ištariamas pranešimas."
 }

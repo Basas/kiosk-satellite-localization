@@ -19,7 +19,7 @@
   "cameraStreamsGridRange": "tinklelis turi būti nuo 1 iki 12",
   "cameraStreamsGridTooSmall": "tinklelis yra mažesnis nei fotoaparato skaičius",
   "cameraStreamsViewNotFound": "rodinys nerastas",
-  "cameraStreamsDefaultViewDelete": "numatytojo rodinio negalima ištrinti; vietoj jo ištuštinkite",
+  "cameraStreamsDefaultViewDelete": "Numatytojo rodinio ištrinti negalima. Vietoj to ištuštinkite jį.",
   "cameraStreamsViewEmpty": "vaizdas neturi kamerų",
   "cameraStreamsHaReadFailed": "nepavyko perskaityti Home Assistant: {error}",
   "cameraStreamsConnectFailed": "nepavyko prisijungti prie {server}: {error}",

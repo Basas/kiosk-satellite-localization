@@ -10,7 +10,7 @@
   "settingCameraSingleAudioDescription": "Leiskite kameros garsą, kai ekrane yra tik viena kamera. Tinkleliai su keliomis kameromis tyli.",
   "settingCameraPinchZoomTitle": "Suimkite, kad padidintumėte vienos kameros mastelį",
   "settingCameraPinchZoomDescription": "Padidinkite vaizdą dviem pirštais, kai ekrane yra tik viena kamera. Vilkite, kad judėtumėte, dukart palieskite, kad nustatytumėte iš naujo.",
-  "settingCameraAutoDismissSecondsTitle": "Automatiškai atsisakyti po",
+  "settingCameraAutoDismissSecondsTitle": "Automatiškai uždaryti po (sekundžių)",
   "settingCameraAutoDismissSecondsDescription": "Uždaryti atidarytą fotoaparato vaizdą atskirai; 0 tai išlaiko. Kameros ekrano užsklanda neturi įtakos.",
   "cameraStreamsPlayback": "Atkūrimas",
   "cameraStreamsOff": "Išjungta",

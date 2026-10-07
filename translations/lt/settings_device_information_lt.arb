@@ -19,7 +19,7 @@
   "deviceStorage": "Vidinė atmintis (nemokama / iš viso)",
   "deviceHaUrl": "Home Assistant URL",
   "deviceWakeDetection": "Pažadinti žodžių aptikimą",
-  "deviceWakeStatus": "Pažadinti žodžio būsena",
+  "deviceWakeStatus": "Pažadinimo žodžio būsena",
   "deviceEngine": "Variklis",
   "deviceWakeWords": "Pažadinti žodžiai",
   "deviceStopWord": "Sustabdyti žodį",

@@ -7,7 +7,7 @@
   "settingIntercomRingSoundTitle": "Skambučio garsas",
   "settingIntercomRingSoundDescription": "Leidžiama pranešimo garsumu.",
   "settingIntercomAcceptAnnouncementsTitle": "Priimti pranešimus",
-  "settingIntercomAcceptAnnouncementsDescription": "Žaiskite Paskelbti visiems iš kitų kioskų.",
+  "settingIntercomAcceptAnnouncementsDescription": "Atkurti kitų kioskų visiems siunčiamus balso pranešimus.",
   "intercomOptionAnswerRing": "Žiedas",
   "intercomOptionAnswerAuto": "Atsakyk automatiškai",
   "intercomOptionAnswerDnd": "Netrukdyti",

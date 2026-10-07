@@ -1,7 +1,7 @@
 {
   "@@locale": "lt",
   "intercomKiosks": "kioskai",
-  "intercomRosterHelp": "Atrado kioskus ir išgelbėjo laivyno narius. Kioskas yra paruoštas, kai jį galima pasiekti su įjungtu domofonu, tuo pačiu raktu ir atitinkamais šifravimo nustatymais.",
+  "intercomRosterHelp": "Aptikti kioskai ir išsaugoti kioskų parko nariai. Kioskas pasiekiamas, kai įjungtas domofonas, naudojamas tas pats raktas ir sutampa šifravimo nustatymai.",
   "intercomNoOther": "Kitų kioskų nerasta",
   "intercomRosterDeviceHelp": "Čia rodomi kioskai su nuotoliniu valdymu ir kitų kioskų paieška.",
   "intercomNoneHeard": "Kioskų nerasta",

@@ -44,5 +44,5 @@
   "settingCameraRtspDateTimeBackgroundTitle": "Juodas fonas",
   "settingCameraRtspDateTimeBackgroundDescription": "Už datos ir laiko pridėkite juodą foną, kad matytumėte.",
   "settingCameraRtspTlsTitle": "Šifruoti srautą",
-  "settingCameraRtspTlsDescription": "Vaizdo ir garso šifravimui naudokite TLS. Reikia suderinamos peržiūros priemonės."
+  "settingCameraRtspTlsDescription": "Naudokite TLS vaizdui ir garsui šifruoti. Srautui peržiūrėti reikalinga suderinama programa."
 }
