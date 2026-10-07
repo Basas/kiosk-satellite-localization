@@ -1,0 +1,7 @@
+{
+  "@@locale": "lt",
+  "settingPersonSensorTitle": "Įjungti asmens jutiklį",
+  "settingPersonSensorDescription": "Atidenkite įrenginio asmens jutiklį Home Assistant kaip užimtumo jutiklį. Reikia toliau nurodytos prieigos prie žurnalo suteikimo.",
+  "cameraPersonPage": "Asmens jutiklis",
+  "cameraPersonHint": "Home Assistant užimtumo jutiklis iš įrenginio asmens jutiklio"
+}

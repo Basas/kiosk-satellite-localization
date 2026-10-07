@@ -1,0 +1,8 @@
+{
+  "@@locale": "lt",
+  "cameraStreamsImportHa": "Importuokite kameras iš Home Assistant",
+  "cameraStreamsImportHaHelp": "Pridėkite kiekvieną prijungto Home Assistant fotoaparatą, leisdami per WebRTC, HLS arba MJPEG. Vėl importuojant sujungiamos naujos kameros.",
+  "cameraStreamsImportFailed": "Importuoti nepavyko",
+  "cameraStreamsImportComplete": "Importavimas baigtas",
+  "cameraStreamsImportCounts": "{added} pridėtas, {missing} trūksta."
+}

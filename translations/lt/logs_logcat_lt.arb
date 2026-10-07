@@ -1,0 +1,11 @@
+{
+  "@@locale": "lt",
+  "logsSystemLog": "Šios programos Android sistemos žurnalas (čia veikia strigtys)",
+  "logsErrors": "Klaidos ir gedimai",
+  "logsWarnings": "Įspėjimai",
+  "logsInfo": "Informacija ir derinimas",
+  "logsNoMatches": "Nėra atitinkančių eilučių. Įgalinkite daugiau tipų aukščiau, kad pamatytumėte visą žurnalą.",
+  "logsUnavailable": "logcat nepasiekiamas",
+  "logsReadFailed": "Nepavyko nuskaityti logcat: {error}",
+  "logsUnknown": "nežinomas"
+}

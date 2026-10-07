@@ -1,0 +1,11 @@
+{
+  "@@locale": "lt",
+  "fleetUpdateTheFleet": "Atnaujinkite laivyną",
+  "fleetUpdateTheWholeFleetToTheKioskSatelliteVersion": "Atnaujinkite visą parką į Kiosk Satellite versiją, veikiančią lyderyje.",
+  "fleetKeepFollowersOnThisVersion": "Stebėkite šią versiją",
+  "fleetAutomaticallyUpdateAllFollowersToTheKioskSatelliteVersion": "Automatiškai atnaujinti visus sekėjus į Kiosk Satellite versiją, veikiančią lyderyje.",
+  "fleetNothingToUpdate": "Nėra ką atnaujinti",
+  "fleetUpdating": "Atnaujinama",
+  "fleetNamesInstalling": "{names} diegimas.",
+  "fleetSearchUpdates": "Įdiekite kiekvienam stebėtojui siūlomą leidimą, tada čia."
+}

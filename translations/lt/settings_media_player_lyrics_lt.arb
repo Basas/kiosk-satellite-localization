@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "settingSendspinLyricsEnabledTitle": "Įgalinti dainų tekstus",
+  "settingSendspinLyricsEnabledDescription": "Sinchronizuoti dainų tekstai rodinyje „Dabar groja“ kiekvienam grotuvo šaltiniui.",
+  "settingSendspinLyricsSourceTitle": "Dainos šaltinis",
+  "settingSendspinLyricsSourceDescription": "Iš kur atsiranda dainų tekstai. Music Assistant puslapyje reikia serverio adreso ir prieigos rakto.",
+  "settingSendspinLyricsFallbackTitle": "Atsarginis Music Assistant",
+  "settingSendspinLyricsFallbackDescription": "Jei LRCLIB nepasiekiamas, vietoj jo klausiama Music Assistant. Reikia Music Assistant jungties.",
+  "settingSendspinLyricsOffsetTitle": "Dainų žodžių laikas",
+  "settingSendspinLyricsOffsetDescription": "Perkelkite dainų tekstus prieš muziką. Teigiamas kiekvieną eilutę rodo anksčiau, neigiamas vėliau. Verta atkreipti dėmesį į takelius, kurie nuosekliai nuskaitomi.",
+  "mediaLyricsPage": "Dainos tekstai",
+  "mediaLyricsHint": "Sinchronizuoti dainų tekstai, jų šaltinis ir laikas"
+}

@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "mediaCacheTitle": "Albumo meno talpykla",
+  "mediaCacheReadFailed": "Nepavyko nuskaityti talpyklos dydžio.",
+  "mediaCacheClearFailed": "Nepavyko išvalyti talpyklos.",
+  "mediaCacheChecking": "Tikrinamas talpyklos dydis...",
+  "mediaCacheClearing": "Valoma...",
+  "mediaCacheUsage": "{used} naudojamas {limit}. Eilių miniatiūros talpykloje įrašomos automatiškai."
+}

@@ -1,0 +1,22 @@
+{
+  "@@locale": "lt",
+  "screensaverOverlayWeatherEntity": "Orų subjektas",
+  "screensaverOverlayNoWeather": "Nėra oro subjektų",
+  "screensaverOverlayNoWeatherHelp": "Home Assistant nepranešė apie tai.",
+  "screensaverOverlayPickWeather": "Pasirinkite orų objektą…",
+  "screensaverOverlayWeatherRequired": "Pasirinkite orų objektą.",
+  "screensaverOverlayLocationName": "Vietos pavadinimas",
+  "screensaverOverlayLocationHelp": "Palikite tuščią, kad paslėptumėte vietos eilutę.",
+  "screensaverOverlayLocation": "Vieta",
+  "screensaverOverlayLocationDetail": "Vietos pavadinimas virš temperatūros.",
+  "screensaverOverlayFeelsLike": "Jaučiasi",
+  "screensaverOverlayFeelsLikeHelp": "Parodykite matomą temperatūrą pažymėtoje eilutėje žemiau faktinės temperatūros.",
+  "screensaverOverlayFeelsLikeOnly": "Jaučiasi tik",
+  "screensaverOverlayFeelsLikeOnlyHelp": "Vietoj faktinės temperatūros rodykite matomą temperatūrą etikete Feels like.",
+  "screensaverOverlayForecast": "Prognozė",
+  "screensaverOverlayForecastHelp": "Sąlygos su atitinkama piktograma.",
+  "screensaverOverlayHumidity": "Drėgmė",
+  "screensaverOverlayWind": "Vėjo greitis",
+  "screensaverOverlayVisibility": "Matomumas",
+  "screensaverWeatherFeelsLikeValue": "Jaučiasi kaip {temperature}"
+}

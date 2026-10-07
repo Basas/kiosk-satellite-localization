@@ -1,0 +1,17 @@
+{
+  "@@locale": "lt",
+  "settingVoiceShowCommandTitle": "Parodyk, ką sakei",
+  "settingVoiceShowCommandDescription": "Jūsų komanda virš atsakymo.",
+  "settingVoiceShowAnswerTitle": "Parodyk atsakymą",
+  "settingVoiceShowAnswerDescription": "Atsakymas toks, koks pasakytas.",
+  "settingVoiceShowToolsTitle": "Rodyti įrankio naudojimą",
+  "settingVoiceShowToolsDescription": "Kiekvienam asistento veiksmui skirta eilutė.",
+  "settingVoiceHideSentimentTagsTitle": "Slėpti jausmų žymas",
+  "settingVoiceHideSentimentTagsDescription": "Palikite žymas, pvz., [laimingas], kurias prideda kai kurie padėjėjai.",
+  "settingVoiceAnswerLingerTitle": "Laikykite atsakymą ekrane",
+  "settingVoiceAnswerLingerDescription": "Ištarus atsakymą.",
+  "settingVoiceResultsLingerTitle": "Laikykite rezultatus ekrane",
+  "settingVoiceResultsLingerDescription": "Vaizdai, orai ir kiti rezultatai. 0 išsaugo juos tol, kol jų atsisakote.",
+  "settingVoiceAnnouncementLingerTitle": "Skelbimo laikas",
+  "settingVoiceAnnouncementLingerDescription": "Po to, kai ištariamas pranešimas."
+}

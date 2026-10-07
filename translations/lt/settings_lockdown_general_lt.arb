@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "settingLockdownEnabledTitle": "Įjungti užrakinimo režimą",
+  "settingLockdownEnabledDescription": "Išjungiama ekrano sąveika, kol išjungiama naudojant Home Assistant arba išėjimo gestą.",
+  "settingLockdownMenuTitle": "Rodyti kiosko meniu",
+  "settingLockdownMenuDescription": "Pridėkite blokavimo režimo įrašą prie kiosko meniu, kuris užrakina ekraną. Norėdami jį atrakinti, naudokite išėjimo gestą, nuotolinį administratorių arba Home Assistant.",
+  "settingLockdownBlackoutTitle": "Užtemdantis ekranas",
+  "settingLockdownBlackoutDescription": "Kai užrakintas, ekranas tampa juodas.",
+  "settingLockdownAllowScreensaverTitle": "Leisti ekrano užsklandą",
+  "settingLockdownAllowScreensaverDescription": "Leidžia veikti ekrano užsklandai, kai ji užrakinta. Atsisakyti judant lieka išjungta, kol užraktas pakyla.",
+  "settingLockdownExitGestureTitle": "Užrakinimo išėjimo gestas",
+  "settingLockdownExitGestureDescription": "Greitai bakstelėjus bet kur, išjungiamas užrakinimo režimas po kiosko PIN kodo, jei jis nustatytas. Laikydami variantus reikia paspausti paskutinį kartą. Kai išjungta, jį gali išjungti tik nuotolinis administratorius arba Home Assistant.",
+  "lockdownGestureNone": "Išjungta (tik nuotoliniu būdu)",
+  "lockdownExplanation": "Užrakinimo režimas padaro prietaisų skydelį neinteraktyvų, įjungia kiekvieno kiosko režimo apsaugą nekeičiant kiosko režimo nustatymų ir nutildo pažadinimo žodžių aptikimą, kai jis įjungtas. Įjungus sistemos vartotojo sąsajos apsaugą (aukščiau), pranešimų skydelis ir naujausi pranešimai taip pat blokuojami. Home Assistant gauna užrakinimo režimo jungiklį per ESPHome.",
+  "lockdownSearch": "Tik nuotoliniu būdu valdomas prisilietimo skydas. Nustatykite jį naudodami nuotolinio administratoriaus vartotojo sąsają; jos dotacijos gyvena pagal Reikalingus sistemos leidimus."
+}

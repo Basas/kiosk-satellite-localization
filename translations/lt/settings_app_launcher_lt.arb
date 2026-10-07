@@ -1,0 +1,10 @@
+{
+  "@@locale": "lt",
+  "settingLauncherEnabledTitle": "Įgalinti programų paleidimo priemonę",
+  "settingLauncherEnabledDescription": "Atidarykite pasirinktą įdiegtų programų rinkinį iš kiosko.",
+  "settingLauncherAppsDescription": "Programos, kurias siūlo paleidimo priemonė.",
+  "settingLauncherAutoReturnTitle": "Grįžti automatiškai",
+  "settingLauncherAutoReturnDescription": "Grįžkite į kioską, kai kita programa kurį laiką bus nepaliesta.",
+  "settingLauncherAutoReturnSecondsTitle": "Grįžti po (sekundėmis)",
+  "settingLauncherAutoReturnSecondsDescription": "Laikas be prisilietimo kitoje programoje, kol kioskas sugrįžta."
+}

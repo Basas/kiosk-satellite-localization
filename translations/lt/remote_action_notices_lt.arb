@@ -1,0 +1,8 @@
+{
+  "@@locale": "lt",
+  "remoteDisableTitle": "Išjungti nuotolinį valdymą?",
+  "remoteDisableHelp": "ĮSPĖJIMAS: nebegalėsite pasiekti šio puslapio. Norėdami jį vėl įjungti, naudokite įrenginį arba nuotolinio valdymo jungiklį Home Assistant.",
+  "remoteDisableConfirm": "Išjunkite",
+  "remoteCopyHelp": "Pasirinkite raktą ir nukopijuokite jį ranka.",
+  "remoteSaveSettingFailed": "Nepavyko išsaugoti šio nustatymo. Bandykite dar kartą."
+}

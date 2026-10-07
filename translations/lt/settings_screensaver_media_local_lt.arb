@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverLocalFolderTitle": "Vietinis aplankas",
+  "settingScreensaverLocalFolderDescription": "Šio įrenginio aplankas, kurio nuotraukas ir vaizdo įrašus peržiūri ekrano užsklanda. Pasirinkta ant įrenginio; kelią čia galima įvesti ir nuotoliniu būdu.",
+  "settingScreensaverLocalIntervalTitle": "Sekundės vienai nuotraukai",
+  "settingScreensaverLocalIntervalDescription": "Kiek laiko rodoma kiekviena nuotrauka prieš kitą. Vaizdo įrašai leidžiami visiškai.",
+  "settingScreensaverLocalShuffleTitle": "Maišyti",
+  "settingScreensaverLocalShuffleDescription": "Perkelkite aplanką atsitiktine tvarka, o ne pagal pavadinimą.",
+  "settingScreensaverLocalRecursiveTitle": "Įtraukti poaplankius",
+  "settingScreensaverLocalRecursiveDescription": "Taip pat perkelkite nuotraukas ir vaizdo įrašus poaplankiuose.",
+  "settingScreensaverLocalTransitionTitle": "Perėjimas",
+  "settingScreensaverLocalTransitionDescription": "Kaip viena nuotrauka perduodama kitai.",
+  "settingScreensaverLocalFillTitle": "Užpildykite ekraną",
+  "settingScreensaverLocalFillDescription": "Išjungta, visa nuotrauka išlieka tarp juodų juostų. „Smart“ padidina arti ekrano suformuotas nuotraukas, likusias įrėmindama neryškiame fone. Visada padidina kiekvieną nuotrauką, nupjauna tai, kas netelpa.",
+  "settingScreensaverLocalEdgeTapsTitle": "Bakstelėkite kraštus, kad pakeistumėte skaidres",
+  "settingScreensaverLocalEdgeTapsDescription": "Bakstelėjus kairėje arba dešinėje ekrano penktojoje pusėje, užuot atmetus, rodoma ankstesnė arba kita skaidrė.",
+  "screensaverMediaLocalPage": "Vietinės medijos ekrano užsklanda",
+  "screensaverMediaLocalHint": "Aplankas, laikas, maišymas, perėjimas"
+}

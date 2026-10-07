@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "launcherNoneHelp": "Dar nė vieno. Pasirinkite programas, kurias siūlo paleidimo priemonė.",
+  "launcherNone": "Dar nė vieno",
+  "launcherListFailed": "Nepavyko išvardyti programų",
+  "launcherListError": "Nepavyko išvardyti programų: {error}",
+  "launcherListingFailed": "įrašyti į sąrašą nepavyko",
+  "launcherEmpty": "Nerasta jokių paleidžiamų programų."
+}

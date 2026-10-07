@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "settingCameraEnabledTitle": "Įjungti kamerą",
+  "settingCameraEnabledDescription": "Naudojant fotoaparatą padidėja procesoriaus apkrova ir įkaista, o tai gali sutrumpinti baterijos ir įrenginio veikimo laiką.",
+  "settingCameraDeviceTitle": "Fotoaparatas",
+  "settingCameraDeviceDescription": "Kokią kamerą naudoti.",
+  "settingCameraSnapshotResolutionTitle": "Momentinės nuotraukos skiriamoji geba",
+  "settingCameraSnapshotResolutionDescription": "Aukštesnis atrodo ryškesnis, bet kainuoja daugiau procesoriaus ir pralaidumo.",
+  "settingCameraDisableDetectionSnapshotsTitle": "Išjungti momentines nuotraukas aptikus",
+  "settingCameraDisableDetectionSnapshotsDescription": "Užkirsti kelią automatinėms momentinėms nuotraukoms, kurias suaktyvina aptikimas. Judesio, veido, buvimo ir gestų aptikimas veikia ir toliau. Neautomatinėmis užklausomis ir nuolatinėmis momentinėmis nuotraukomis vis tiek galima užfiksuoti vaizdus.",
+  "settingCameraSnapshotsTitle": "Nuolatiniai momentiniai vaizdai",
+  "settingCameraSnapshotsDescription": "Paskelbkite naują fotoaparato momentinę nuotrauką Home Assistant fiksuotu intervalu.",
+  "settingCameraSnapshotIntervalTitle": "Momentinių nuotraukų intervalas",
+  "settingCameraSnapshotIntervalDescription": "Sekundės tarp momentinių nuotraukų.",
+  "cameraFront": "Priekyje",
+  "cameraBack": "Atgal",
+  "cameraExternal": "Išorinis",
+  "cameraOnlyCamera": "Vienintelė šio įrenginio kamera."
+}

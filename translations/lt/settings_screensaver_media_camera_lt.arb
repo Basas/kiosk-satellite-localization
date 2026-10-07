@@ -1,0 +1,20 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverCameraViewsTitle": "Kameros vaizdai",
+  "settingScreensaverCameraViewsDescription": "Kamera peržiūri ekrano užsklandą tokia tvarka.",
+  "settingScreensaverCameraViewSecondsTitle": "Sekundės vienam fotoaparato vaizdui",
+  "settingScreensaverCameraViewSecondsDescription": "Kiek laiko kiekvienas rodinys lieka ekrane prieš kitą. Pasirinkus vieną vaizdą, niekas nesisuka.",
+  "settingScreensaverCameraMuteTitle": "Nutildyti visus rodinius",
+  "settingScreensaverCameraMuteDescription": "Nutildo kiekvienas vaizdas, net ir viena kamera.",
+  "screensaverMediaCameraPage": "„Camera Streams“ ekrano užsklanda",
+  "screensaverMediaCameraHint": "Rodomi rodiniai, sekundės per peržiūrą, garsas",
+  "screensaverMediaNoCameras": "Joks fotoaparato vaizdas dar neturi fotoaparatų. Pridėkite vieną prie kameros srautų.",
+  "screensaverMediaNoCamerasRemote": "Joks fotoaparato vaizdas dar neturi fotoaparatų",
+  "screensaverMediaAddCameras": "Pridėkite vieną prie kameros srautų.",
+  "screensaverMediaNoViews": "Dar nė vieno. Pasirinkite ekrano užsklandos peržiūras.",
+  "screensaverMediaRotation": "Sukasi (vilkite, kad pertvarkytumėte)",
+  "screensaverMediaAvailable": "Yra",
+  "screensaverMediaOneCamera": "{count} fotoaparatas",
+  "screensaverMediaCameras": "{count} fotoaparatai",
+  "screensaverMediaPosition": "Padėtis {index} · {cameras}"
+}

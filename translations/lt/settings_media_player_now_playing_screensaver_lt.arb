@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "settingSendspinFullscreenTitle": "„Dabar groja“ vietoj ekrano užsklandos",
+  "settingSendspinFullscreenDescription": "Kai groja muzika, ekrano užsklanda tampa viso ekrano Dabar grojama rodiniu su albumo viršeliu. Nieko negrojus, veikia įprasta ekrano užsklanda.",
+  "settingSendspinFullscreenSplitTitle": "Rodyti kartu su ekrano užsklanda",
+  "settingSendspinFullscreenSplitDescription": "Ekrano užsklandą palikite matomą šalia Dabar žaidžiama. Portretiniuose ekranuose ekrano užsklanda sukrauta virš grotuvo. Mažuose ekranuose išlieka viso ekrano grotuvas.",
+  "settingSendspinFullscreenPhotoFillTitle": "Užpildykite ekraną",
+  "settingSendspinFullscreenPhotoFillDescription": "Nepaisykite nuotraukų užpildymo, kol ekrano užsklanda bendrina ekraną su „Dabar leidžiama“. Numatytoji funkcija naudoja kiekvienos ekrano užsklandos nustatymus. Išjungta, visa nuotrauka išlieka tarp juodų juostų. „Smart“ padidina arti ekrano suformuotas nuotraukas, likusias įrėmindama neryškiame fone. Visada padidina kiekvieną nuotrauką, nupjauna tai, kas netelpa.",
+  "settingSendspinFullscreenOverrideBrightnessTitle": "Nepaisyti ekrano užsklandos ryškumo",
+  "settingSendspinFullscreenOverrideBrightnessDescription": "Naudokite įprastą ekrano ryškumą, o ne ekrano užsklandos ryškumą, kai rodoma „Dabar grojama“ šalia ekrano užsklandos. Tai taip pat nepaiso suplanuoto ekrano užsklandos ryškumo.",
+  "mediaScreensaverHeading": "Ekrano užsklanda",
+  "mediaDefaultFill": "Numatytoji",
+  "mediaFillOff": "Išjungta",
+  "mediaFillSmart": "Protingas",
+  "mediaFillAlways": "Visada"
+}

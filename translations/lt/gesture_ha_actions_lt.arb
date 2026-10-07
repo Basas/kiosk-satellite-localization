@@ -1,0 +1,22 @@
+{
+  "@@locale": "lt",
+  "gestureValid": "Atrodo gerai.",
+  "gestureValidationFailed": "Nepavyko patvirtinti.",
+  "gestureDomainMissing": "Domenas {value} nerastas.",
+  "gestureServiceMissing": "Paslauga {value} nerasta.",
+  "gestureEntityMissing": "Subjektas {value} nerastas.",
+  "gestureEntityRequired": "Įveskite {domain}.* objektą.",
+  "gestureScriptEntity": "Scenarijaus subjektas",
+  "gestureAutomationEntity": "Automatikos subjektas",
+  "gestureDomain": "Domenas",
+  "gestureEntityOptional": "Subjektas (neprivaloma)",
+  "gestureServiceData": "Paslaugos duomenys (neprivaloma)",
+  "gestureServiceTitle": "Paskambinkite Home Assistant tarnybai",
+  "gestureServiceRequired": "Reikalingas domenas ir paslauga.",
+  "gestureServiceJson": "Paslaugos duomenys turi būti JSON objektas.",
+  "gestureEventType": "Renginio tipas",
+  "gestureEventData": "Įvykio duomenys (neprivaloma)",
+  "gestureEventTitle": "Suaktyvinkite Home Assistant įvykį",
+  "gestureEventRequired": "Reikalingas įvykio tipas.",
+  "gestureEventJson": "Įvykio duomenys turi būti JSON objektas."
+}

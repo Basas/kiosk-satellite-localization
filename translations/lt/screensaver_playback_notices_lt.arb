@@ -1,0 +1,14 @@
+{
+  "@@locale": "lt",
+  "screensaverNoPhotos": "Nepasirinkta jokių nuotraukų. Pasirinkite kai kuriuos nustatymuose.",
+  "screensaverNoFolder": "Nepasirinktas joks aplankas. Nustatymuose pasirinkite vieną.",
+  "screensaverFolderEmpty": "{folder} nėra nuotraukų ar vaizdo įrašų",
+  "screensaverFolderUnreadable": "Nepavyko perskaityti {folder}. Ar žiniasklaidos leidimas suteiktas?",
+  "screensaverReadPhotosFailed": "Nepavyko perskaityti nuotraukų.",
+  "screensaverImmichNotReady": "Immich neprijungtas. Patvirtinkite jį nustatymuose.",
+  "screensaverNoMediaMatch": "Jokia medija neatitinka šaltinio ir filtrų.",
+  "screensaverNoMediaSource": "Pasirinktame šaltinyje nėra medijos.",
+  "screensaverImmichUnreachable": "Nepavyko pasiekti Immich serverio.",
+  "screensaverRetryNotice": "{error} Bandoma iš naujo automatiškai.",
+  "screensaverVideosTooLarge": "Kiekvienas šio grojaraščio vaizdo įrašas yra per didelis, kad būtų galima leisti šiame įrenginyje."
+}

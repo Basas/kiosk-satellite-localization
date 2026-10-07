@@ -1,0 +1,17 @@
+{
+  "@@locale": "lt",
+  "settingSendspinEnabledTitle": "Įgalinti Sendspin grotuvą",
+  "settingSendspinEnabledDescription": "Paverskite šį įrenginį sinchronizuotu Sendspin grotuvu. Jis rodomas Music Assistant po įrenginio pavadinimu, sinchronizuojamas su kiekvienu kitu Sendspin garsiakalbiu.",
+  "settingSendspinServerTitle": "Serveris",
+  "settingSendspinServerDescription": "Sendspin serverio adresas, pavyzdžiui, 192.168.1.10:8927. Palikite tuščią, jei norite automatiškai rasti serverį tinkle.",
+  "settingSendspinCodecTitle": "Pageidaujamas garso kodekas",
+  "settingSendspinCodecDescription": "FLAC yra be nuostolių ir idealiai tinka „WiFi“ arba „Ethernet“. Serveris daro galutinį pasirinkimą iš to, ką siūlo šis įrenginys.",
+  "settingSendspinSyncOffsetTitle": "Garso sinchronizavimo poslinkis (ms)",
+  "settingSendspinSyncOffsetDescription": "Neigiamas šis įrenginys leidžia anksčiau, kai garsiakalbiai atsilieka nuo grupės (Bluetooth). Melodija pagal ausį; taikoma gyvai.",
+  "settingSendspinGroupVolumeDescription": "Kol šis įrenginys groja grupėje, garsumo slankikliu nustatomas visos grupės garsumas. Išjungta, tik šis įrenginys. Reikia Music Assistant jungties.",
+  "mediaSendspinPage": "Sendspin grotuvas",
+  "mediaSendspinHint": "Padarykite šį įrenginį sinchronizuotu Music Assistant grotuvu",
+  "mediaFlac": "FLAC (be nuostolių)",
+  "mediaOpus": "Opus (efektyvus)",
+  "mediaPcm": "PCM (nesuspaustas)"
+}

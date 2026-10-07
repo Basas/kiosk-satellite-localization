@@ -1,0 +1,17 @@
+{
+  "@@locale": "lt",
+  "kioskHomeScreen": "Pagrindinis ekranas",
+  "kioskCheckingDevice": "Tikrinamas įrenginys...",
+  "kioskFireOs": "„Fire OS“ neleidžia pakeisti paleidimo priemonės.",
+  "kioskUnsupported": "Šis įrenginys neleidžia keisti pagrindinio ekrano.",
+  "kioskRecovered": "Automatiškai išsijungia po pakartotinio nesėkmingo paleidimo; buvo atkurta ankstesnė paleidimo priemonė. Vėl įjunkite jungiklį ir bandykite dar kartą.",
+  "kioskHeld": "Kiosk Satellite yra pagrindinis ekranas. Kioskas prasideda įkrovimo metu ir prie jo grįžta kiekvienas namų presas.",
+  "kioskDisabled": "Ne pagrindinis ekranas. Aukščiau įjunkite Veikti kaip pagrindiniame ekrane.",
+  "kioskWaiting": "Dar ne dabartinis pradinis ekranas: įrenginys laukia patvirtinimo.",
+  "kioskOpenHomeSettings": "Atidarykite namų nustatymus",
+  "kioskSetDefault": "Nustatyti kaip numatytąjį",
+  "kioskActive": "Aktyvus",
+  "kioskNotHome": "Ne pagrindinis ekranas.",
+  "kioskWaitingRemote": "Laukiama patvirtinimo įrenginyje: ten atsidaro sistemos dialogo langas arba namų nustatymai.",
+  "kioskSetDevice": "Nustatyti įrenginyje"
+}

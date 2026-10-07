@@ -1,0 +1,10 @@
+{
+  "@@locale": "lt",
+  "deviceScreenOffPermission": "Norint išjungti ekraną, reikalingas vienkartinis leidimas. Dabar planšetiniame kompiuteryje rodomas „įrenginio administratoriaus“ suteikimo ekranas. Patvirtinkite jį ten, tada bandykite dar kartą.",
+  "deviceAdminInactive": "Įrenginio administratoriaus leidimas neaktyvus.",
+  "deviceRestartOverlay": "Norint iš naujo paleisti, reikia leidimo „Rodyti virš kitų programų“, kitaip programa negali susigrąžinti. Įrenginyje atidaromas dotacijos ekranas; leiskite ten ir bandykite dar kartą.",
+  "deviceRebootPermission": "Norint iš naujo paleisti įrenginį, reikia, kad Kiosk Satellite būtų suteiktas kaip įrenginio savininkas arba suteiktas Shizuku ryšys.",
+  "deviceRestartAndroidOnly": "Paleisti iš naujo galima tik Android.",
+  "deviceRestartShizukuRefused": "Shizuku atsisakė paleisti iš naujo",
+  "deviceRestartFailed": "Nepavyko paleisti iš naujo: {error}"
+}

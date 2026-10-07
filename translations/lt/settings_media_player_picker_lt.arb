@@ -1,0 +1,18 @@
+{
+  "@@locale": "lt",
+  "mediaPickPlayer": "Pasirinkite žaidėją",
+  "mediaMaPlayer": "Music Assistant grotuvas",
+  "mediaHaPlayer": "Home Assistant medijos grotuvas",
+  "mediaSonosRoom": "Sonos kambarys",
+  "mediaSearchPlayers": "Ieškoti žaidėjų",
+  "mediaOffline": "Neprisijungus",
+  "mediaOfflineName": "{name} (neprisijungus)",
+  "mediaSetUpMa": "Nustatykite Music Assistant, kad pateiktumėte žaidėjų sąrašą.",
+  "mediaSetUpHa": "Prijunkite Home Assistant, kad pateiktumėte medijos grotuvus.",
+  "mediaSetUpSonos": "Dar nežinomi jokie Sonos garsiakalbiai. Raskite arba pridėkite jį Sonos puslapyje.",
+  "mediaHaFailed": "Home Assistant neatsakė: {error}",
+  "mediaSaveFailed": "Nepavyko išsaugoti grotuvo.",
+  "mediaSelectFailed": "Nepavyko pasirinkti grotuvo",
+  "mediaNotificationAccessRemote": "Be šio Android nėra medijos seansų sąrašo, todėl funkcija „Dabar leidžia“ negali sekti šiame įrenginyje leidžiamų programų. Planšetiniame kompiuteryje pasirodo dotacijos ekranas.",
+  "mediaLocalMediaSession": "Vietinės žiniasklaidos sesija"
+}

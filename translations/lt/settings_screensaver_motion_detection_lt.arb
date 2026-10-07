@@ -1,0 +1,12 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverDismissOnMotionTitle": "Atleisti pateikus pasiūlymą",
+  "settingScreensaverDismissOnMotionDescription": "Stebėkite fotoaparatą, kai įjungta ekrano užsklanda, ir pažadinkite ekraną, kai kas nors artinasi. Kamera veikia tik ekrano užsklandos metu.",
+  "settingScreensaverDismissOnMotionScreenOffOnlyTitle": "Tik kai ekranas išjungtas",
+  "settingScreensaverDismissOnMotionScreenOffOnlyDescription": "Laikykite ekrano užsklandą matomą, kai aptinkamas judesys, kai ekranas įjungtas. Kai ekranas išsijungia, aptikimas pažadina prietaisų skydelį. Palietus vis tiek atsisako ekrano užsklandos.",
+  "settingScreensaverPostponeOnMotionTitle": "Atidėti ekrano užsklandą judant",
+  "settingScreensaverPostponeOnMotionDescription": "Uždelskite ekrano užsklandos aktyvavimą, kai aptinkamas judesys. ĮSPĖJIMAS: fotoaparatas veikia nuolat.",
+  "screensaverDetectionMotionPage": "Judesio aptikimas",
+  "screensaverDetectionMotionHint": "Atsisakykite arba atidėkite ekrano užsklandą judant",
+  "screensaverDetectionMotionTuning": "Judesio aptikimas sureguliuotas fotoaparato nustatymuose."
+}

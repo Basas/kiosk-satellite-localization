@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "setupQrFlipCamera": "Apverskite kamerą",
+  "setupQrCameraFailed": "Nepavyko paleisti fotoaparato.",
+  "setupQrTitle": "Nuskaitykite žetono QR kodą",
+  "setupQrHelp": "Jis rodomas šalia naujai sukurto prieigos rakto jūsų Home Assistant profilyje.",
+  "setupQrFlashOff": "Išjunkite žibintuvėlį",
+  "setupQrFlashOn": "Įjunkite žibintuvėlį"
+}

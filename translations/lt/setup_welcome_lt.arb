@@ -1,0 +1,23 @@
+{
+  "@@locale": "lt",
+  "setupRemoteHeading": "Nuotolinis administravimas",
+  "setupTitle": "Nustatyti\nKiosk Satellite",
+  "setupWelcomeLead": "Paverskite šį planšetinį kompiuterį Home Assistant kiosku. Sąranka užtrunka kelias minutes, o šis vedlys supažindins jus su juo.",
+  "setupDeviceName": "Įrenginio pavadinimas",
+  "setupDeviceNameHelp": "Kaip šis kioskas vadinamas Home Assistant, nuotoliniu administratoriumi ir tinkle. Pakeiskite jį bet kuriuo metu skiltyje „Nustatymai“, „Įrenginys“.",
+  "setupEnableRemote": "Įgalinti nuotolinį administravimą",
+  "setupEnableRemoteHelp": "Po sąrankos toliau valdykite šį kioską žiniatinklio naršyklėje, kur Home Assistant prieigos raktą įklijuoti daug lengviau.",
+  "setupRemotePassword": "Nuotolinio administratoriaus slaptažodis",
+  "setupRestoreHeading": "Atkurti atsarginę kopiją",
+  "setupRestore": "Atkurti iš konfigūracijos failo",
+  "setupRestoreHelp": "Importuokite konfigūraciją, eksportuotą iš Kiosk Satellite, ir praleiskite likusią šio vedlio dalį. Kartu pateikiami nustatymai, prietaisų skydelis ir prisijungimas.",
+  "setupServicePermissions": "Rekomenduojami paslaugų leidimai",
+  "setupPasswordShort": "Slaptažodis per trumpas",
+  "setupPasswordMinimum": "Naudokite bent 4 simbolius.",
+  "setupRemoteAddress": "Šią sąranką galite tęsti nuotoliniu būdu naudodami žiniatinklio naršyklę adresu {address}, nesvarbu, ar aukščiau esantis jungiklis įjungtas, ar ne.",
+  "remoteWelcomeTitle": "Sveiki atvykę į Kiosk Satellite",
+  "remoteWelcomePassword": "Šis planšetinis kompiuteris laukia, kol bus nustatytas. Pirmiausia apsaugokite šį nuotolinį administratorių slaptažodžiu.",
+  "remoteWelcomeReady": "Šis planšetinis kompiuteris laukia, kol bus nustatytas. Nuotolinio administratoriaus slaptažodis jau nustatytas; įveskite čia naują, kad jį pakeistumėte.",
+  "remoteInitialPassword": "Administratoriaus slaptažodis (mažiausiai 4 simboliai)",
+  "remoteNewPassword": "Naujas administratoriaus slaptažodis (palikite tuščią, kad liktų dabartinis)"
+}

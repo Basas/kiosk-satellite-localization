@@ -1,0 +1,22 @@
+{
+  "@@locale": "lt",
+  "settingSendspinPlayerSourceTitle": "Grotuvo šaltinis",
+  "settingSendspinPlayerSourceDescription": "Ką rodo ir valdo slankiojantis grotuvas ir Dabar leidžiama: šis įrenginys ar grotuvas kitur.",
+  "settingSendspinPlayerTitle": "Žaidėjas",
+  "settingSendspinPlayerDescription": "To šaltinio grotuvas, kurį reikia parodyti ir valdyti.",
+  "settingSendspinDuckPercentTitle": "Duck garsumas balso sąveikos metu",
+  "settingSendspinDuckPercentDescription": "Muzikos garsumas sumažėja iki šios dalies balso sąveikos ir vidinio ryšio skambučių metu, o tada grįžta.",
+  "settingSendspinEsphomeEntitiesTitle": "Atskleiskite ESPHome objektus",
+  "settingSendspinEsphomeEntitiesDescription": "Leisti, pristabdyti, kito ir ankstesnio mygtukai sekamam grotuvui programoje Home Assistant su jo būsena, pavadinimu, atlikėju ir šaltiniu kaip jutikliais.",
+  "settingSendspinVolumeKeysTitle": "Garsumo mygtukai valdo grotuvą",
+  "settingSendspinVolumeKeysDescription": "Šio įrenginio garsumo mygtukai pakeičia sekamo grotuvo garsumą, o ne savo. Tik tada, kai ekrane rodomas rodinys Dabar groja arba kai groja grotuvas.",
+  "settingSendspinVolumeKeyStepTitle": "Garsumo mygtuko žingsnis",
+  "settingSendspinVolumeKeyStepDescription": "Kiek vienu garsumo mygtuko paspaudimu perkeliamas grotuvas.",
+  "mediaIntro": "Slankiojantis grotuvas ir Dabar groja rodomi tik tada, kai pasirinktame grotuve groja takelis arba įkelta eilė. Nieko negrojant ar nesant eilėje, nė vienas nerodomas.",
+  "mediaThisDevice": "Šis prietaisas",
+  "mediaOff": "Išjungta",
+  "mediaKeysNowPlaying": "Rodoma, kol dabar žaidžiama",
+  "mediaKeysPlaying": "Kol žaidėjas žaidžia",
+  "mediaAnotherPlayer": "kitas žaidėjas",
+  "mediaLocalOffline": "Šio įrenginio Sendspin grotuvas lieka neprisijungęs, kol valdomas {player}."
+}

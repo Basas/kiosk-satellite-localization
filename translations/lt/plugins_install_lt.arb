@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "pluginAddPlugin": "Pridėti papildinį",
+  "pluginInstallFromAGithubRepository": "Įdiekite iš GitHub saugyklos",
+  "pluginMakeSureYouTrustThePluginSAuthorAnd": "Prieš diegdami papildinį, įsitikinkite, kad pasitikite papildinio autoriumi ir jo kodu.",
+  "pluginPreview": "Peržiūra",
+  "pluginInstalledVersion": "Įdiegta versija",
+  "pluginAuthor": "Autorius",
+  "pluginLicense": "Licencija",
+  "pluginPluginsRunCodeInsideKioskSatelliteAndCanAccess": "Papildiniai paleidžia kodą viduje Kiosk Satellite ir gali pasiekti programos duomenis bei suteikti Android leidimus. Sugedęs arba kenkėjiškas papildinys gali atskleisti privačią informaciją arba sustabdyti programos veikimą. Įdiekite tik tų autorių, kuriais pasitikite, papildinius.",
+  "pluginNewPluginsStartDisabledUpdatesPreserveTheEnabledState": "Nauji papildiniai paleidžiami išjungti. Atnaujinimai išsaugo įjungtą būseną ir automatiškai paleidžia paleisti papildinius.",
+  "pluginTrustAndUpdate": "Pasitikėk ir atnaujink",
+  "pluginTrustAndInstall": "Pasitikėkite ir įdiekite",
+  "pluginInstallFromZip": "Įdiegti iš ZIP",
+  "pluginForDevelopersOnlyTestALocalBuild": "Tik kūrėjams: išbandykite vietinę versiją",
+  "pluginPluginZip": "Papildinys ZIP",
+  "pluginPluginZipMustBeAtMost4Mb": "Papildinio ZIP turi būti ne daugiau kaip 4 MB",
+  "pluginCouldNotReadTheSelectedZip": "Nepavyko perskaityti pasirinkto ZIP"
+}

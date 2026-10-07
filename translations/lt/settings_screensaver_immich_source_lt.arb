@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverImmichAlbumTitle": "Žiniasklaidos šaltinis",
+  "settingScreensaverImmichAlbumDescription": "Visa biblioteka arba jūsų pasirinkti albumai.",
+  "settingScreensaverImmichPhotosOnlyTitle": "Tik nuotraukos",
+  "settingScreensaverImmichPhotosOnlyDescription": "Praleiskite vaizdo įrašus skaidrių demonstracijoje.",
+  "settingScreensaverImmichCacheTitle": "Laikmenos talpyklos vietoje",
+  "settingScreensaverImmichCacheDescription": "Laikykite kopijas įrenginyje, kad vaizdai būtų įkeliami akimirksniu.",
+  "settingScreensaverImmichCacheMaxTitle": "Talpyklos dydis (elementai)",
+  "settingScreensaverImmichCacheMaxDescription": "Seniausi elementai ištrinami, kai talpykla užpildoma.",
+  "screensaverMediaAll": "Visos žiniasklaidos priemonės",
+  "screensaverMediaAllDevice": "Visos žiniasklaidos priemonės.",
+  "screensaverMediaNoAlbums": "Albumų dar nėra. Pirmiausia sukurkite jį Immich.",
+  "screensaverMediaAlbumsFailed": "Nepavyko išvardyti albumų",
+  "screensaverMediaListError": "Nepavyko jų išvardyti: {error}",
+  "screensaverMediaListingFailed": "įrašyti į sąrašą nepavyko",
+  "screensaverMediaItems": "{count} prekės",
+  "screensaverMediaCached": "{count} talpykloje, {size}"
+}

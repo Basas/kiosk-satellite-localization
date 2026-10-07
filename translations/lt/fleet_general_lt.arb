@@ -1,0 +1,15 @@
+{
+  "@@locale": "lt",
+  "fleetFleetManagementNeedsTheRemoteAdmin": "Laivyno valdymui reikalingas nuotolinis administratorius",
+  "fleetKiosksFindEachOtherThroughItTurnOnRemote": "Kioskai per jį randa vienas kitą. Įjunkite Nuotolinį valdymą ir Raskite kitus kioskus skiltyje Įrenginys, tada grįžkite.",
+  "fleetLeadThisFleet": "Vadovauti šiam laivynui",
+  "fleetSyncThisKioskSSettingsToItsFollowersRequires": "Sinchronizuoti šio viešojo terminalo nustatymus su jo stebėtojais. Reikia, kad visi kioskai veiktų ta pačia versija.",
+  "fleetAKioskThatFollowsALeaderCannotLead": "Kioskas, kuris seka lyderį, negali vadovauti.",
+  "fleetFollowers": "Sekėjai",
+  "fleetProfiles": "Profiliai",
+  "fleetLeader": "Lyderis",
+  "fleetLearnWhichSettingsSyncAndWhichDoNotIn": "Sužinokite, kurie nustatymai sinchronizuojami, o kurie ne",
+  "fleetFleetManagementDocumentation": "Automobilių parko valdymo dokumentacija",
+  "fleetMore": "Daugiau",
+  "fleetSearchFollowers": "Kioskai, kuriais šis veda, jų būsena ir būdas jį pridėti."
+}

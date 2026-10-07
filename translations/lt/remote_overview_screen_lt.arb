@@ -1,0 +1,12 @@
+{
+  "@@locale": "lt",
+  "overviewNoScreenshot": "Nėra ekrano kopijos",
+  "overviewStill": "Vis tiek",
+  "overviewLive": "Tiesiogiai",
+  "overviewFullSize": "Pilnas dydis",
+  "overviewLiveInterval": "Tiesiogiai, kas 5 sekundes",
+  "overviewTaken": "Paimta {age}",
+  "overviewCameraViewNamed": "Kameros vaizdas: {name}",
+  "overviewCameraView": "Kameros vaizdas",
+  "overviewScreenOffState": "Ekranas išjungtas"
+}

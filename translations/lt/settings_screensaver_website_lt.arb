@@ -1,0 +1,10 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverWebsiteUrlTitle": "Svetainės URL",
+  "settingScreensaverWebsiteUrlDescription": "Puslapis, skirtas rodyti viso ekrano režimu. Jis turi leisti būti įterptas.",
+  "settingScreensaverWebsiteZoomTitle": "Priartinimo lygis",
+  "settingScreensaverWebsiteZoomDescription": "Pakeičia visą išorinę ekrano užsklandą webview.",
+  "settingScreensaverWebsiteDoubleTapTitle": "Dukart palieskite, kad atsisakytumėte",
+  "settingScreensaverWebsiteDoubleTapDescription": "Vieni palietimai sąveikauja su svetaine, o ne atsisako.",
+  "screensaverWebsiteSection": "Svetainės ekrano užsklanda"
+}

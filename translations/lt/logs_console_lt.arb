@@ -1,0 +1,12 @@
+{
+  "@@locale": "lt",
+  "logsWebConsole": "Žiniatinklio konsolė",
+  "logsDock": "Prijunkite prie tiesioginio puslapio",
+  "logsNoOutput": "Dar nėra konsolės išvesties",
+  "logsShareSubject": "Kiosk Satellite konsolės žurnalas",
+  "logsInput": "Puslapyje paleiskite JavaScript",
+  "logsInputHistory": "Puslapyje paleiskite „JavaScript“ (įveskite norėdami paleisti, aukštyn / žemyn, norėdami pamatyti istoriją)",
+  "logsRun": "Bėk",
+  "logsEvaluationFailed": "vertinimas nepavyko",
+  "logsDeviceUnreachable": "prietaisas nepasiekiamas"
+}

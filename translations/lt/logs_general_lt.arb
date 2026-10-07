@@ -1,0 +1,10 @@
+{
+  "@@locale": "lt",
+  "logsEntries": "{count} įrašai",
+  "logsCopyLog": "Kopijuoti žurnalą",
+  "logsShareLog": "Bendrinti žurnalą",
+  "logsCopied": "Nukopijuota",
+  "logsCopyFailed": "Nepavyko nukopijuoti",
+  "logsOnClipboard": "Žurnalas yra iškarpinėje.",
+  "logsConsoleOnClipboard": "Konsolės žurnalas yra iškarpinėje."
+}

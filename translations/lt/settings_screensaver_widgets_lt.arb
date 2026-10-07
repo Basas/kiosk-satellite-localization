@@ -1,0 +1,20 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverWidgetsTitle": "Valdikliai",
+  "settingScreensaverWidgetsDescription": "Mažos perdangos ekrano užsklandos kampuose.",
+  "settingScreensaverWidgetScaleTitle": "Visuotinis valdiklių mastelio keitimas",
+  "settingScreensaverWidgetScaleDescription": "Sujunkite visus valdiklius, kad jie geriau atitiktų jūsų ekrano dydį. Kiekvienas valdiklis išlaiko savo mastelį, palyginti su kitais.",
+  "settingScreensaverWidgetFontTitle": "Pasaulinė šriftų šeima",
+  "settingScreensaverWidgetFontDescription": "Įtraukiamas kiekvieno valdiklio šriftas. Valdiklis gali pasirinkti savo.",
+  "settingScreensaverWidgetFontWeightTitle": "Pasaulinis šrifto svoris",
+  "settingScreensaverWidgetFontWeightDescription": "Kiek sunkus nupieštas kiekvieno valdiklio tekstas. Numatytasis yra kiekvienos eilutės svoris. Valdiklis gali pasirinkti savo.",
+  "settingScreensaverWidgetTextShadowTitle": "Teksto šešėlis",
+  "settingScreensaverWidgetTextShadowDescription": "Pridėkite šešėlį prie valdiklio teksto, kad nuotraukos būtų skaitomos.",
+  "settingScreensaverVignetteStrengthTitle": "Vinjetės stiprumas",
+  "settingScreensaverVignetteStrengthDescription": "Tamsus už valdiklių šešėlis, kad būtų galima įskaityti ryškias nuotraukas. 0 jį išjungia.",
+  "screensaverOverlayWidgetsEmpty": "Dar nėra valdiklių",
+  "screensaverOverlayRemove": "Pašalinti valdiklį",
+  "screensaverOverlayAdd": "Pridėti valdiklį",
+  "screensaverOverlayAddHelp": "Mažas laikrodis, oras, akumuliatorius arba objektas kampe.",
+  "screensaverOverlayWidgetsHint": "Kampinės perdangos ir jų mastelis"
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "settingUiLanguageTitle": "Kalba",
+  "settingUiLanguageDescription": "Kiosk Satellite ir nuotolinio administravimo kalba. Home Assistant išlaiko savo kalbą.",
+  "settingUiThemeTitle": "Programėlės tema",
+  "settingUiThemeDescription": "Šviesus arba tamsus pačios programos ekranams: meniu, nustatymai, dialogai. Sistema atitinka Android nustatymą.",
+  "settingUiScaleTitle": "Mastelio vartotojo sąsaja",
+  "settingUiScaleDescription": "Programėlės ekranų dydis: meniu, nustatymai, dialogo langai. Didelio tankio ekranams. Interneto turinys išlaiko savo dydį.",
+  "deviceUserInterface": "Vartotojo sąsaja",
+  "deviceThemeDark": "Tamsus",
+  "deviceThemeLight": "Šviesa",
+  "deviceThemeSystem": "Sistema"
+}

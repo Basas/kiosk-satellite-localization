@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "settingLocationEnabledTitle": "Pranešti apie vietą",
+  "settingLocationEnabledDescription": "Nuskaitykite GPS padėtį ir pateikite ją Home Assistant kaip platumos, ilgumos, tikslumo, aukščio ir greičio jutiklius. Tai įjungus arba išjungus, ESPHome įrenginys registruojamas iš naujo.",
+  "settingLocationIntervalTitle": "Atnaujinimo intervalas",
+  "settingLocationIntervalDescription": "Sekundės tarp padėties rodmenų.",
+  "esphomeGps": "GPS jutiklis",
+  "esphomeGpsHelp": "Atskleiskite GPS jutiklio duomenis Home Assistant",
+  "esphomeLocationOff": "Išjungta.",
+  "esphomeLocationWaiting": "Laukiam pirmojo pataisymo. Šaltas startas po atviru dangumi gali užtrukti kelias minutes.",
+  "esphomeCoordinates": "Paskutinės koordinatės",
+  "esphomeLocationDenied": "Vietos leidimas nesuteiktas.",
+  "esphomeLocationAbsent": "Nėra GPS imtuvo.",
+  "esphomeLocationError": "GPS nepasiekiamas: {error}",
+  "esphomeLocationUnsupported": "Šiame įrenginyje nėra: jame nėra GPS imtuvo."
+}

@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "voiceFinancialOpen": "Atidaryti: {value}",
+  "voiceFinancialHigh": "Aukšta: {value}",
+  "voiceFinancialLow": "Žemas: {value}",
+  "voiceFinancialHigh24h": "Aukščiausia per 24 val.: {value}",
+  "voiceFinancialLow24h": "24h Žemas laikas: {value}",
+  "voiceFinancialMarketCap": "Rinkos kapitalizacija: {value}"
+}

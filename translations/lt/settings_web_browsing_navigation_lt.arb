@@ -1,0 +1,18 @@
+{
+  "@@locale": "lt",
+  "settingAutoReloadOnErrorTitle": "Automatinis įkėlimas iš naujo esant klaidai",
+  "settingAutoReloadOnErrorDescription": "Automatiškai atkurkite po puslapių gedimų ir programos gedimų.",
+  "settingPullToRefreshTitle": "Įgalinkite traukimą, kad atnaujintumėte",
+  "settingPullToRefreshDescription": "Norėdami iš naujo įkelti, vilkite žemyn iš puslapio viršaus. Išjungta pagal numatytuosius nustatymus: slenkančią prietaisų skydelį lengva netyčia patraukti.",
+  "settingPullToRefreshClearCacheTitle": "Išvalykite talpyklą, kai traukiate atnaujinti",
+  "settingPullToRefreshClearCacheDescription": "Ištraukimas taip pat išvalo žiniatinklio talpyklą ir pažadina žodžių modelius prieš įkeliant iš naujo, todėl viskas vėl bus nauja. Saugomi prisijungimo ir išsaugoti puslapio duomenys.",
+  "settingBrowserZoomTitle": "Priartinimo lygis",
+  "settingBrowserZoomDescription": "Viso puslapio mastelis. Virš 1x sieniniams planšetiniams kompiuteriams žiūrint iš tolo; žemiau 1x telpa daugiau prietaisų skydelio mažame ekrane.",
+  "settingPinchToZoomTitle": "Įgalinkite suspaudimą, kad padidintumėte mastelį",
+  "settingPinchToZoomDescription": "Padidinkite puslapio mastelį dviem pirštais suimdami. Pagal numatytuosius nustatymus išjungta, todėl kiosko prietaisų skydelis lieka nepastebėtas.",
+  "settingDisableScrollingTitle": "Išjungti slinkimą",
+  "settingDisableScrollingDescription": "Užfiksuokite puslapį, kad jo nebūtų galima slinkti jokia kryptimi. Bakstelėjimai ir mygtukai veikia toliau.",
+  "browserCrashPermissionHelp": "Be to kioskas negali grįžti po avarijos.",
+  "browserCrashPermissionMissing": "Trūksta leidimo „Rodyti virš kitų programų“.",
+  "browserCrashPermissionRemoteHelp": "Be jo kioskas negali atsigauti po avarijos. Planšetiniame kompiuteryje pasirodo dotacijos ekranas."
+}

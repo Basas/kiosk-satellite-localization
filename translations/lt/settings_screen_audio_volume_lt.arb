@@ -1,0 +1,12 @@
+{
+  "@@locale": "lt",
+  "settingMediaVolumeTitle": "Medijos garsumas",
+  "settingMediaVolumeDescription": "Muzika ir vaizdo įrašai leidžiami šia pagrindinio garsumo dalimi. Sendspin grotuvo garsumas Music Assistant perkelia šį slankiklį.",
+  "settingAssistantVolumeTitle": "Asistento garsumas",
+  "settingAssistantVolumeDescription": "Balso atsakymai ir varpeliai groja šia pagrindinio garsumo dalimi, nepriklausomai nuo medijos garsumo.",
+  "settingIntercomVolumeTitle": "Domofono garsumas",
+  "settingIntercomVolumeDescription": "Kito kiosko balsas ir pranešimai groja šia pagrindinio garsumo dalimi.",
+  "screenAudioVolume": "Garso garsumas",
+  "screenAudioMasterVolume": "Pagrindinis tūris",
+  "screenAudioMasterHelp": "Įrenginio garsumas. Po juo skalauja medijos, domofono ir asistento garsai."
+}

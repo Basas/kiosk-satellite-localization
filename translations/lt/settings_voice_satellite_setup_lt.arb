@@ -1,0 +1,12 @@
+{
+  "@@locale": "lt",
+  "voiceDisconnected": "Home Assistant neprijungtas",
+  "voiceValidate": "Pirmiausia patvirtinkite ryšį pagal Home Assistant sąranką.",
+  "voiceChecking": "Tikrinama, ar yra Voice Satellite…",
+  "voiceMissing": "Voice Satellite neįdiegtas Home Assistant",
+  "voiceInstallHelp": "Voice Satellite paverčia šį kioską visu Home Assistant laisvų rankų balso asistentu: pažadinkite žodį, pokalbius, laikmačius ir pranešimus tiesiai prietaisų skydelyje.\n\nJį galima rasti numatytojoje HACS saugykloje. Įdiekite jį savo Home Assistant egzemplioriuje, tada grįžkite čia.",
+  "voiceLearnMore": "Sužinokite daugiau apie",
+  "voiceGithub": "Voice Satellite Github",
+  "voiceHacs": "Atidarykite HACS saugyklą",
+  "voiceLoading": "Įkeliami Voice Satellite valdikliai…"
+}

@@ -1,0 +1,10 @@
+{
+  "@@locale": "lt",
+  "dlnaCannotDecode": "Šis įrenginys negali iššifruoti šio vaizdo įrašo.",
+  "dlnaCannotRead": "Šio failo nepavyko nuskaityti.",
+  "dlnaCannotPlay": "Šios medijos nepavyko paleisti.",
+  "dlnaSeeLogs": "Daugiau informacijos rasite programų žurnaluose",
+  "dlnaLoading": "Įkeliama laikmena",
+  "dlnaImageFailed": "Šio vaizdo nepavyko parodyti.",
+  "dlnaStop": "Sustabdyti atkūrimą"
+}

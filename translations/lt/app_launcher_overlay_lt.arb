@@ -1,0 +1,5 @@
+{
+  "@@locale": "lt",
+  "launcherOpenFailed": "Nepavyko atidaryti {name}",
+  "launcherUninstalled": "Gali būti, kad jis buvo pašalintas."
+}

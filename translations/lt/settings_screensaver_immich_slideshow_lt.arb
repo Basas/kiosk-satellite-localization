@@ -1,0 +1,18 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverImmichIntervalTitle": "Sekundės vienam vaizdui",
+  "settingScreensaverImmichIntervalDescription": "Kiek laiko rodomas kiekvienas vaizdas prieš kitą. Vaizdo įrašai leidžiami visiškai.",
+  "settingScreensaverImmichShuffleTitle": "Maišyti",
+  "settingScreensaverImmichShuffleDescription": "Perkelkite laikmenas atsitiktine tvarka.",
+  "settingScreensaverImmichTransitionTitle": "Perėjimas",
+  "settingScreensaverImmichTransitionDescription": "Kaip vienas daiktas perduodamas kitam.",
+  "settingScreensaverImmichFillTitle": "Užpildykite ekraną",
+  "settingScreensaverImmichFillDescription": "Išjungta, visa nuotrauka išlieka tarp juodų juostų. „Smart“ padidina arti ekrano suformuotas nuotraukas, likusias įrėmindama neryškiame fone. Visada padidina kiekvieną nuotrauką, nupjauna tai, kas netelpa.",
+  "settingScreensaverImmichPairPortraitTitle": "Poruoti portretines nuotraukas",
+  "settingScreensaverImmichPairPortraitDescription": "Rodyti dvi stačias nuotraukas greta, kad jos užpildytų ekraną.",
+  "settingScreensaverImmichPairLandscapeTitle": "Suporuokite kraštovaizdžio nuotraukas",
+  "settingScreensaverImmichPairLandscapeDescription": "Rodyti dvi gulsčiąsias nuotraukas vieną virš kitos, kad jos užpildytų portretinį ekraną.",
+  "settingScreensaverImmichEdgeTapsTitle": "Bakstelėkite kraštus, kad pakeistumėte skaidres",
+  "settingScreensaverImmichEdgeTapsDescription": "Bakstelėjus kairėje arba dešinėje ekrano penktojoje pusėje, užuot atmetus, rodoma ankstesnė arba kita skaidrė.",
+  "screensaverMediaSlideshow": "Skaidrių demonstravimas"
+}

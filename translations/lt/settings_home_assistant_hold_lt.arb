@@ -1,0 +1,14 @@
+{
+  "@@locale": "lt",
+  "settingHaHoldModeTitle": "Laikymo režimas",
+  "settingHaHoldModeDescription": "Laikykite dabartinį vaizdą ekrane: ekrano užsklanda, prietaisų skydelio rodinio pasukimas ir grįžimo į namų laikmatis pristabdomi, kol išjungiami.",
+  "settingHaHoldReleaseMinutesTitle": "Užbaikite laikymą automatiškai po to",
+  "settingHaHoldReleaseMinutesDescription": "Po nustatyto laiko savaime išsijungia sulaikymo režimas. Nustatykite 0, kad išlaikytumėte tol, kol išjungsite rankiniu būdu.",
+  "settingHaHoldMenuTitle": "Rodyti kiosko meniu",
+  "settingHaHoldMenuDescription": "Prideda meniu įrašą, kuris įjungia ir išjungia sulaikymo režimą.",
+  "haHoldHint": "Prisekite dabartinį rodinį, automatinį atleidimą, meniu įvedimą",
+  "haNever": "Niekada",
+  "haMinutes": "{minutes} min",
+  "haHours": "{hours} val",
+  "haHoursMinutes": "{hours} h {minutes} min"
+}

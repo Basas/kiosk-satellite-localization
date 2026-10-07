@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "screensaverDetectionPermissions": "Reikalingi sistemos leidimai",
+  "screensaverDetectionLogAccess": "Prieiga prie žurnalo",
+  "screensaverDetectionChecking": "Tikrinama...",
+  "screensaverDetectionReadable": "Galima nuskaityti įrenginio asmens jutiklį.",
+  "screensaverDetectionRestartRequired": "Suteikta. Iš naujo paleiskite Kiosk Satellite, kad jį pritaikytumėte.",
+  "screensaverDetectionGrantHelp": "Šis leidimas gali būti suteiktas tik per ADB. Meta portalo dokumentas turi visą komandą. Po to iš naujo paleiskite Kiosk Satellite.",
+  "screensaverDetectionGrantRemoteHelp": "Šis leidimas gali būti suteiktas tik per ADB. Žemiau yra visa komanda, paruošta kopijuoti. Po to iš naujo paleiskite Kiosk Satellite.",
+  "screensaverDetectionGranted": "Suteikta",
+  "screensaverDetectionMissing": "Trūksta",
+  "screensaverDetectionRestart": "Paleisti iš naujo",
+  "screensaverDetectionRestartRemote": "Iš naujo paleiskite įrenginį",
+  "screensaverDetectionLogRestart": "Prieiga prie žurnalo suteikiama, bet įsigalioja iš naujo paleidus Kiosk Satellite.",
+  "screensaverDetectionLogMissing": "Prieiga prie žurnalo nesuteikta."
+}

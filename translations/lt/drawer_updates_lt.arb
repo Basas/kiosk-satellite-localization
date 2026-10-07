@@ -1,0 +1,20 @@
+{
+  "@@locale": "lt",
+  "drawerVersion": "Versija {version}",
+  "drawerUpdateAvailable": "Galimas atnaujinimas",
+  "drawerUpdateInstall": "{version} versija · Palieskite, kad įdiegtumėte",
+  "drawerUpdateChecking": "Tikrinama, ar yra naujinių…",
+  "drawerUpdateCurrent": "Naujausia",
+  "drawerUpdateCurrentHelp": "Jūs naudojate naujausią versiją.",
+  "drawerUpdateCheckFailed": "Nepavyko patikrinti atnaujinimo",
+  "drawerUpdateOffline": "Ar įrenginys prisijungęs?",
+  "drawerUpdateTo": "Atnaujinti į {version}",
+  "drawerUpdateInstructions": "Atsisiuntimas prasideda nuo atnaujinimo. Android prašo patvirtinti diegimą.",
+  "drawerUpdateRelaunch": "Be leidimo „Rodyti virš kitų programų“, atnaujinus programą, ji pati negali atsidaryti.",
+  "drawerUpdate": "Atnaujinti",
+  "drawerUpdateDownloading": "Atsisiunčiamas naujinimas",
+  "drawerUpdateStarting": "Pradedama…",
+  "drawerUpdateFailed": "Nepavyko atnaujinti",
+  "drawerUpdates": "Atnaujinimai",
+  "drawerNoReleaseNotes": "Nėra išleidimo pastabų."
+}

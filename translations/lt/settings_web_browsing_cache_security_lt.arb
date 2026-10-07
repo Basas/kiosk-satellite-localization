@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "settingDisableCacheTitle": "Išjungti talpyklą",
+  "settingDisableCacheDescription": "Visada gaukite iš tinklo ir įkeldami išmeskite talpykloje saugomus puslapio duomenis, todėl iš naujo įdiegta informacijos suvestinė visada bus nauja. Lėtas; traktuoti kaip vystymosi pagalbą.",
+  "settingAllowMixedContentTitle": "Leisti mišrų turinį",
+  "settingAllowMixedContentDescription": "Leiskite HTTPS puslapiams įkelti nesaugius HTTP išteklius. Padeda, kai Home Assistant sumaišo http:// turinį į https:// prietaisų skydelį.",
+  "settingIgnoreSslErrorsTitle": "Ignoruoti SSL klaidas",
+  "settingIgnoreSslErrorsDescription": "Priimkite nepatikimus arba savarankiškai pasirašytus sertifikatus. Naudokite tik savo tinkle, nes išjungiamas sertifikato patvirtinimas."
+}

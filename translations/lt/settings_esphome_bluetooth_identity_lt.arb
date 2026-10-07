@@ -1,0 +1,23 @@
+{
+  "@@locale": "lt",
+  "esphomeIdentityBthome": "BTHome jutiklis",
+  "esphomeIdentityXiaomi": "Xiaomi jutiklis",
+  "esphomeIdentityQingping": "Qingping jutiklis",
+  "esphomeIdentityGoogleNest": "„Google“ / „Nest“ įrenginys",
+  "esphomeIdentityEddystone": "Eddystone švyturys",
+  "esphomeIdentityGoogleFastPair": "„Google Fast Pair“ įrenginys",
+  "esphomeIdentityAppleFindMy": "Apple Find My įrenginys",
+  "esphomeIdentityExposure": "Pranešimas apie užsikrėtimą (telefonu)",
+  "esphomeIdentityAugustYale": "August/Yale užraktas",
+  "esphomeIdentityAmazon": "„Amazon“ įrenginys",
+  "esphomeIdentityTile": "Plytelių sekiklis",
+  "esphomeIdentityInput": "Įvesties įrenginys (nuotolinio valdymo pultas / klaviatūra)",
+  "esphomeIdentityHeartRate": "Širdies ritmo jutiklis",
+  "esphomeIdentityEnvironmental": "Aplinkos jutiklis",
+  "esphomeIdentityApple": "Apple įrenginys",
+  "esphomeIdentityWindows": "Windows kompiuteris",
+  "esphomeIdentitySamsung": "Samsung prietaisas",
+  "esphomeIdentityGoogle": "„Google“ įrenginys",
+  "esphomeIdentityUnknown": "Nežinomas įrenginys",
+  "esphomeIdentityVendor": "{vendor} įrenginys"
+}

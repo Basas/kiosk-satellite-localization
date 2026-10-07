@@ -1,0 +1,10 @@
+{
+  "@@locale": "lt",
+  "settingDlnaEnabledTitle": "Įgalinti DLNA atvaizdavimo priemonę",
+  "settingDlnaEnabledDescription": "Rodyti vaizdus ir leisti laikmeną, nusiunčiamą iš Home Assistant arba bet kurios DLNA programos. Įrenginys rodomas kaip medijos grotuvas, pavadintas įrenginio pavadinimu.",
+  "settingDlnaAudioBackgroundTitle": "Laikykite garsą fone",
+  "settingDlnaAudioBackgroundDescription": "Įstumiamas garsas grojamas neperimant ekrano.",
+  "settingDlnaPortTitle": "Serverio prievadas",
+  "settingDlnaPortDescription": "Prievadas, į kurį įjungtas atvaizdavimo įrenginys, užpildomas jam paleidus. Pakeiskite jį, kad perkeltumėte atvaizdavimo priemonę, arba išvalykite, kad vėl pasirinktumėte.",
+  "settingDlnaPortPlaceholder": "Nustatykite, kada prasidės atvaizdavimo priemonė"
+}

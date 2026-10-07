@@ -1,0 +1,7 @@
+{
+  "@@locale": "lt",
+  "settingsSearchHint": "Paieškos nustatymai",
+  "settingsSearchClear": "Išvalyti paiešką",
+  "settingsSearchResults": "Paieškos rezultatai",
+  "settingsSearchEmpty": "Jokie nustatymai neatitinka „{query}“."
+}

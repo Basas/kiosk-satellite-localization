@@ -1,0 +1,15 @@
+{
+  "@@locale": "lt",
+  "deviceHelperPage": "Pasirenkamas naujinimo pagalbininkas",
+  "deviceHelperStatus": "Pagalbininko statusas",
+  "deviceHelperError": "Nepavyko patikrinti naujinimo pagalbininko.",
+  "deviceHelperUnneeded": "Android dabar gali tyliai įdiegti naujinimus. Pagalbininkas nereikalingas.",
+  "deviceHelperIntro": "Šiam įrenginiui šiuo metu reikia patvirtinimo ekrane, kad būtų galima įdiegti naujinimus per Android. Pasirenkamas pagalbininkas leidžia Kiosk Satellite įdiegti naujinimus be bakstelėjimo.",
+  "deviceHelperBusy": "Įdiegti naujinimą.",
+  "deviceHelperReady": "Paruošta. Atnaujinimai įdiegiami be patvirtinimo.",
+  "deviceHelperUnavailable": "Nepasiekiamas. Paleiskite pagalbininką per ADB, kad įgalintumėte naujinimus be patvirtinimo.",
+  "deviceHelperLifetime": "Pagalbininkas išgyvena, kai programa paleidžiama iš naujo ir atnaujinama, bet sustoja iš naujo paleidus įrenginį. Paleiskite komandą iš kompiuterio su ADB, kad paleistumėte dar kartą. Tada kompiuteris gali atsijungti.",
+  "deviceHelperStart": "Pradėkite nuo ADB",
+  "deviceHelperGuide": "Sąrankos vadovas",
+  "deviceHelperGuideHelp": "Perskaitykite naujinimo pagalbininko instrukcijas ir reikalavimus."
+}

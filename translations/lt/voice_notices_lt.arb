@@ -1,0 +1,21 @@
+{
+  "@@locale": "lt",
+  "voiceNoticeError": "Voice Satellite klaida",
+  "voiceNoticeWarning": "Voice Satellite įspėjimas",
+  "voiceNoticeNotice": "Voice Satellite pranešimas",
+  "voiceNoticeTts": "Tekstas į kalbą",
+  "voiceNoticeAssistPipeline": "Assist dujotiekis",
+  "voiceNoticePipeline": "Dujotiekis \"{name}\"",
+  "voiceNoticeMicUnavailable": "Mikrofonas nepasiekiamas.",
+  "voiceNoticeNotConnected": "Home Assistant nėra prijungtas prie šio kiosko.",
+  "voiceNoticeConnectionLost": "Nutrūko ryšys su Home Assistant. Prisijungiama automatiškai.",
+  "voiceNoticePlayback": "Įrenginyje nepavyko leisti garso.",
+  "voiceNoticeWatchdog": "Baigę kalbėti, Home Assistant neatsako. Dujotiekis gali būti užstrigęs.",
+  "voiceNoticeRefused": "Home Assistant nepavyko paleisti asistento.",
+  "voiceNoticeUnexpected": "Įvyko netikėta dujotiekio klaida.",
+  "voiceNoticeMicBlocked": "Prieiga prie mikrofono užblokuota. Leiskite tai Kiosk Satellite Android nustatymuose.",
+  "voiceNoticeMicDeclined": "Prieiga prie mikrofono buvo atmesta, todėl pažadinimo žodžio negalima išgirsti.",
+  "voiceNoticeMicLost": "Mikrofonas nustojo veikti.",
+  "voiceNoticeModels": "Nepavyko įkelti pažadinimo žodžių modelių.",
+  "voiceNoticeCrashed": "Šio įrenginio pažadinimo žodžio detektorius nuolat strigdavo, todėl jis buvo sustabdytas."
+}

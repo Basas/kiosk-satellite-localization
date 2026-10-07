@@ -1,0 +1,23 @@
+{
+  "@@locale": "lt",
+  "settingAnnouncementsEnabledTitle": "Įgalinti pranešimus",
+  "settingAnnouncementsEnabledDescription": "Leiskite Home Assistant siunčiamus pranešimus su pranešimo veiksmu.",
+  "esphomeTtsSection": "Tekstas į kalbą",
+  "settingAnnouncementsTtsEngineTitle": "Teksto į kalbą variklis",
+  "settingAnnouncementsTtsEngineDescription": "Home Assistant tekstas į kalbą subjektas, kuris taria pranešimus.",
+  "settingAnnouncementsTtsLanguageTitle": "Kalba",
+  "settingAnnouncementsTtsLanguageDescription": "Pranešimai kalbami kalba.",
+  "settingAnnouncementsTtsVoiceTitle": "Balsas",
+  "settingAnnouncementsTtsVoiceDescription": "Balsas, kuris kalba pranešimus.",
+  "esphomeTtsFirst": "Pirmas prieinamas",
+  "esphomeTtsDefault": "Numatytoji",
+  "settingAnnouncementsChimeTitle": "Skambutis pirmas",
+  "settingAnnouncementsChimeDescription": "Prieš paskelbdami paleiskite skambutį.",
+  "settingAnnouncementsChimeFileTitle": "Skambučio garsas",
+  "settingAnnouncementsChimeFileDescription": "Groja taip garsiai kaip anonsas.",
+  "esphomeAnnouncements": "Skelbimai",
+  "esphomeAnnouncementsHelp": "Home Assistant žodiniai pranešimai",
+  "esphomeChime": "Skambutis",
+  "esphomeTtsUnavailable": "Nepavyko pasiekti Home Assistant",
+  "esphomeTtsNoVoices": "Nėra balsų, kuriuos būtų galima pasirinkti"
+}

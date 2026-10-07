@@ -1,0 +1,11 @@
+{
+  "@@locale": "lt",
+  "settingHaReturnHomeEnabledTitle": "Grįžti į pagrindinį prietaisų skydelio vaizdą",
+  "settingHaReturnHomeEnabledDescription": "Po tam tikro neveiklumo laikotarpio grįžkite į anksčiau sukonfigūruotą prietaisų skydelį.",
+  "settingHaReturnHomeSecondsTitle": "Grįžti po (sekundėmis)",
+  "settingHaReturnHomeSecondsDescription": "Neaktyvumo laikotarpis, kol kioskas grįžta atgal.",
+  "haReturnHint": "Grįžkite į pagrindinį rodinį, kai neveikiate",
+  "haReturnDisabled": "Išjungta, kai įjungtas informacijos suvestinės rodinio pasukimas.",
+  "haReturnNoPath": "Sukonfigūruotame prietaisų skydelyje nėra peržiūros kelio, į kurį būtų galima grįžti.",
+  "haReturnPath": "Po skirtojo laiko grįžta į „{path}“."
+}

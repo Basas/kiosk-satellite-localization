@@ -1,0 +1,21 @@
+{
+  "@@locale": "lt",
+  "settingVoiceTimerPillsTitle": "Rodyti laikmačio tabletes",
+  "settingVoiceTimerPillsDescription": "Veikiantys laikmačiai plūduriuoja virš ekrano. Vilkite juos bet kur.",
+  "settingVoiceTimerNameInPillTitle": "Rodyti laikmačio pavadinimą",
+  "settingVoiceTimerNameInPillDescription": "Vardas šalia laiko tabletėje.",
+  "settingVoiceTimerPillScaleTitle": "Laikmačio tablečių skalė",
+  "settingVoiceTimerPillScaleDescription": "Laikmačio tablečių dydis.",
+  "settingVoiceTimerAlertPillTitle": "Rodyti baigtas laikmačio tabletes",
+  "settingVoiceTimerAlertPillDescription": "Bakstelėkite tabletę, kad sustabdytumėte įspėjimą.",
+  "settingVoiceMuteTimersTitle": "Nutildymo laikmačio įspėjimai",
+  "settingVoiceMuteTimersDescription": "Rodyti įspėjimą be garso.",
+  "settingVoiceTimerNameOnAlertTitle": "Perspėjime parodykite vardą",
+  "settingVoiceTimerNameOnAlertDescription": "Laikmačio pavadinimas po įspėjimu.",
+  "settingVoiceTimerSpeakTitle": "Kalbėkite, kai baigiasi laikmatis",
+  "settingVoiceTimerSpeakDescription": "Tarp perspėjimo garsų pasakykite frazę.",
+  "settingVoiceTimerPhraseTitle": "Frazė",
+  "settingVoiceTimerPhraseDescription": "Kalbėjosi dėl laikmačio be vardo.",
+  "settingVoiceTimerNamedPhraseTitle": "Frazė pavadintiems laikmačiams",
+  "settingVoiceTimerNamedPhraseDescription": "{name} pakeičiamas laikmačio pavadinimu."
+}

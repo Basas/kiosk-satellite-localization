@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "offlineDashboard": "Prietaisų skydelis nepasiekiamas",
+  "offlineNetwork": "Nėra tinklo ryšio",
+  "offlinePageHelp": "Puslapio įkelti nepavyko.",
+  "offlineNetworkHelp": "Prietaisų skydelis grįš, kai tai padarys tinklas.",
+  "offlineLost": "Nutrūko tinklo ryšys",
+  "offlineRestored": "Tinklo ryšys atkurtas"
+}

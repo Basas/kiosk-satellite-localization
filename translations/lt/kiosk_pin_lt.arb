@@ -1,0 +1,7 @@
+{
+  "@@locale": "lt",
+  "kioskPinTitle": "Kiosko PIN kodas",
+  "kioskPinHint": "PIN kodas",
+  "kioskWrongPin": "Neteisingas PIN kodas",
+  "kioskUnlock": "Atrakinti"
+}

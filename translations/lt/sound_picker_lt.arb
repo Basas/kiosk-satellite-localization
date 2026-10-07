@@ -1,0 +1,18 @@
+{
+  "@@locale": "lt",
+  "intercomBuiltinRing": "Įmontuotas žiedas",
+  "intercomBuiltinChime": "Įmontuotas varpelis",
+  "intercomMissingFile": "{file} (trūksta)",
+  "intercomAddSound": "Pridėkite garsą",
+  "intercomCopySoundHelp": "Nukopijuokite garso failą iš šio įrenginio į garsų aplanką.",
+  "intercomUploadSoundHelp": "Įkelkite garso failą iš šio kompiuterio į garsų aplanką.",
+  "intercomUpload": "Įkelti",
+  "intercomUploading": "Įkeliama…",
+  "intercomUnsupportedSound": "Nepalaikomas garsas",
+  "intercomChooseSound": "Nepalaikomas garsas: pasirinkite MP3, OGG, WAV, FLAC, M4A arba AAC failą.",
+  "intercomCopyFailed": "Nepavyko nukopijuoti failo",
+  "intercomUploadFailed": "Įkelti nepavyko: {error}",
+  "intercomSaveFailed": "Neišsaugota: {error}",
+  "intercomSoundFilename": "Įveskite failo pavadinimą, o ne kelią.",
+  "intercomSoundFormats": "Pasirinkite MP3, OGG, WAV, FLAC, M4A arba AAC failą."
+}

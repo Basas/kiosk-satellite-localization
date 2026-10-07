@@ -1,0 +1,11 @@
+{
+  "@@locale": "lt",
+  "remoteReconnecting": "Jungiamasi iš naujo…",
+  "remoteConnectionLost": "Nutrūko ryšys su {name}. Šis puslapis atnaujinamas, kai jis grįžta.",
+  "remoteConnectionLostUnnamed": "Ryšys su kiosku nutrūko. Šis puslapis atnaujinamas, kai jis grįžta.",
+  "remoteReloadPage": "Iš naujo įkelti puslapį",
+  "remoteUpdated": "Kiosk Satellite buvo atnaujintas",
+  "remoteUpdatedHelp": "Įrenginyje dabar veikia {version}{build} versija. Šis puslapis priklauso ankstesnei versijai ir bus įkeltas iš naujo po {seconds} s.",
+  "remoteBuild": "(kurti {build})",
+  "remoteReloadNow": "Įkelti iš naujo dabar"
+}

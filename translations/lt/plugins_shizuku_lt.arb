@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "pluginShizuku13OrLaterIsRequiredTapForSetup": "Reikalinga Shizuku 13 arba naujesnė versija. Bakstelėkite, kad pamatytumėte sąrankos instrukcijas.",
+  "pluginStartShizukuOnThisDeviceTapForSetupInstructions": "Paleiskite Shizuku šiame įrenginyje. Bakstelėkite, kad pamatytumėte sąrankos instrukcijas.",
+  "pluginShizukuGrantsKioskSatelliteShellOrRootAccessInstalled": "Shizuku suteikia Kiosk Satellite apvalkalo arba šakninę prieigą. Įdiegti papildiniai veikia KS viduje, todėl suteikite prieigą tik tuo atveju, jei jais pasitikite.",
+  "pluginSetUp": "Nustatyti",
+  "pluginGrantAccess": "Suteikite prieigą",
+  "pluginApproveThePermissionRequestOnTheKiosk": "Patvirtinkite leidimo prašymą kioske."
+}

@@ -1,0 +1,6 @@
+{
+  "@@locale": "lt",
+  "fleetSwitchKiosk": "Perjungti kioską",
+  "fleetKiosksOnThisNetworkWithTheRemoteAdminOn": "Atrado kioskus ir išgelbėjo laivyno narius. Pasirinkus vieną, čia, tame pačiame puslapyje, atidaromas nuotolinis administratorius.",
+  "fleetNoOtherKioskFoundOnThisNetworkAKioskDetail": "Kitų kioskų nerasta. Kioskai atsiranda dėl tinklo atradimo arba išsaugotos parko narystės."
+}

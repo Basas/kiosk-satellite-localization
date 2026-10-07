@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "androidServiceChannelHelp": "Rodoma, kai Kiosk Satellite paslauga palaiko programą, kai ekranas išjungtas arba už kitos programos.",
+  "androidServiceListening": "klausantis pažadinančio žodžio",
+  "androidServiceRtspAudio": "Įjungtas RTSP mikrofono garsas",
+  "androidServiceEsphome": "patiekiamas ESPHome",
+  "androidServiceBluetooth": "perduodant Bluetooth įrenginius",
+  "androidServiceCamera": "žiūri į kamerą",
+  "androidServiceLocation": "pranešdamas apie vietą",
+  "androidServiceRemote": "aptarnaujantis nuotolinį administratorių",
+  "androidServiceKiosk": "sargybos kiosko režimas",
+  "androidServiceSessions": "išlaikant Home Assistant prijungtą"
+}

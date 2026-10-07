@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "esphomeLocation": "Vieta",
+  "esphomeLocationSearch": "Vieta suteikia reikalingus vietos jutiklius.",
+  "esphomeBluetoothSearch": "Netoliese esantys įrenginiai suteikia galimybę nuskaityti Bluetooth tarpinį serverį.",
+  "esphomeLocationMissing": "Be to GPS imtuvas negali būti nuskaitomas, o vietos jutikliai lieka nežinomi.",
+  "esphomeLocationServicesOff": "Įrenginio nustatymuose vieta išjungta, todėl imtuvas nieko neteikia.",
+  "esphomeLocationGranted": "Vietos jutikliai gali nuskaityti GPS imtuvą.",
+  "esphomeBluetoothGranted": "Įgaliotasis serveris gali nuskaityti netoliese esančius Bluetooth įrenginius.",
+  "esphomeBluetoothMissing": "Be to tarpinis serveris negali nuskaityti įrenginių.",
+  "esphomeBluetoothLocationMissing": "Android pateikia tik Bluetooth nuskaitymo rezultatus, įskaitant švyturius, su suteikta vieta. Tarpinis serveris niekada neskaito įrenginio padėties.",
+  "esphomeBluetoothLocationOff": "Vietovė išjungta įrenginio nustatymuose, todėl Bluetooth nuskaitymas nieko neranda.",
+  "esphomeBluetoothBeacons": "Bluetooth nuskaitymas gali išgirsti švyturius.",
+  "esphomeSent": "Išsiųsta",
+  "esphomeNotsaved": "Neišsaugota"
+}

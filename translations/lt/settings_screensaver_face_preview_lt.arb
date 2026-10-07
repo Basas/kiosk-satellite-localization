@@ -1,0 +1,12 @@
+{
+  "@@locale": "lt",
+  "settingFacePreviewTitle": "Rodyti fotoaparato peržiūrą",
+  "settingFacePreviewDescription": "Kelias sekundes ekrano kampe parodykite nedidelį apvalų tiesioginį kameros vaizdą, kai veidas pažadina kioską.",
+  "settingFacePreviewSecondsTitle": "Peržiūros trukmė",
+  "settingFacePreviewSecondsDescription": "Kiek laiko peržiūra lieka ekrane.",
+  "settingFacePreviewScaleTitle": "Peržiūros mastelio keitimas",
+  "settingFacePreviewScaleDescription": "Padidinkite peržiūros mastelį, kad ji geriau atitiktų jūsų ekrano dydį.",
+  "settingFacePreviewPositionTitle": "Peržiūrėti poziciją",
+  "settingFacePreviewPositionDescription": "Kuriame kampe yra peržiūra.",
+  "screensaverDetectionPreviewSection": "Kameros peržiūra"
+}

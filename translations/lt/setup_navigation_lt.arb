@@ -1,0 +1,11 @@
+{
+  "@@locale": "lt",
+  "setupWelcome": "Sveiki atvykę",
+  "setupConnect": "Prisijunkite",
+  "setupConnectSummary": "Home Assistant URL ir prieigos raktas",
+  "setupDashboard": "Prietaisų skydelis",
+  "setupDashboardSummary": "Ką rodo kioskas",
+  "setupRecommendedSummary": "Rekomenduojami nustatymai",
+  "setupPermissions": "Leidimai",
+  "setupPermissionsSummary": "Ko reikia sąrankai"
+}

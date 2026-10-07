@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "settingNotificationsTransparencyTitle": "Skaidrumas",
+  "settingNotificationsTransparencyDescription": "Užpakalinis ekranas rodomas per pranešimų korteles. Tekstas ir piktogramos išlieka vientisos.",
+  "settingNotificationsBlurTitle": "Fono suliejimas",
+  "settingNotificationsBlurDescription": "Sulieja tai, kas rodoma per skaidrią pranešimų kortelę. Pastaba: suliejimo negalima taikyti ant Home Assistant prietaisų skydelio paviršiaus.",
+  "settingNotificationsChimeFileTitle": "Pranešimo garsas",
+  "settingNotificationsChimeFileDescription": "Garso failai nuskaitomi iš įrenginio Android/data/me.jxl.kiosk_satellite/files/sounds, taip pat pasiekiami iš failų tvarkyklės.",
+  "settingNotificationsVolumeTitle": "Pranešimų apimtis",
+  "settingNotificationsVolumeDescription": "Kaip garsiai grojamas pranešimų garsas, neskaitant medijos ir asistento garsumo.",
+  "esphomeNotifications": "Pranešimai",
+  "esphomeNotificationsHelp": "Skaidrumas, suliejimas, pranešimų garsas, bandomasis pranešimas",
+  "esphomeAppearance": "Išvaizda",
+  "esphomeSound": "Garsas",
+  "esphomeNotificationTest": "Bandomasis pranešimas",
+  "esphomeNotificationHelp": "Pranešimai siunčiami iš Home Assistant su veiksmu {action}. Bandymas rodo vieną virš prietaisų skydelio.",
+  "esphomeNotificationBody": "Taip atrodo ir skamba pranešimas iš Home Assistant.",
+  "esphomeNotificationSearch": "Home Assistant veiksmas, siunčiantis pranešimus, ir mygtukas, kuriuo jis bus rodomas."
+}

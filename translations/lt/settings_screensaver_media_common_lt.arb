@@ -1,0 +1,12 @@
+{
+  "@@locale": "lt",
+  "screensaverMediaTransitionNone": "Nėra",
+  "screensaverMediaTransitionFade": "Sklandus perėjimas",
+  "screensaverMediaTransitionSlide": "Skaidrė",
+  "screensaverMediaTransitionZoom": "Padidinti",
+  "screensaverMediaTransitionKenBurns": "Kenas Burnsas",
+  "screensaverMediaTransitionRandom": "Atsitiktinis",
+  "screensaverMediaFillOff": "Išjungta",
+  "screensaverMediaFillSmart": "Protingas",
+  "screensaverMediaFillAlways": "Visada"
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "aboutApp": "Apie",
+  "aboutVersion": "Versija",
+  "aboutBuild": "Sukurta",
+  "aboutPackage": "Paketas",
+  "aboutAttribution": "Priskyrimas",
+  "aboutAuthor": "Autorius",
+  "aboutWebsite": "Svetainė",
+  "aboutSourceCode": "Šaltinio kodas",
+  "aboutLicense": "Licencija",
+  "aboutLicenseSummary": "Kiosk Satellite yra nemokama asmeniniam, nekomerciniam naudojimui. Ji licencijuota pagal CC BY-NC-ND 4.0: galite ją naudoti ir bendrinti, tačiau komercinis programos naudojimas ir pakeistų programų versijų platinimas neleidžiamas. Nepriklausomi papildiniai turi papildomą leidimą pagal PLUGIN-EXCEPTION.md."
+}

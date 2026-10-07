@@ -1,0 +1,7 @@
+{
+  "@@locale": "lt",
+  "setupChooseDashboard": "Pasirinkite prietaisų skydelį",
+  "setupDashboardHelp": "Štai ką kioskas parodys, kai prasidės.",
+  "setupSelectDashboard": "Pasirinkite prietaisų skydelį",
+  "setupSelectDashboardHelp": "Pasirinkite informacijos suvestinę, kurią rodys kioskas. Vėliau galėsite jį pakeisti nustatymuose."
+}

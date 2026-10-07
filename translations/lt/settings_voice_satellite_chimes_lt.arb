@@ -1,0 +1,20 @@
+{
+  "@@locale": "lt",
+  "voiceChimesPage": "Varpeliai",
+  "voiceChimesHint": "Pažadinimas, atlikta, klaida, laikmatis ir pranešimų garsai",
+  "voiceChimesPreview": "Peržiūra kioske",
+  "voiceChimesPreviewFailed": "Nepavyko paleisti garso.",
+  "voiceChimesHelp": "Pasirinkite šio kiosko garsus. Įkelkite pasirinktinius failus čia. Garsai, saugomi Home Assistant, nenaudojami vietiniams varpeliams.",
+  "voiceChimeWakeTitle": "Pažadinimo garsas",
+  "voiceChimeWakeDescription": "Groja, kai Voice Satellite pradeda klausytis.",
+  "voiceChimeDoneTitle": "Baigtas garsas",
+  "voiceChimeDoneDescription": "Leidžiama, kai baigiasi balso sąveika.",
+  "voiceChimeErrorTitle": "Klaidos garsas",
+  "voiceChimeErrorDescription": "Leidžiama, kai nepavyksta sąveika balsu.",
+  "voiceChimeTimerTitle": "Laikmačio garsas",
+  "voiceChimeTimerDescription": "Kartojasi, kai baigiasi laikmatis, kol jo atsisakysite.",
+  "voiceChimeAnnounceTitle": "Pranešimo garsas",
+  "voiceChimeAnnounceDescription": "Leidžiama prieš Voice Satellite pranešimą, nebent jis pateikia savo garsą.",
+  "settingVoiceWakeSoundTitle": "Groti varpeliais",
+  "settingVoiceWakeSoundDescription": "Skamba pažadinimas, atlikta ir klaida."
+}

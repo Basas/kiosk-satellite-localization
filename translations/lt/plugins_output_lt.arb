@@ -1,0 +1,14 @@
+{
+  "@@locale": "lt",
+  "pluginCharts": "Diagramos",
+  "pluginReadings": "Skaitymai",
+  "pluginWaitingForSamples": "Laukiam mėginukų",
+  "pluginLatest": "Naujausias",
+  "pluginSelected": "Pasirinkta",
+  "pluginNoDataYet": "Dar nėra duomenų",
+  "pluginTapOrDragToInspectSamplesDoubleTapTo": "Bakstelėkite arba vilkite, kad patikrintumėte pavyzdžius. Dukart palieskite, kad galėtumėte sekti naujausius dalykus.",
+  "pluginNoData": "Nėra duomenų",
+  "pluginOn": "Įjungta",
+  "pluginEmpty": "Tuščia",
+  "pluginChartKeyboardHelp": "Naudokite rodyklių klavišus, kad patikrintumėte pavyzdžius ir Baigti, kad gautumėte naujausią informaciją."
+}

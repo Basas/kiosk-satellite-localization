@@ -1,0 +1,17 @@
+{
+  "@@locale": "lt",
+  "cameraStreamsServers": "Go2RTC serveriai",
+  "cameraStreamsImportStreams": "Importuoti srautus",
+  "cameraStreamsDeleteServer": "Ištrinti serverį",
+  "cameraStreamsAddServer": "Pridėti Go2RTC serverį",
+  "cameraStreamsAddServerHelp": "Prisijunkite prie serverio ir importuokite jo srautus.",
+  "cameraStreamsEditServer": "Redaguoti serverį",
+  "cameraStreamsName": "Vardas",
+  "cameraStreamsBaseUrl": "Bazinis URL",
+  "cameraStreamsUsername": "Vartotojo vardas (neprivaloma)",
+  "cameraStreamsNewPassword": "Naujas slaptažodis (palikite tuščią, kad liktų)",
+  "cameraStreamsPassword": "Slaptažodis (neprivaloma)",
+  "cameraStreamsInvalidCertificate": "Leisti netinkamą TLS sertifikatą",
+  "cameraStreamsSaveServerFailed": "Nepavyko išsaugoti serverio",
+  "cameraStreamsDeleteServerHelp": "Jo kameros bus pašalintos iš kiekvieno vaizdo."
+}

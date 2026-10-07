@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "settingEsphomeEnabledTitle": "Įgalinti ESPHome",
+  "settingEsphomeEnabledDescription": "Pateikite šį kioską Home Assistant kaip ESPHome įrenginį: jo jutiklius ir valdiklius kaip vietinius objektus. Atrasta automatiškai.",
+  "settingEsphomeEntitiesTitle": "Atskleiskite kiosko objektus",
+  "settingEsphomeEntitiesDescription": "Pateikite šio įrenginio jutiklius ir valdiklius kaip ESPHome objektus.",
+  "settingEsphomeExcludedEntitiesTitle": "Išskirti subjektai",
+  "settingEsphomeExcludedEntitiesDescription": "Pasirinkite objektus, kuriuos norite išskirti iš Home Assistant. Atskleidžiami visi kiti galimi objektai. Išsaugomas pakartotinis prisijungimas ESPHome.",
+  "settingEsphomeNodeNameTitle": "Mazgo pavadinimas",
+  "settingEsphomeNodeNameDescription": "Pavadina šį kioską tinkle, o Home Assistant pagal jį sukuria veiksmų pavadinimus. Pervadinus jį, tie veiksmai pervadinami.",
+  "settingEsphomeNodeNamePlaceholder": "Nustatykite pirmą kartą",
+  "settingBtproxyKeyTitle": "Šifravimo raktas",
+  "settingBtproxyKeyDescription": "Įklijuokite šį raktą į Home Assistant, kai jis paprašys šifravimo rakto. Sugeneruojama automatiškai pirmą kartą paleidus.",
+  "settingBtproxyKeyPlaceholder": "Sukurta pirmą kartą paleidus",
+  "settingBtproxyPortTitle": "API prievadas",
+  "settingBtproxyPortDescription": "Prievadas Home Assistant jungiasi prie. ESPHome standartui 6053 palikite tuščią.",
+  "esphomeStartFailed": "Nepavyko paleisti ESPHome serverio: {error}",
+  "esphomeExcludedInvalid": "Pasirinkite objektų ID sąrašą."
+}

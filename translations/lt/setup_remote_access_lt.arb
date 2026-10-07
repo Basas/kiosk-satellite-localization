@@ -1,0 +1,8 @@
+{
+  "@@locale": "lt",
+  "setupPasswordFirst": "Pirmiausia nustatykite administratoriaus slaptažodį",
+  "setupPasswordBeforeImport": "Aukščiau įveskite administratoriaus slaptažodį (mažiausiai 4 simboliai), tada importuokite atsarginę kopiją.",
+  "setupPasswordFailed": "Nepavyko nustatyti slaptažodžio",
+  "setupPasswordExists": "Slaptažodis jau nustatytas",
+  "setupPasswordExistsHelp": "Jei norite tęsti čia, prisijunkite naudodami planšetiniame kompiuteryje nustatytą slaptažodį. Įkeliama iš naujo…"
+}

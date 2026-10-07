@@ -1,0 +1,22 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverImmichUrlTitle": "Serverio adresas",
+  "settingScreensaverImmichUrlDescription": "Jūsų Immich serverio adresas su prievadu.",
+  "settingScreensaverImmichApiKeyTitle": "API raktas",
+  "settingScreensaverImmichApiKeyDescription": "Sukurta Immich, skiltyje Paskyros nustatymai → API raktai.",
+  "screensaverMediaImmichPage": "Immich Media ekrano užsklanda",
+  "screensaverMediaImmichHint": "Serveris, medija, skaidrių demonstracija, metaduomenys, filtrai",
+  "screensaverMediaServerConnection": "Serverio ryšys",
+  "screensaverMediaValidateFailedLog": "Patvirtinti nepavyko. Nepavykusio skambučio ieškokite programos žurnale.",
+  "screensaverMediaValidateFailed": "Patvirtinti nepavyko.",
+  "screensaverMediaNoAnswer": "Prietaisas neatsiliepė.",
+  "screensaverMediaAddressFirst": "Pirmiausia įveskite serverio adresą.",
+  "screensaverMediaKeyFirst": "Pirmiausia įveskite API raktą.",
+  "screensaverMediaBadAddress": "Serverio adresas nėra galiojantis URL.",
+  "screensaverMediaKeyRejected": "API raktas buvo atmestas.",
+  "screensaverMediaScopeMissing": "API raktui trūksta {scope} leidimo.",
+  "screensaverMediaPermissionMissing": "API raktui trūksta leidimo: {error}",
+  "screensaverMediaServerError": "Serveris atsakė {status}: {error}",
+  "screensaverMediaUnreachable": "Nepavyko pasiekti {url}.",
+  "screensaverMediaTalkError": "Nepavyko susikalbėti su serveriu: {error}"
+}

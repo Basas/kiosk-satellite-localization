@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "settingAnalyticsBasicTitle": "Pagrindinė analizė",
+  "settingAnalyticsBasicDescription": "Informacija apie jūsų įrenginį, pvz., modelis, Android versija, programos versija, ekrano dydis ir kalba.",
+  "settingAnalyticsUsageTitle": "Naudojimas",
+  "settingAnalyticsUsageDescription": "Išsami informacija apie tai, ką naudojate su Kiosk Satellite.",
+  "settingAnalyticsDiagnosticsTitle": "Diagnostika",
+  "settingAnalyticsDiagnosticsDescription": "Bendrinkite strigčių ataskaitas, kai įvyksta netikėtų klaidų.",
+  "deviceAnalyticsPage": "Kiosk Satellite analizė",
+  "deviceAnalyticsIntro": "Bendrinkite anoniminę informaciją iš savo diegimo, kad padėtumėte pagerinti Kiosk Satellite ir nurodytumėte, kurie įrenginiai ir funkcijos atkreipia dėmesį.",
+  "deviceAnalyticsLearn": "Sužinokite, kaip apdorojame jūsų duomenis",
+  "deviceAnalyticsLearnHelp": "Ką Kiosk Satellite Analytics siunčia ir ko niekada nesiunčia."
+}

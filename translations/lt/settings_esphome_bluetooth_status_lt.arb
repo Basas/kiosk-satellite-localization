@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "esphomeNearby": "Netoliese esantys įrenginiai",
+  "esphomeNearbySearch": "Šiame kioske girdimi Bluetooth įrenginiai, kurių pavadinimai žinomi.",
+  "esphomeNearbyEmpty": "Dar nieko negirdėti.",
+  "esphomeNearbyWaiting": "Dar nieko negirdėti. Įrenginiai čia rodomi, kai tarpinis serveris nuskaito.",
+  "esphomeRotating": "(besikeičiantis adresas)",
+  "esphomeNearbyCount": "Rodomas pirmasis {count} {total}.",
+  "esphomeSlots": "Per šį tarpinį serverį vienu metu galima prijungti iki {count} įrenginių. Home Assistant nukreipia kitus įrenginius per kitus tarpinius serverius.",
+  "esphomeSecondsAgo": "{count} prieš",
+  "esphomeMinutesAgo": "{count} prieš min",
+  "esphomeHoursAgo": "{count} prieš val"
+}

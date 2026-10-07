@@ -1,0 +1,10 @@
+{
+  "@@locale": "lt",
+  "settingAudioMicDeviceTitle": "Mikrofonas",
+  "settingAudioMicDeviceDescription": "Mikrofono pažadinimo žodžių aptikimas ir balso posūkių fiksavimas.",
+  "settingAudioSpeakerDeviceTitle": "Pranešėjas",
+  "settingAudioSpeakerDeviceDescription": "Voice Satellite garsų išvestis; medija atkuriama pagal sistemos maršrutą.",
+  "screenAudioDevices": "Garso įrenginiai",
+  "screenAudioSelectedDevice": "Pasirinktas įrenginys",
+  "screenAudioDisconnected": "{name} (neprijungtas)"
+}

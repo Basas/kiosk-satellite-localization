@@ -1,0 +1,22 @@
+{
+  "@@locale": "lt",
+  "settingIntercomEnabledTitle": "Įjungti domofoną",
+  "settingIntercomEnabledDescription": "Skambinkite kitiems šio tinklo kioskams ir priimkite jų skambučius.",
+  "settingIntercomKeyTitle": "Domofono raktas",
+  "settingIntercomKeyDescription": "Kioskai su tuo pačiu raktu gali skambinti vienas kitam. Laivyno valdymas gali jį sinchronizuoti.",
+  "settingIntercomKeyPlaceholder": "Sukurta, kai įjungtas domofonas",
+  "settingIntercomMenuTitle": "Rodyti kiosko meniu",
+  "settingIntercomMenuDescription": "Pridėkite domofono įrašą į kiosko meniu.",
+  "intercomNeedsAdmin": "Domofonui reikalingas nuotolinis administratorius",
+  "intercomAdminHelp": "Per jį kioskai randa ir pasiekia vienas kitą. Įjunkite Nuotolinį valdymą ir Raskite kitus kioskus skiltyje Įrenginys, tada grįžkite.",
+  "intercomChangeKey": "Keisti raktą",
+  "intercomChangeKeyHelp": "Įklijuokite raktą iš kito kiosko arba sukurkite naują.",
+  "intercomChange": "Keisti",
+  "intercomKeyWarning": "Kioskai su šiuo raktu gali skambinti vienas kitam. Naujas raktas atskiria šį kioską nuo kitų, kol jie jį taip pat gaus.",
+  "intercomRegenerate": "Regeneruoti",
+  "intercomKeyChanged": "Raktas pakeistas",
+  "intercomNotSet": "Nenustatyta",
+  "intercomOpen": "Atidaryti",
+  "settingIntercomTlsTitle": "Šifruoti ryšius",
+  "settingIntercomTlsDescription": "Naudokite TLS, kad užšifruotumėte vidinius skambučius tarp kioskų. Tai turi būti įjungta visuose skambučio kioskuose."
+}

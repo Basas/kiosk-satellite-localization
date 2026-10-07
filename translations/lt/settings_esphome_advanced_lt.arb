@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "settingEsphomeRealMacTitle": "Naudokite tikrą \"Wi-Fi\" MAC adresą",
+  "settingEsphomeRealMacDescription": "Home Assistant susieja šį kioską su tuo pačiu įrenginiu, kurį jau stebi jūsų tinklo integracijos. Pakeitus tai sukuriamas naujas ESPHome įrenginys Home Assistant.",
+  "settingEsphomeMacOverrideTitle": "Suklastotas „Wi-Fi“ MAC adresas",
+  "settingEsphomeMacOverrideDescription": "Kadangi MAC adreso nustatyti nepavyksta, galite naudoti šį lauką norėdami įvesti savo. Pakeitus tai sukuriamas naujas ESPHome įrenginys Home Assistant.",
+  "esphomeAdvanced": "Išplėstiniai nustatymai",
+  "esphomeAdvancedHelp": "Tikras arba suklastotas „Wi-Fi“ MAC adresas",
+  "esphomeMacInvalid": "Įveskite galiojantį MAC adresą.",
+  "esphomeMacHardware": "Pranešama apie {mac}.",
+  "esphomeMacManual": "Ataskaitų teikimas {mac}, įvestas žemiau.",
+  "esphomeMacUnavailable": "Android neatskleis šio įrenginio aparatinės įrangos adreso."
+}

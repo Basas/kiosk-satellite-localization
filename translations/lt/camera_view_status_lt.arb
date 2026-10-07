@@ -1,0 +1,18 @@
+{
+  "@@locale": "lt",
+  "cameraViewerTitle": "Kameros vaizdas",
+  "cameraViewerConnecting": "Jungiamasi...",
+  "cameraViewerReconnecting": "Jungiamasi iš naujo...",
+  "cameraViewerTrying": "Bandoma {transport}...",
+  "cameraViewerCannotDecode": "Šis įrenginys negali iššifruoti {codec}",
+  "cameraViewerCannotPlay": "Šis įrenginys negali leisti {transport} srautų",
+  "cameraViewerCannotDecodeStream": "Šis įrenginys negali iššifruoti šio srauto",
+  "cameraViewerHaRetry": "Nepavyko pasiekti Home Assistant. Bandoma dar kartą per {seconds}s",
+  "cameraViewerServerRetry": "Nepavyksta pasiekti kameros serverio. Bandoma dar kartą per {seconds}s",
+  "cameraViewerConnectionRetry": "Nepavyko prisijungti. Bandoma dar kartą per {seconds}s",
+  "cameraViewerStartRetry": "Kameros serveris negalėjo pradėti šio srauto. Bandoma dar kartą...",
+  "cameraViewerStartDelayedRetry": "Kameros serveris negalėjo pradėti šio srauto. Bandoma dar kartą per {seconds}s",
+  "cameraViewerMissingRetry": "Srautas nerastas kameros serveryje. Bandoma dar kartą per {seconds}s",
+  "cameraViewerLoginRetry": "Kameros serveris atmetė prisijungimą. Bandoma dar kartą per {seconds}s",
+  "cameraViewerMissing": "Go2RTC trūksta srauto"
+}

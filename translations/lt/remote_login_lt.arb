@@ -1,0 +1,6 @@
+{
+  "@@locale": "lt",
+  "remoteLogin": "Prisijunkite",
+  "remoteInvalidPassword": "Neteisingas slaptažodis",
+  "remoteLoginThrottled": "Per daug bandymų. Palaukite 5 minutes ir bandykite dar kartą."
+}

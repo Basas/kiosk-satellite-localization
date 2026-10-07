@@ -1,0 +1,17 @@
+{
+  "@@locale": "lt",
+  "gestureHaServiceKind": "Home Assistant paslauga",
+  "gestureHaScriptKind": "Home Assistant scenarijus",
+  "gestureHaAutomationKind": "Home Assistant Automatika",
+  "gestureHaEventKind": "Home Assistant Renginys",
+  "gestureRan": "Paleido {value}",
+  "gestureRunFailed": "Nepavyko paleisti {value}",
+  "gestureCalled": "Vadinamas {value}",
+  "gestureCallFailed": "Nepavyko paskambinti {value}",
+  "gestureTriggered": "Suaktyvintas {value}",
+  "gestureTriggerFailed": "Nepavyko suaktyvinti {value}",
+  "gestureFired": "Suaktyvintas įvykis {value}",
+  "gestureFireFailed": "Nepavyko suaktyvinti {value} įvykio",
+  "gestureDone": "Atlikta",
+  "gestureFailed": "Nepavyko"
+}

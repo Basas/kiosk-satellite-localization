@@ -1,0 +1,11 @@
+{
+  "@@locale": "lt",
+  "voiceTimerDefaultName": "Laikmatis",
+  "voiceTimerDrag": "Vilkite, kad perkeltumėte laikmačius",
+  "voiceTimerPauseHint": "Palieskite, kad pristabdytumėte. Dukart palieskite, kad atšauktumėte. Vilkite, kad judėtumėte.",
+  "voiceTimerResumeHint": "Palieskite norėdami tęsti. Dukart palieskite, kad atšauktumėte. Vilkite, kad judėtumėte.",
+  "voiceTimerCancel": "Atšaukti laikmatį",
+  "voiceTimerActionError": "Nepavyko pakeisti laikmačio. Patikrinkite ryšį ir, jei reikia, atnaujinkite Voice Satellite.",
+  "voiceTimerFinished": "Laikmatis baigtas",
+  "voiceTimerDismissHint": "Palieskite, kad atsisakytumėte laikmačio įspėjimo."
+}

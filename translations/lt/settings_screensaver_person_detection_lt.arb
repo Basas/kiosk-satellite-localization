@@ -1,0 +1,22 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverDismissOnPersonTitle": "Atleisti ant asmens",
+  "settingScreensaverDismissOnPersonDescription": "Nuskaitykite įrenginio asmens jutiklį, kai ekrano užsklanda veikia, ir pažadinkite ekraną, kai kas nors yra priešais jį. Reikia toliau nurodytos prieigos prie žurnalo suteikimo.",
+  "settingScreensaverDismissOnPersonScreenOffOnlyTitle": "Tik kai ekranas išjungtas",
+  "settingScreensaverDismissOnPersonScreenOffOnlyDescription": "Laikykite ekrano užsklandą matomą, kai kas nors atvyksta, kai ekranas įjungtas. Kai ekranas išsijungia, aptikimas pažadina prietaisų skydelį. Palietus vis tiek atsisako ekrano užsklandos.",
+  "settingScreensaverPostponeOnPersonTitle": "Atidėti ekrano užsklandą asmeniui",
+  "settingScreensaverPostponeOnPersonDescription": "Uždelskite ekrano užsklandos aktyvavimą, kol kas nors yra priešais įrenginį.",
+  "screensaverDetectionPersonPage": "Asmens aptikimas",
+  "screensaverDetectionPersonHint": "Atsisakykite arba atidėkite įrenginio asmens jutiklio ekrano užsklandą",
+  "screensaverDetectionOccupancy": "Užimtumas",
+  "screensaverDetectionStatusUnavailable": "Būsena nepasiekiama.",
+  "screensaverDetectionOff": "Išjungta.",
+  "screensaverDetectionStarting": "Pradedama...",
+  "screensaverDetectionWaiting": "Laukia pirmojo širdies plakimo. Jutiklis praneša kas 30 sekundžių, kol kas nors yra matomas.",
+  "screensaverDetectionLastHeartbeat": "Paskutinis širdies plakimas {ago}.",
+  "screensaverDetectionSecondsAgo": "{count} prieš",
+  "screensaverDetectionMinutesAgo": "{count} prieš min",
+  "screensaverDetectionHoursAgo": "{count} prieš val",
+  "screensaverDetectionDetected": "Aptikta",
+  "screensaverDetectionClear": "Aišku"
+}

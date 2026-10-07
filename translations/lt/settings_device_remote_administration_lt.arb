@@ -1,0 +1,22 @@
+{
+  "@@locale": "lt",
+  "settingRemoteEnabledTitle": "Nuotolinis valdymas",
+  "settingRemoteEnabledDescription": "Paleiskite įterptąjį administratoriaus žiniatinklio serverį.",
+  "settingRemotePortTitle": "Serverio prievadas",
+  "settingRemotePortDescription": "Nuotolinio administratoriaus sąsajos prievadas.",
+  "settingRemotePasswordTitle": "Administratoriaus slaptažodis",
+  "settingRemotePasswordDescription": "Būtina prisijungti prie nuotolinės sąsajos.",
+  "settingRemoteFleetDiscoveryTitle": "Raskite kitus kioskus",
+  "settingRemoteFleetDiscoveryDescription": "Paskelbkite apie šį įrenginį tinkle ir nuotolinio administratoriaus sąraše išvardykite kitus kioskus, kad perjungtumėte juos.",
+  "deviceRemotePage": "Nuotolinis administravimas",
+  "deviceAdminAddress": "Administratoriaus adresas",
+  "deviceAdminAddressHelp": "Atidarykite šį adresą savo kompiuterio naršyklėje.",
+  "deviceByName": "Pagal vardą",
+  "deviceByNameHelp": "Tas pats adresas pagal pagrindinio kompiuterio pavadinimą tinkluose, kurie sprendžia .local pavadinimus.",
+  "deviceByCertificateNameHelp": "Tas pats adresas, nurodytas sertifikate.",
+  "devicePasswordNeeded": "Žemiau nustatykite administratoriaus slaptažodį, kad paleistumėte serverį.",
+  "deviceServerStopped": "Serveris neveikia.",
+  "devicePortError": "Nepavyko klausytis per prievadą {port}: {error}",
+  "settingRemoteTlsTitle": "Naudokite HTTPS",
+  "settingRemoteTlsDescription": "Užšifruokite nuotolinį administratorių, API ir „WebSocket“. Jūsų naršyklė gali paprašyti priimti įrenginio sertifikatą."
+}

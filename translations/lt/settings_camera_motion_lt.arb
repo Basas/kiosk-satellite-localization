@@ -1,0 +1,15 @@
+{
+  "@@locale": "lt",
+  "settingMotionSensorTitle": "Judesio jutiklis",
+  "settingMotionSensorDescription": "Atskleiskite judesį kaip Home Assistant jutiklį. ĮSPĖJIMAS: fotoaparatas veikia nuolat, net ir išjungus ekraną.",
+  "settingMotionSensorOffDelayTitle": "Aišku po",
+  "settingMotionSensorOffDelayDescription": "Sekundės be judėjimo, kol jutiklis aiškiai nuskaito.",
+  "settingMotionFpsTitle": "Judesio kadrų dažnis",
+  "settingMotionFpsDescription": "Kadrai per sekundę kamera tikrina, ar nejuda. Žemesnis yra lengvesnis CPU; 2 užtenka pastebėti artėjantį žmogų.",
+  "settingMotionStartDelayTitle": "Paleidimo delsa",
+  "settingMotionStartDelayDescription": "Įrenginiams, kurių kamera fiziškai juda atsidarius, nekreipkite dėmesio į judesį ilgai po fotoaparato įsijungimo.",
+  "settingMotionSensitivityTitle": "Judesio jautrumas",
+  "settingMotionSensitivityDescription": "Didesnės kelionės mažesniais judesiais. 1 reikia labai pakeisti rėmelį; 100 reaguoja į menkiausią judesį.",
+  "cameraMotionPage": "Judesio jutiklis",
+  "cameraMotionHint": "Home Assistant judesio jutiklis ir bendri aptikimo nustatymai"
+}

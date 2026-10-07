@@ -1,0 +1,7 @@
+{
+  "@@locale": "lt",
+  "mediaGroupLead": "Vadovauja grupei",
+  "mediaGroupReadFailed": "Grupės nepavyko perskaityti.",
+  "mediaGroupEmpty": "Nėra kitų žaidėjų, su kuriais būtų galima grupuotis.",
+  "mediaSpeakerSelection": "Garsiakalbio pasirinkimas"
+}

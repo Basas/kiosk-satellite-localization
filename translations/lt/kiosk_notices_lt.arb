@@ -1,0 +1,21 @@
+{
+  "@@locale": "lt",
+  "kioskBackClose": "Paspauskite atgal, kad uždarytumėte programą",
+  "kioskBackAgain": "Norėdami grįžti atgal, dar kartą paspauskite atgal",
+  "kioskHoldOn": "Laikymo režimas įjungtas",
+  "kioskHoldOff": "Laikymo režimas išjungtas",
+  "kioskHoldNotice": "Dabartinis rodinys išlieka tol, kol jį išjungiate.",
+  "kioskDownloadComplete": "Atsisiuntimas baigtas",
+  "kioskDownloadFailed": "Atsisiųsti nepavyko",
+  "kioskDownload": "Atsisiųsti",
+  "kioskDownloading": "Atsisiunčiama",
+  "kioskOpen": "Atidaryti",
+  "kioskTip": "Patarimas",
+  "kioskMenuHint": "Braukite nuo kairiojo krašto, kad atidarytumėte meniu.",
+  "kioskUnknownLink": "Nežinoma kiosko nuoroda",
+  "kioskOpenAppFailed": "Nepavyko atidaryti programos",
+  "kioskWebViewMissing": "Android sistema WebView neįdiegta",
+  "kioskWebViewMissingHelp": "Šis įrenginys neturi WebView teikėjo, todėl Home Assistant negalima rodyti. Įdiekite Android sistemą WebView arba „Chrome“, tada iš naujo paleiskite Kiosk Satellite.",
+  "kioskDuraSpeedBlocking": "„DuraSpeed“ blokuoja prietaisų skydelį",
+  "kioskDuraSpeedBlockingHelp": "Šio planšetinio kompiuterio „DuraSpeed“ neleidžia paleisti prietaisų skydelio atvaizdavimo įrenginio, o kai kuriuose planšetiniuose kompiuteriuose nėra nustatymų puslapio. Išjunkite jį vieną kartą per adb, tada iš naujo paleiskite Kiosk Satellite:"
+}

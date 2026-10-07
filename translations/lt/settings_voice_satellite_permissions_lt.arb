@@ -1,0 +1,14 @@
+{
+  "@@locale": "lt",
+  "voiceMicHeld": "Pažadinimo žodžių aptikimas gali jus išgirsti.",
+  "voiceMicBlocked": "Užblokuota. Android daugiau neprašys, todėl leiskite tai programos nustatymuose.",
+  "voiceMicMissing": "Be to niekas neklauso pažadinimo žodžio.",
+  "voiceForegroundHeld": "Kiosk Satellite gali pasirodyti jus išgirdęs.",
+  "voiceForegroundMissing": "Be to išgirstamas pažadinimo žodis ir nieko neįvyksta.",
+  "voiceNotificationHeld": "Vykstantis pranešimas, leidžiantis klausytis fone.",
+  "voiceNotificationMissing": "Reikalingas, kad foninis klausymas veiktų patikimai.",
+  "voiceBatteryHeld": "Android klausytojas bus paleistas.",
+  "voiceBatteryMissing": "Be to klausytojas sustabdomas po kelių valandų.",
+  "voicePermissionDirections": "Suteikite jas pačiame įrenginyje: braukite nuo kairiojo krašto → Nustatymai → Voice Satellite → Reikalingi sistemos leidimai.",
+  "voicePermissionsSearch": "Mikrofonas ir kita suteikia pažadinimo žodžių aptikimo poreikius."
+}

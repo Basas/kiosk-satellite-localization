@@ -1,0 +1,9 @@
+{
+  "@@locale": "lt",
+  "overviewGoView": "Eiti į peržiūrą",
+  "overviewLoadingViews": "Įkeliami rodiniai…",
+  "overviewPickView": "Pasirinkite prietaisų skydelio rodinį…",
+  "overviewDefaultView": "Numatytasis vaizdas",
+  "overviewNoDashboards": "Nerasta jokių prietaisų skydelių",
+  "overviewViewsUnavailable": "Rodiniai nepasiekiami"
+}

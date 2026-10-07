@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "settingIntercomAnswerModeTitle": "Atsakymo režimas",
+  "settingIntercomAnswerModeDescription": "Ekrane klausia žiedas. Atsiliepimas automatiškai atidaro skambutį po skambučio.",
+  "settingIntercomRingSecondsTitle": "Skambinkite už",
+  "settingIntercomRingSecondsDescription": "Kiek laiko skamba skambutis, kol jis skaičiuojamas kaip praleistas.",
+  "settingIntercomRingSoundTitle": "Skambučio garsas",
+  "settingIntercomRingSoundDescription": "Leidžiama pranešimo garsumu.",
+  "settingIntercomAcceptAnnouncementsTitle": "Priimti pranešimus",
+  "settingIntercomAcceptAnnouncementsDescription": "Žaiskite Paskelbti visiems iš kitų kioskų.",
+  "intercomOptionAnswerRing": "Žiedas",
+  "intercomOptionAnswerAuto": "Atsakyk automatiškai",
+  "intercomOptionAnswerDnd": "Netrukdyti",
+  "intercomOptionAnswer15": "15 sekundžių",
+  "intercomOptionAnswer30": "30 sekundžių",
+  "intercomOptionAnswer45": "45 sekundes",
+  "intercomOptionAnswer60": "60 sekundžių",
+  "intercomAnswerSection": "Atsakymas"
+}

@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "setupNotBackup": "Ne atsarginis failas",
+  "setupInvalidBackupHelp": "Tas failas netinkamas JSON. Eksportuokite konfigūraciją iš sąrankos Kiosk Satellite nustatymų arba iš nuotolinio administratoriaus.",
+  "setupWrongBackupKind": "Eksportuokite konfigūraciją iš sąrankos Kiosk Satellite skirtuko Nustatymai.",
+  "setupImportFailedHelp": "Failo pritaikyti nepavyko.",
+  "setupBackupNoDashboard": "Atsarginė kopija neturi prietaisų skydelio",
+  "setupBackupNoDashboardHelp": "Nustatymai buvo pritaikyti, tačiau ši atsarginė kopija buvo sukurta prieš nustatant įrenginį, todėl nėra rodomo prietaisų skydelio. Tęskite vedlį ir pasirinkite vieną.",
+  "setupImporting": "Importuojama…",
+  "setupRemoteRestoreHelp": "Importuokite konfigūraciją, eksportuotą iš Kiosk Satellite, ir praleiskite likusią šio vedlio dalį.",
+  "setupFinishOnDevice": "Užbaikite įrenginį",
+  "setupFinishOnDeviceHelp": "Konfigūracija buvo importuota. Atsakykite į leidimo raginimus planšetinio kompiuterio ekrane - šis puslapis automatiškai tęsiamas, kai įkeliamas prietaisų skydelis.",
+  "setupBackupObject": "Atsarginėje kopijoje turi būti JSON objektas.",
+  "setupBackupKind": "Tai nėra Kiosk Satellite konfigūracijos failas.",
+  "setupBackupSettings": "Atsarginėje kopijoje nėra nustatymų."
+}

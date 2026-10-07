@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "setupPermissionLead": "Android paprašys šių leidimų. Viskas yra prašoma iš anksto, todėl kioskas niekada jūsų netrukdys vėliau.",
+  "setupRemotePermissionLead": "Android to prašo pačiame planšetiniame kompiuteryje. Eikite ir priimkite raginimus, tada užbaikite čia.",
+  "setupMicrophoneHelp": "Voice Satellite ir domofonui reikalinga prieiga prie mikrofono",
+  "setupNotificationListening": "Leidžia Kiosk Satellite paslaugos nuolatinį pranešimą, kuriame nurodoma, ką ji palaiko ir kada klausosi kioskas.",
+  "setupBatteryService": "Leidžia Kiosk Satellite paslaugai veikti fone be pristabdymo ar užmušimo.",
+  "setupOverlayBoot": "Leiskite Kiosk Satellite sugrįžti po gedimo ir paleisti, kai įrenginys paleidžiamas.",
+  "setupOverlayCrash": "Leiskite Kiosk Satellite grįžti į ekraną po avarijos.",
+  "setupBrightnessHelp": "Leidžia Kiosk Satellite nustatyti tikrąjį skydelio ryškumą (keisti sistemos nustatymus).",
+  "setupScreenControl": "Ekrano valdymas",
+  "setupScreenControlHelp": "Leidžia Kiosk Satellite paprašius (įrenginio administratoriui) išjungti ekraną.",
+  "setupGrantPermissions": "Suteikite įrenginio leidimus",
+  "setupRequestingPermissions": "Užklausa įrenginyje…",
+  "setupPermissionsRequested": "Įrenginyje prašoma leidimų"
+}

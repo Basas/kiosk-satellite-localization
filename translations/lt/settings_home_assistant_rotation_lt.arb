@@ -1,0 +1,19 @@
+{
+  "@@locale": "lt",
+  "settingHaRotationEnabledTitle": "Įgalinti prietaisų skydelio rodinio pasukimą",
+  "settingHaRotationEnabledDescription": "Pereikite per pasirinktus prietaisų skydelio rodinius begaliniu ciklu, rodydami kiekvieną pasirinktą sekundžių skaičių.",
+  "settingHaRotationSecondsTitle": "Sekundė per peržiūrą",
+  "settingHaRotationSecondsDescription": "Kiek laiko kiekvienas rodinys lieka ekrane.",
+  "settingHaRotationPauseSecondsTitle": "Pristabdyti sukimąsi sąveikaujant (sekundėmis)",
+  "settingHaRotationPauseSecondsDescription": "Palietus ekraną, sukimasis pristabdomas tiek laiko, o kiekvienu palietimu atgalinis skaičiavimas pradedamas iš naujo. Balso sąveika pristabdoma, kol baigiasi. 0 nuolat sukasi per prisilietimus.",
+  "settingHaRotationCrossfadeTitle": "Išblukti tarp vaizdų",
+  "settingHaRotationCrossfadeDescription": "Užuot perjungę akimirksniu, išeikite į foną ir į kitą rodinį. Perėjus į kitą prietaisų skydelį arba išorinį puslapį vis tiek persijungiama akimirksniu.",
+  "settingHaRotationFadeSecondsTitle": "Išblukimo trukmė (sekundėmis)",
+  "settingHaRotationFadeSecondsDescription": "Kombinuotas išnykimo ir išnykimo laikas. Įkeliant kitą rodinį gali pritrūkti laiko, ypač pirmą kartą apsilankius.",
+  "haRotation": "Prietaisų skydelio rodinio pasukimas",
+  "haRotationHint": "Pereikite per vaizdus, praleiskite laiką, išnyks",
+  "haDefaultView": "Numatytasis vaizdas",
+  "haExternalPages": "Išoriniai puslapiai",
+  "haFadeError": "Pasirinkite išblukimo trukmę nuo 0,2 iki 5 sekundžių.",
+  "haPauseRemoteHelp": "Palietimas pristabdo sukimąsi tiek laiko; kiekvienas prisilietimas paleidžia jį iš naujo. Balso sąveika visada pristabdoma, kol baigiasi. 0 toliau sukasi."
+}

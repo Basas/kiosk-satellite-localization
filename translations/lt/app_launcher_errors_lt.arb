@@ -1,0 +1,5 @@
+{
+  "@@locale": "lt",
+  "launcherErrorAndroidOnly": "programų sąraše yra tik Android",
+  "launcherErrorListDetail": "Nepavyko išvardyti programų: {error}"
+}

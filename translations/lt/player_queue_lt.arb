@@ -1,0 +1,8 @@
+{
+  "@@locale": "lt",
+  "mediaNothingQueued": "Nieko nestovėjo eilėje",
+  "mediaChapters": "Skyriai",
+  "mediaNowPlaying": "Dabar žaidžia",
+  "mediaUpNext": "Toliau",
+  "mediaUnnamedChapter": "{number} skyrius"
+}

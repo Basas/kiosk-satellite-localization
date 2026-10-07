@@ -1,0 +1,16 @@
+{
+  "@@locale": "lt",
+  "settingScreensaverGlanceScaleTitle": "Eilučių mastelio keitimas",
+  "settingScreensaverGlanceScaleDescription": "Padidinkite eilutę, kad ji geriau atitiktų ekrano dydį.",
+  "settingScreensaverGlanceFontTitle": "Šriftų šeima",
+  "settingScreensaverGlanceFontDescription": "Šriftas, kuriuo brėžiama eilutė.",
+  "settingScreensaverGlanceFontWeightTitle": "Šrifto svoris",
+  "settingScreensaverGlanceFontWeightDescription": "Kaip sunkus nupieštas eilutės tekstas. Numatytasis yra kiekvienos eilutės svoris: įprasti pavadinimai, pusiau paryškintos reikšmės.",
+  "settingScreensaverGlanceHideNamesTitle": "Slėpti vardus",
+  "settingScreensaverGlanceHideNamesDescription": "Rodyti tik piktogramą ir vertę, nupieštą didesnę reikšmę.",
+  "settingScreensaverGlanceBwIconsTitle": "Monochromatinės piktogramos",
+  "settingScreensaverGlanceBwIconsDescription": "Kiekvieną piktogramą laikykite neutralią pilką, o ne būsenos spalvą.",
+  "settingScreensaverGlanceTextOnlyTitle": "Plaukiojantis teksto stilius",
+  "settingScreensaverGlanceTextOnlyDescription": "Rodyti objektus kaip slankųjį tekstą, o ne lustus.",
+  "screensaverOverlayAppearance": "Išvaizda"
+}
