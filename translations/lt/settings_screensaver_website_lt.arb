@@ -4,7 +4,7 @@
   "settingScreensaverWebsiteUrlDescription": "Puslapis, skirtas rodyti viso ekrano režimu. Jis turi leisti būti įterptas.",
   "settingScreensaverWebsiteZoomTitle": "Priartinimo lygis",
   "settingScreensaverWebsiteZoomDescription": "Pakeičia visą išorinę ekrano užsklandą webview.",
-  "settingScreensaverWebsiteDoubleTapTitle": "Dukart palieskite, kad atsisakytumėte",
-  "settingScreensaverWebsiteDoubleTapDescription": "Vieni palietimai sąveikauja su svetaine, o ne atsisako.",
+  "settingScreensaverWebsiteDoubleTapTitle": "Dukart palieskite, kad uždarytumėte",
+  "settingScreensaverWebsiteDoubleTapDescription": "Vieną kartą palietus galima sąveikauti su svetaine, o ne uždaryti ekrano užsklandą.",
   "screensaverWebsiteSection": "Svetainės ekrano užsklanda"
 }

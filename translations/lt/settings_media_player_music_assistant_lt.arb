@@ -11,7 +11,7 @@
   "settingSendspinMaAutoCloseTitle": "Uždaryti po neveiklumo",
   "settingSendspinMaAutoCloseDescription": "Grįžkite į prietaisų skydelį, kai niekas taip ilgai nepalietė Music Assistant puslapio. Nulis palieka atidarytą, kol uždaromas.",
   "settingSendspinMaHideCloseTitle": "Paslėpti uždarymo mygtuką",
-  "settingSendspinMaHideCloseDescription": "Slankusis uždarymo mygtukas gali uždengti paties Music Assistant valdiklius, pavyzdžiui, rodinio „Dabar grojama“ meniu. Jį paslėpę, vaizdą uždarykite mygtuku „Atgal“ arba kiosko šoniniu meniu.",
+  "settingSendspinMaHideCloseDescription": "Slankusis uždarymo mygtukas gali uždengti paties Music Assistant valdiklius, pavyzdžiui, rodinio „Dabar grojama“ meniu. Jį paslėpę, rodinį uždarykite mygtuku „Atgal“ arba kiosko šoniniu meniu.",
   "mediaMaHint": "Serverio, prieigos rakto, kiosko meniu spartusis klavišas",
   "mediaKioskMenu": "Kiosko meniu",
   "mediaValidateConnection": "Patvirtinkite ryšį",

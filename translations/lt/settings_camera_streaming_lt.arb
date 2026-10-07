@@ -1,7 +1,7 @@
 {
   "@@locale": "lt",
   "settingCameraRtspEnabledTitle": "Įgalinti kameros srautinį perdavimą",
-  "settingCameraRtspEnabledDescription": "Bendrinkite H.264 vaizdo įrašą su RTSP arba ONVIF klientais. Vaizdo įrašo kodavimas veikia tik tada, kai prijungtas žiūrintysis. Pirmenybė teikiama aparatūros kodavimui su atsargine programine įranga, kai reikia. Naudoja kamerą, pasirinktą kameros nustatymuose.",
+  "settingCameraRtspEnabledDescription": "Bendrinkite H.264 vaizdo srautą su RTSP arba ONVIF klientais. Vaizdas koduojamas tik prisijungus peržiūros klientui. Pirmenybė teikiama aparatiniam kodavimui; prireikus naudojamas programinis kodavimas. Naudojama Kamera nustatymuose pasirinkta kamera.",
   "settingCameraStreamingProtocolTitle": "Srautinio perdavimo protokolas",
   "settingCameraStreamingProtocolDescription": "ONVIF leidžia suderinamiems klientams atrasti fotoaparatą ir prisijungti prie jo srauto.",
   "settingCameraRtspPortTitle": "Uostas",
@@ -11,7 +11,7 @@
   "settingCameraRtspResolutionTitle": "Rezoliucija",
   "settingCameraRtspResolutionDescription": "Palaikomi pasirinktos kameros ir koduotuvo srautinio perdavimo dydžiai. Vaizdo įrašas seka įrenginio orientaciją.",
   "settingCameraRtspAnalysisTitle": "Judėjimo analizė srautiniu būdu",
-  "settingCameraRtspAnalysisDescription": "Judesio aptikimo, veido aptikimo ir rankų gestai pasiekiami, kol žiūrintieji yra prisijungę. Išjungus šią funkciją, galima gauti didesnę skiriamąją gebą. Tada momentinėse nuotraukose naudojami vaizdo kadrai srautinio perdavimo raiška.",
+  "settingCameraRtspAnalysisDescription": "Judesio ir veido aptikimas bei rankų gestų atpažinimas veikia, kol prijungtas bent vienas vaizdo srauto žiūrovas. Išjungus šią parinktį galima naudoti didesnę raišką. Tada momentinės nuotraukos kuriamos iš vaizdo srauto kadrų ir naudoja tą pačią raišką.",
   "settingCameraRtspFpsTitle": "Kadrų dažnis",
   "settingCameraRtspFpsDescription": "Tiksliniai vaizdo kadrai per sekundę. Judėjimas išlaiko atskirą analizės greitį. Tikrasis pristatymas priklauso nuo fotoaparato.",
   "settingCameraRtspBitrateTitle": "Bitų sparta",

@@ -7,5 +7,5 @@
   "voiceTimerCancel": "Atšaukti laikmatį",
   "voiceTimerActionError": "Nepavyko pakeisti laikmačio. Patikrinkite ryšį ir, jei reikia, atnaujinkite Voice Satellite.",
   "voiceTimerFinished": "Laikmatis baigtas",
-  "voiceTimerDismissHint": "Palieskite, kad atsisakytumėte laikmačio įspėjimo."
+  "voiceTimerDismissHint": "Palieskite, kad uždarytumėte laikmačio įspėjimą."
 }

@@ -3,7 +3,7 @@
   "settingMicCaptureModeTitle": "Užfiksavimo režimas",
   "settingMicCaptureModeDescription": "Pasirinkite Balso ryšys, kai mikrofonas čia nutyla arba sustoja, kai kioskas atkuria garsą. Kai kurie įrenginiai tinkamai įrašo tik skambučio garso takelį.",
   "settingMicSoftwareEchoCancellationTitle": "Aido panaikinimas",
-  "settingMicSoftwareEchoCancellationDescription": "Pašalina paties kiosko garsus iš mikrofono, kad pažadinimo žodis ir asistentas jų negirdėtų. Palikite jį įjungtą, nebent mikrofonas, kuris panaikina savo aidą, su juo skamba blogiau.",
+  "settingMicSoftwareEchoCancellationDescription": "Pašalina iš mikrofono paties kiosko garsus, kad jų negirdėtų pažadinimo žodžio atpažinimo variklis ir asistentas. Palikite įjungtą, nebent mikrofono nuosava aido slopinimo funkcija įjungus šią parinktį veikia prasčiau.",
   "settingMicNoiseSuppressionTitle": "Triukšmo slopinimas",
   "settingMicNoiseSuppressionDescription": "Pašalina šnypštimą iš mikrofono. Tai pakeičia tai, ką girdi pažadinimo žodis, todėl įjunkite jį, kad mikrofonas šnypštų.",
   "settingMicChannelTitle": "Mikrofono kanalas",

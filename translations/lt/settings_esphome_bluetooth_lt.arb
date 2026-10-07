@@ -9,7 +9,7 @@
   "settingBtproxyConnectionsTitle": "Leisti įrenginio jungtis",
   "settingBtproxyConnectionsDescription": "Home Assistant gali prisijungti prie Bluetooth įrenginių per šį tarpinį serverį.",
   "settingBtproxyMacLookupTitle": "Ieškokite įrenginių gamintojų internete",
-  "settingBtproxyMacLookupDescription": "Pavadina nežinomus netoliese esančius įrenginius pagal jų aparatinės įrangos adreso priešdėlį naudojant api.macvendors.com. Kiekvienam gamintojui vieną kartą siunčiamas tik 3 baitų gamintojo priešdėlis; nieko daugiau nepalieka įrenginio.",
+  "settingBtproxyMacLookupDescription": "Nežinomų netoliese esančių įrenginių gamintojas nustatomas pagal MAC adreso prefiksą naudojant api.macvendors.com. Kiekvieno gamintojo 3 baitų prefiksas siunčiamas tik vieną kartą; jokia kita informacija iš įrenginio nesiunčiama.",
   "settingBtproxyNearbySortTitle": "Rūšiuoti pagal",
   "settingBtproxyNearbySortDescription": "Žemiau esančių įrenginių sąrašo tvarka.",
   "settingBtproxyMinConnectRssiTitle": "Minimalus signalas jungtims",

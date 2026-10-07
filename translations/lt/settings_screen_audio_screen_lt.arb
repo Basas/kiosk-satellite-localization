@@ -26,5 +26,5 @@
   "screenAudioBrightnessPermissionRemote": "Be leidimo „Keisti sistemos nustatymus“, ryškumo pokyčiai tik pritemdo programą, o ne nustato tikrąjį skydelio ryškumą.",
   "screenAudioAlwaysOn": "Visada įjungtas ekranas",
   "screenAudioAlwaysOnClock": "Šis prietaisas palaiko pritemdytą laikrodį",
-  "screenAudioAlwaysOnHelp": "Išjungus ekraną įrenginys įjungiamas miego režimu, tačiau visada įjungtas ekranas vėl užsidega ir jokia programa negali jo sustabdyti. Išjunkite „Visada rodyti laiką ir informaciją“ Android nustatymų skiltyje Ekranas, šalia užrakinimo ekrano parinkčių; kai kurie ROM tai vadina visada įjungtu ekranu. Ekrano esybė Home Assistant liks nepasiekiamas, kol to nepadarysite."
+  "screenAudioAlwaysOnHelp": "Išjungus ekraną, įrenginys pereina į miego režimą, tačiau visada įjungto ekrano funkcija vėl įžiebia užrakinimo ekraną, ir jokia programa negali to sustabdyti. Android nustatymų skiltyje „Ekranas“, prie užrakinimo ekrano parinkčių, išjunkite „Visada rodyti laiką ir informaciją“. Kai kuriose Android versijose ši funkcija vadinama „Always-On Display“. Kol jos neišjungsite, Home Assistant ekrano esybė bus nepasiekiama."
 }

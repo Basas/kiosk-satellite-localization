@@ -9,5 +9,5 @@
   "aboutWebsite": "Svetainė",
   "aboutSourceCode": "Šaltinio kodas",
   "aboutLicense": "Licencija",
-  "aboutLicenseSummary": "Kiosk Satellite yra nemokama asmeniniam, nekomerciniam naudojimui. Ji licencijuota pagal CC BY-NC-ND 4.0: galite ją naudoti ir bendrinti, tačiau komercinis programos naudojimas ir pakeistų programų versijų platinimas neleidžiamas. Nepriklausomi papildiniai turi papildomą leidimą pagal PLUGIN-EXCEPTION.md."
+  "aboutLicenseSummary": "Kiosk Satellite galima nemokamai naudoti asmeniniais, nekomerciniais tikslais. Programa licencijuojama pagal CC BY-NC-ND 4.0: ją galima naudoti ir bendrinti, tačiau negalima naudoti komerciniais tikslais ar platinti pakeistų programos versijų. Nepriklausomiems papildiniams taikoma papildoma išimtis, aprašyta PLUGIN-EXCEPTION.md."
 }

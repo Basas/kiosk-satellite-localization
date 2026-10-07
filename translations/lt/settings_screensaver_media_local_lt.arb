@@ -11,7 +11,7 @@
   "settingScreensaverLocalTransitionTitle": "Perėjimas",
   "settingScreensaverLocalTransitionDescription": "Kaip viena nuotrauka perduodama kitai.",
   "settingScreensaverLocalFillTitle": "Užpildykite ekraną",
-  "settingScreensaverLocalFillDescription": "Išjungta, visa nuotrauka išlieka tarp juodų juostų. „Smart“ padidina arti ekrano suformuotas nuotraukas, likusias įrėmindama neryškiame fone. Visada padidina kiekvieną nuotrauką, nupjauna tai, kas netelpa.",
+  "settingScreensaverLocalFillDescription": "Išjungta: rodoma visa nuotrauka, o tuščios vietos užpildomos juodomis juostomis. Išmanusis režimas padidina nuotraukas, kurių kraštinių santykis panašus į ekrano, o likusį foną sulieja. Visada: nuotrauka didinama iki ekrano dydžio ir apkerpamos netelpančios dalys.",
   "settingScreensaverLocalEdgeTapsTitle": "Bakstelėkite kraštus, kad pakeistumėte skaidres",
   "settingScreensaverLocalEdgeTapsDescription": "Bakstelėjus kairėje arba dešinėje ekrano penktojoje pusėje, užuot atmetus, rodoma ankstesnė arba kita skaidrė.",
   "screensaverMediaLocalPage": "Vietinės medijos ekrano užsklanda",

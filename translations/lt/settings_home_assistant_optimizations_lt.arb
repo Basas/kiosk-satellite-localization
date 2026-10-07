@@ -7,7 +7,7 @@
   "settingWsFilterTitle": "Filtruoti prietaisų skydelio naujinius",
   "settingWsFilterDescription": "Apdorojami tik dabartiniame rodinyje esančių esybių atnaujinimai. Taip sumažinamas strigčiojimas lėtesniuose planšetiniuose kompiuteriuose. Rodiniai, kurių nepavyksta nustatyti, nefiltruojami.",
   "settingPauseDashboardCamerasTitle": "Ekrano užsklandos metu pristabdykite HA prietaisų skydelio kameros srautus",
-  "settingPauseDashboardCamerasDescription": "Pristabdo palaikomus nutildytų kamerų srautus Home Assistant prietaisų skydelyje, kol ekrano užsklanda jį dengia. Srautai vėl susijungia, kai jis užsidaro. Tai neturi įtakos įrenginio kamerai ar fotoaparato srautų funkcijai.",
+  "settingPauseDashboardCamerasDescription": "Pristabdo palaikomus nutildytų kamerų srautus Home Assistant prietaisų skydelyje, kai jį uždengia ekrano užsklanda. Užsklandą uždarius, srautai vėl prisijungia. Tai neturi įtakos įrenginio kamerai ar kameros srautų funkcijai.",
   "haOptimizations": "Optimizavimas",
   "haOptimizationsHint": "Fono jungtis, prietaisų skydelio ir fotoaparato pristabdymas, filtro atnaujinimas",
   "haScanUnavailable": "Dabartinio rodinio nuskaitymo informacija nepasiekiama.",

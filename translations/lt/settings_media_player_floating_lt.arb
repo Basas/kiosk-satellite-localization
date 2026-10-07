@@ -2,7 +2,7 @@
   "@@locale": "lt",
   "settingSendspinShowPlayerTitle": "Parodykite plaukiojantį grotuvą",
   "settingSendspinShowPlayerDescription": "Kol groja muzika, virš prietaisų skydelio parodykite nedidelį dabar grojamą langą su meno kūriniais, takelio informacija ir pažanga. Vilkite bet kur; pozicija įsimenama.",
-  "settingSendspinPlayerSizeTitle": "Žaidėjo dydis",
+  "settingSendspinPlayerSizeTitle": "Grotuvo dydis",
   "settingSendspinPlayerSizeDescription": "Kompaktiškas yra mažas, nepastebimas dabar grojantis langas. Didelis prideda ankstesnio, paleidimo/pauzės ir kito mygtukus, pritaikytus palietimui, valdydami visą atkūrimo grupę.",
   "settingSendspinPausedHideMinutesTitle": "Paslėpti pristabdytą grotuvą po to",
   "settingSendspinPausedHideMinutesDescription": "Kiek laiko pristabdytas grotuvas lieka ekrane. Taikoma slankiajam grotuvui ir rodiniui „Dabar grojama“.",
@@ -10,7 +10,7 @@
   "settingSendspinDismissKeepsPlayingDescription": "Numetus plaukiojantį grotuvą, jis paslepiamas nestabdant muzikos.",
   "settingSendspinPlayerShortcutTitle": "Rodyti kiosko meniu",
   "settingSendspinPlayerShortcutDescription": "Pridėkite įrašą į kiosko meniu, kuriame rodomas arba paslepiamas slankusis grotuvas. ĮSPĖJIMAS: jei niekas negroja arba prie šio grotuvo nėra eilės, jis nebus rodomas.",
-  "mediaFloatingPage": "Plaukiojantis žaidėjas",
+  "mediaFloatingPage": "Slankusis grotuvas",
   "mediaFloatingHint": "Maža kortelė virš prietaisų skydelio",
   "mediaCompact": "Kompaktiškas",
   "mediaLargeControls": "Didelis su valdikliais"

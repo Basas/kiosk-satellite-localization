@@ -23,7 +23,7 @@
   "settingScreensaverScreenOffMinutesTitle": "Po to išjunkite ekraną",
   "settingScreensaverScreenOffMinutesDescription": "Išjungia ekrano skydelį, kai ekrano užsklanda veikia nustatytą trukmę. Nustatykite 0, kad ekranas būtų įjungtas neribotą laiką. Reikalingas įrenginio administratoriaus leidimas.",
   "settingScreensaverScreenOffWakeToScreensaverTitle": "Pabusti į ekrano užsklandą",
-  "settingScreensaverScreenOffWakeToScreensaverDescription": "Judesio, veido, artumo ar asmens aptikimas po ekrano išjungimo grąžina ekrano užsklandą, o ne prietaisų skydelį su nauju Išjungti ekraną po atvirkštinės atskaitos. Palietus vis tiek atidaromas prietaisų skydelis.",
+  "settingScreensaverScreenOffWakeToScreensaverDescription": "Kai ekranas išsijungia, judesio, veido, artumo ar asmens aptikimas vėl parodo ekrano užsklandą, o ne prietaisų skydelį, ir iš naujo paleidžia ekrano išjungimo laikmatį. Palietus ekraną vis tiek atidaromas prietaisų skydelis.",
   "screensaverModeDim": "Pritemdyti",
   "screensaverModeBlack": "Juoda",
   "screensaverModeClock": "Laikrodis",

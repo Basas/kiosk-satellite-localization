@@ -4,7 +4,7 @@
   "gestureOpenTester": "Atidarykite testerį",
   "gestureCameraFirst": "Pirmiausia įjunkite fotoaparatą kameros nustatymuose.",
   "gestureTesterHelp": "Stebėkite, kuriuos pirštus skaito fotoaparatas, kad sužinotumėte, kaip laikyti ranką.",
-  "gestureHandHelp": "Laikykite ranką aukštyn pečių aukštyje, delnu į fotoaparatą, pirštus išskleiskite. Sulenkite pirštą iki galo, kad numestumėte jį nuo skaičiavimo. Patraukite nykštį per delną, kad parodytumėte keturis: nykštis skaičiuojamas tik esant atvirai rankai.",
+  "gestureHandHelp": "Pakelkite ranką iki pečių aukščio, delnu į kamerą ir išskėstais pirštais. Visiškai sulenkite pirštą, kad jis nebebūtų įskaičiuojamas. Užlenkite nykštį per delną, kad parodytumėte keturis pirštus; nykštys įskaičiuojamas tik atvėrus plaštaką.",
   "gestureTesterPaused": "Gestai nesuveikia, kai testeris atidarytas.",
   "gestureShowHand": "Parodykite ranką į fotoaparatą.",
   "gestureTesterTrigger": "Trigeriai: {action}",

@@ -19,7 +19,7 @@
   "voiceTurnOnEsphome": "Įjunkite ESPHome",
   "voiceMigrationPlan": "Perneštini nustatymai",
   "voiceGroupVoice": "Balsas",
-  "voiceMigrationNotCarried": "Neperkelta: tinkintas CSS, naršyklės mikrofono apdorojimas ir pokalbių atminties ilgis. Pasirinktiniai microWakeWord modeliai veikia pagal Home Assistant config/custom_wake_words.",
+  "voiceMigrationNotCarried": "Neperkeliama: tinkintas CSS, naršyklės mikrofono apdorojimas ir pokalbio atminties trukmė. Pasirinktiniai microWakeWord modeliai turi būti Home Assistant aplanke config/custom_wake_words.",
   "voiceMigrationAutomations": "Automatika ir scenarijai",
   "voiceMigrationNoAutomations": "Home Assistant nieko nerodo į senąjį palydovą.",
   "voiceKindAutomation": "Automatika",

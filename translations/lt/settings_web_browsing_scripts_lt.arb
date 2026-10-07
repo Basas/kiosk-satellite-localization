@@ -3,7 +3,7 @@
   "settingBrowserInjectJsTitle": "Įveskite „JavaScript“ į HA prietaisų skydelį",
   "settingBrowserInjectJsDescription": "Paleiskite šį „JavaScript“ kodą kiekvieną kartą įkeldami prietaisų skydelio puslapį. Naudinga paslėpti dėmesį blaškančius elementus arba pakoreguoti prietaisų skydelį, kurio nevaldote.",
   "settingBrowserInjectJsExternalTitle": "Įveskite JavaScript išoriniuose puslapiuose",
-  "settingBrowserInjectJsExternalDescription": "Įkėlę kiekvieną išorinį puslapį paleiskite šį „JavaScript“ kodą: puslapius, atidarytus naudojant prietaisų skydelio nuorodą, prietaisų skydelio pasukimo puslapius ir svetainės ekrano užsklandą. Music Assistant puslapis paliekamas vienas.",
+  "settingBrowserInjectJsExternalDescription": "Įkėlus kiekvieną išorinį puslapį, vykdomas šis JavaScript kodas: puslapiuose, atidarytuose iš prietaisų skydelio nuorodų, rodinių kaitos puslapiuose ir svetainės ekrano užsklandoje. Music Assistant puslapyje kodas nevykdomas.",
   "browserInjectJsPlaceholder": "// Pavyzdys: paslėpti dėmesį blaškantį elementą\ndocument.querySelector('#banner').style.display = 'nėra';",
   "browserInjectJsExternalPlaceholder": "// Pavyzdys: padidinkite svetainės mastelį, kuri nepaiso prietaisų skydelio mastelio keitimo lygio\ndocument.documentElement.style.zoom = '1,25';"
 }

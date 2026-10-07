@@ -1,13 +1,13 @@
 {
   "@@locale": "lt",
   "settingScreensaverDismissOnProximityTitle": "Atleisti dėl artumo",
-  "settingScreensaverDismissOnProximityDescription": "Stebėkite artumo jutiklį, kai įjungta ekrano užsklanda, ir pažadinkite ekraną, kai kažkas priartėja prie įrenginio. Įrenginys, turintis tik skambučiams skirtus jutiklius („delnas“, „lietimas“), neveiks.",
+  "settingScreensaverDismissOnProximityDescription": "Stebi artumo jutiklį, kai ekrano užsklanda įjungta, ir pažadina ekraną, kai kažkas priartėja prie įrenginio. Įrenginiai, turintys tik skambučiams skirtus „delno“ ar lietimo jutiklius, neveiks.",
   "settingScreensaverDismissOnProximityScreenOffOnlyTitle": "Tik kai ekranas išjungtas",
-  "settingScreensaverDismissOnProximityScreenOffOnlyDescription": "Laikykite ekrano užsklandą matomą, kai kažkas artėja, kai ekranas įjungtas. Kai ekranas išsijungia, aptikimas pažadina prietaisų skydelį. Palietus vis tiek atsisako ekrano užsklandos.",
+  "settingScreensaverDismissOnProximityScreenOffOnlyDescription": "Ekranui esant įjungtam, kažkam priartėjus ekrano užsklanda lieka matoma. Ekranui išsijungus, aptikimas pažadina prietaisų skydelį. Palietus ekraną užsklanda vis tiek uždaroma.",
   "settingScreensaverPostponeOnProximityTitle": "Atidėti ekrano užsklandą artėjant",
   "settingScreensaverPostponeOnProximityDescription": "Uždelskite ekrano užsklandos aktyvavimą, kai kažkas yra arti jutiklio.",
   "screensaverDetectionProximityPage": "Artumo aptikimas",
-  "screensaverDetectionProximityHint": "Atsisakykite arba atidėkite artumo jutiklio ekrano užsklandą",
+  "screensaverDetectionProximityHint": "Uždaryti arba atidėti ekrano užsklandą pagal artumo jutiklio duomenis.",
   "screensaverDetectionNoProximity": "Šiame įrenginyje nėra: jame nėra artumo jutiklio.",
   "screensaverDetectionSensor": "Jutiklis",
   "screensaverDetectionSensorHelp": "Ką prietaisas praneša kaip artumo jutiklį. Jutiklis, sukurtas skambučiams, pavadintiems „delnu“ arba „lietimu“, neveiks."

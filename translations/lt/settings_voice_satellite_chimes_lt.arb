@@ -12,7 +12,7 @@
   "voiceChimeErrorTitle": "Klaidos garsas",
   "voiceChimeErrorDescription": "Leidžiama, kai nepavyksta sąveika balsu.",
   "voiceChimeTimerTitle": "Laikmačio garsas",
-  "voiceChimeTimerDescription": "Kartojasi, kai baigiasi laikmatis, kol jo atsisakysite.",
+  "voiceChimeTimerDescription": "Signalas kartojasi pasibaigus laikmačiui, kol jį sustabdote.",
   "voiceChimeAnnounceTitle": "Pranešimo garsas",
   "voiceChimeAnnounceDescription": "Leidžiama prieš Voice Satellite pranešimą, nebent jis pateikia savo garsą.",
   "settingVoiceWakeSoundTitle": "Groti varpeliais",

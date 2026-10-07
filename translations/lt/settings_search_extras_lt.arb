@@ -1,7 +1,7 @@
 {
   "@@locale": "lt",
   "searchInstallApk": "Įkelkite Kiosk Satellite APK per nuotolinį administratorių ir įdiekite jį.",
-  "searchPermissionsHelp": "Programa gali naudoti kiekvieną Android suteiktą būseną: mikrofoną, fotoaparatą, pranešimus, neribotą bateriją, rodyti virš kitų programų, keisti sistemos nustatymus, sistemos vartotojo sąsajos apsaugą, įrenginio administratorių, prieigą prie visų failų, naudojimo prieigą ir vietą.",
+  "searchPermissionsHelp": "Visi programai prieinami Android leidimai ir jų būsena: prieiga prie mikrofono, kameros ir pranešimų, neribotas akumuliatoriaus naudojimas, rodymas virš kitų programų, sistemos nustatymų keitimas, sistemos sąsajos apsauga, įrenginio administratoriaus teisės, prieiga prie visų failų, naudojimo duomenų prieiga ir vieta.",
   "searchServiceStatus": "Paslaugos būsena",
   "searchServiceHelp": "Ar Kiosk Satellite paslauga veikia ir ką ji palaiko.",
   "searchServicePermissions": "Leidimai, reikalingi Kiosk Satellite paslaugai.",

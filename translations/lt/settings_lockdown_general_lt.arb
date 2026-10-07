@@ -7,10 +7,10 @@
   "settingLockdownBlackoutTitle": "Užtemdantis ekranas",
   "settingLockdownBlackoutDescription": "Kai užrakintas, ekranas tampa juodas.",
   "settingLockdownAllowScreensaverTitle": "Leisti ekrano užsklandą",
-  "settingLockdownAllowScreensaverDescription": "Leidžia veikti ekrano užsklandai, kai ji užrakinta. Atsisakyti judant lieka išjungta, kol užraktas pakyla.",
+  "settingLockdownAllowScreensaverDescription": "Leidžia ekrano užsklandai veikti, kai ekranas užrakintas. Judesiu uždarymas lieka išjungtas, kol ekranas atrakinamas.",
   "settingLockdownExitGestureTitle": "Užrakinimo išėjimo gestas",
-  "settingLockdownExitGestureDescription": "Greitai bakstelėjus bet kur, išjungiamas užrakinimo režimas po kiosko PIN kodo, jei jis nustatytas. Laikydami variantus reikia paspausti paskutinį kartą. Kai išjungta, jį gali išjungti tik nuotolinis administratorius arba Home Assistant.",
+  "settingLockdownExitGestureDescription": "Greitai kelis kartus palietus bet kurią ekrano vietą, užrakinimo režimas išjungiamas; jei nustatytas, reikės įvesti kiosko PIN kodą. Laikymo variantuose paskutinį palietimą reikia palaikyti nuspaudus. Išjungus šią funkciją, užrakinimo režimą gali išjungti tik nuotolinio administravimo sąsaja arba Home Assistant.",
   "lockdownGestureNone": "Išjungta (tik nuotoliniu būdu)",
-  "lockdownExplanation": "Užrakinimo režimas padaro prietaisų skydelį neinteraktyvų, įjungia kiekvieno kiosko režimo apsaugą nekeičiant kiosko režimo nustatymų ir nutildo pažadinimo žodžių aptikimą, kai jis įjungtas. Įjungus sistemos vartotojo sąsajos apsaugą (aukščiau), pranešimų skydelis ir naujausi pranešimai taip pat blokuojami. Home Assistant gauna užrakinimo režimo jungiklį per ESPHome.",
+  "lockdownExplanation": "Užrakinimo režimas padaro prietaisų skydelį neinteraktyvų, įjungia visas kiosko režimo apsaugas nepakeisdamas jo nustatymų ir išjungia pažadinimo žodžio aptikimą, kol režimas aktyvus. Įjungus sistemos sąsajos apsaugą (aukščiau), blokuojamas ir pranešimų skydelis, ir naujausių programų sąrašas. Home Assistant per ESPHome gauna užrakinimo režimo jungiklį.",
   "lockdownSearch": "Tik nuotoliniu būdu valdoma jutiklinė apsauga. Ją nustatykite Nuotolinio administravimo sąsajoje; reikalingus leidimus rasite skiltyje „Reikalingi sistemos leidimai“."
 }

@@ -11,7 +11,7 @@
   "settingScreensaverMediaTransitionTitle": "Perėjimas",
   "settingScreensaverMediaTransitionDescription": "Kaip vienas daiktas perduodamas kitam.",
   "settingScreensaverMediaFillTitle": "Užpildykite ekraną",
-  "settingScreensaverMediaFillDescription": "Išjungta, visa nuotrauka išlieka tarp juodų juostų. „Smart“ padidina arti ekrano suformuotas nuotraukas, likusias įrėmindama neryškiame fone. Visada padidina kiekvieną nuotrauką, nupjauna tai, kas netelpa.",
+  "settingScreensaverMediaFillDescription": "Išjungta: rodoma visa nuotrauka, o tuščios vietos užpildomos juodomis juostomis. Išmanusis režimas padidina nuotraukas, kurių kraštinių santykis panašus į ekrano, o likusį foną sulieja. Visada: nuotrauka didinama iki ekrano dydžio ir apkerpamos netelpančios dalys.",
   "settingScreensaverMediaEdgeTapsTitle": "Bakstelėkite kraštus, kad pakeistumėte skaidres",
   "settingScreensaverMediaEdgeTapsDescription": "Bakstelėjus kairėje arba dešinėje ekrano penktojoje pusėje, užuot atmetus, rodoma ankstesnė arba kita skaidrė.",
   "screensaverMediaHaPage": "Home Assistant Media ekrano užsklanda",

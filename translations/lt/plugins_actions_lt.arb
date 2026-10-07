@@ -1,10 +1,10 @@
 {
   "@@locale": "lt",
   "pluginActions": "Veiksmai",
-  "pluginKioskDrawer": "Kiosko stalčius",
+  "pluginKioskDrawer": "Kiosko šoninis meniu",
   "pluginToAssignAGestureOpenGesturesAndChooseRun": "Norėdami priskirti gestą, atidarykite Gestures ir pasirinkite Vykdyti papildinio veiksmą.",
-  "pluginShowInKioskDrawer": "Rodyti kiosko stalčiuje",
-  "pluginAlsoAvailableWhileLockedIfTheKioskDrawerIs": "Taip pat pasiekiama užrakinus, jei leidžiama naudoti kiosko stalčių.",
+  "pluginShowInKioskDrawer": "Rodyti kiosko šoniniame meniu",
+  "pluginAlsoAvailableWhileLockedIfTheKioskDrawerIs": "Taip pat pasiekiama užrakinus ekraną, jei leidžiama rodyti kiosko šoninį meniu.",
   "pluginExposeToHomeAssistant": "Padaryti prieinamą Home Assistant",
   "pluginAddsAButtonToTheKioskEsphomeDeviceRequires": "Prideda mygtuką prie kiosko ESPHome įrenginio. Reikia ESPHome ir vietinių esybių.",
   "pluginSelectAnEntity": "Pasirinkite esybę",

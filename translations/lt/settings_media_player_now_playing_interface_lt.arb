@@ -8,7 +8,7 @@
   "settingSendspinFullscreenButtonScaleDescription": "Atkūrimo mygtukų ir eigos juostos dydis, nepriklausomas nuo teksto dydžio. Taikoma abiejuose išdėstymuose ir kartu su ekrano užsklanda. Valdikliai tinka grotuve turimai vietai.",
   "settingSendspinFullscreenHorizontalTitle": "Horizontalus režimas",
   "settingSendspinFullscreenHorizontalDescription": "Viršelis ir valdikliai padalijami į dvi vienodo pločio dalis. Atvėrus dainų žodžius arba eilę, įrašo informacija rodoma po viršeliu. Netaikoma, kai rodinys „Dabar grojama“ rodomas šalia ekrano užsklandos.",
-  "settingSendspinFullscreenDoubleTapTitle": "Dukart palieskite, kad atsisakytumėte",
+  "settingSendspinFullscreenDoubleTapTitle": "Dukart palieskite, kad uždarytumėte",
   "settingSendspinFullscreenDoubleTapDescription": "Dukart palietus bet kurią rodinio „Dabar grojama“ vietą, jis uždaromas. Uždarymo mygtukas nerodomas. Netaikoma, kai rodinys „Dabar grojama“ rodomas šalia ekrano užsklandos.",
   "settingSendspinFullscreenOnPlayTitle": "Pradėjus groti muzikai, atidaryti rodinį „Dabar grojama“",
   "settingSendspinFullscreenOnPlayDescription": "Atidaryti rodinį „Dabar grojama“ vos prasidėjus atkūrimui, nelaukiant, kol baigsis ekrano užsklandos delsos laikas.",

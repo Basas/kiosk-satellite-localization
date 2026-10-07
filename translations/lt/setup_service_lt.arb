@@ -1,6 +1,6 @@
 {
   "@@locale": "lt",
-  "setupServiceHelp": "Palaiko programą veikiančią, kol ekranas išjungtas arba kita programa yra priekyje, todėl Home Assistant ryšys ir kitos funkcijos, pvz., judesio aptikimas ir Bluetooth tarpinis serveris, išlieka gyvi. Toliau pateikti leidimai yra neprivalomi, bet rekomenduojami: kiekvienas iš jų padeda išgyventi išjungus ekraną.",
+  "setupServiceHelp": "Išlaiko programą veikiančią, kai ekranas išjungtas arba kita programa rodoma pirmame plane. Taip palaikomas ryšys su Home Assistant ir veikia tokios funkcijos kaip judesio aptikimas bei Bluetooth tarpinis serveris. Toliau nurodyti leidimai neprivalomi, bet rekomenduojami: kiekvienas padeda programai veikti, kai ekranas išjungtas.",
   "setupBatteryMissing": "Kai ekranas išjungtas, Android gali pristabdyti programą ir nutraukti Home Assistant ryšį su ja.",
   "setupOverlayMissing": "Be to paslauga negali iš naujo paleisti kiosko po gedimo."
 }

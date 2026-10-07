@@ -4,7 +4,7 @@
   "voiceValidate": "Pirmiausia patvirtinkite ryšį pagal Home Assistant sąranką.",
   "voiceChecking": "Tikrinama, ar yra Voice Satellite…",
   "voiceMissing": "Voice Satellite neįdiegtas Home Assistant",
-  "voiceInstallHelp": "Voice Satellite paverčia šį kioską visu Home Assistant laisvų rankų balso asistentu: pažadinkite žodį, pokalbius, laikmačius ir pranešimus tiesiai prietaisų skydelyje.\n\nJį galima rasti numatytojoje HACS saugykloje. Įdiekite jį savo Home Assistant egzemplioriuje, tada grįžkite čia.",
+  "voiceInstallHelp": "Voice Satellite paverčia šį kioską visaverčiu laisvų rankų balso asistentu, skirtu Home Assistant: prietaisų skydelyje veikia pažadinimo žodžio atpažinimas, pokalbiai, laikmačiai ir pranešimai balsu.\n\nIntegracija pasiekiama numatytojoje HACS saugykloje. Įdiekite ją savo Home Assistant aplinkoje, tada grįžkite čia.",
   "voiceLearnMore": "Sužinokite daugiau apie",
   "voiceGithub": "Voice Satellite Github",
   "voiceHacs": "Atidarykite HACS saugyklą",
